@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generatedAt": "2026-05-15T13:09:05.994Z",
+  "generatedAt": "2026-05-15T13:11:28.564Z",
   "source": "/home/runner/work/dandom-market-stats/dandom-market-stats/strona-dan-dom/asari-export",
   "offerCount": 53,
   "offers": [
@@ -725,25 +725,6 @@
       "listedAt": "2026-03-11",
       "lastModifiedAt": "2026-03-12",
       "firstSeenAt": "2026-03-24"
-    },
-    {
-      "signature": "234/6093/OGS",
-      "title": "Działka budowlana- Rogoźno",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "status": "AKTUALNA",
-      "city": "ROGOŹNO",
-      "district": "Leśna",
-      "locationLabel": "Leśna, ROGOŹNO",
-      "pricePln": 129000,
-      "pricePerM2": 160,
-      "areaM2": 808,
-      "rooms": null,
-      "floor": null,
-      "agentName": "Danuta Majchrzak",
-      "listedAt": "2026-03-16",
-      "lastModifiedAt": "2026-04-20",
-      "firstSeenAt": "2026-04-02"
     },
     {
       "signature": "301/6093/ODS",
