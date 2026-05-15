@@ -91,10 +91,11 @@ const html = `<!DOCTYPE html>
       <canvas id="price-per-m2-chart"></canvas>
     </div>
     <div class="bg-white rounded-2xl shadow-sm p-6">
-      <h2 class="text-lg font-semibold mb-4">Najdłużej na rynku (top 10)</h2>
+      <h2 class="text-lg font-semibold mb-1">Najdłużej na rynku (top 10)</h2>
+      <p class="text-xs text-stone-500 mb-4">Liczone od rzeczywistej daty wprowadzenia w Asari (param 5).</p>
       <table class="w-full text-sm">
         <thead class="text-stone-500 text-left border-b">
-          <tr><th class="pb-2">Oferta</th><th class="pb-2">Miasto</th><th class="pb-2 text-right">Cena</th><th class="pb-2 text-right">Dni</th></tr>
+          <tr><th class="pb-2">Oferta</th><th class="pb-2">Wprowadzona</th><th class="pb-2 text-right">Cena</th><th class="pb-2 text-right">Dni</th></tr>
         </thead>
         <tbody id="tom-table"></tbody>
       </table>
@@ -202,10 +203,10 @@ new Chart(document.getElementById("price-per-m2-chart"), {
 
 document.getElementById("tom-table").innerHTML = A.timeOnMarket.slice(0, 10).map(t => \`
   <tr class="border-b last:border-0">
-    <td class="py-2">\${t.title}</td>
-    <td class="py-2">\${t.city}</td>
+    <td class="py-2 max-w-xs truncate">\${t.title}</td>
+    <td class="py-2 text-stone-500 text-xs">\${t.listedAt ?? t.firstSeenAt ?? "—"}</td>
     <td class="py-2 text-right">\${fmtPLN(t.pricePln)}</td>
-    <td class="py-2 text-right font-semibold">\${t.daysOnMarket ?? "—"}</td>
+    <td class="py-2 text-right font-semibold \${t.daysOnMarket > 365 ? "text-red-700" : t.daysOnMarket > 180 ? "text-amber-600" : ""}">\${t.daysOnMarket ?? "—"}</td>
   </tr>
 \`).join("");
 

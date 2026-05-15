@@ -9,6 +9,7 @@
       "title": "DZIAŁKA · GARBATKA",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "GARBATKA",
       "district": "",
       "locationLabel": "GARBATKA",
@@ -18,7 +19,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2021-10-29",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -26,6 +28,7 @@
       "title": "Dom rekreacyjny Nienawiszcz niedaleko jezioro",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "NIENAWISZCZ",
       "district": "Przepadek",
       "locationLabel": "Przepadek, NIENAWISZCZ",
@@ -35,7 +38,8 @@
       "rooms": 3,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2023-07-05",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -43,6 +47,7 @@
       "title": "Rezydencja nad jeziorem",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "DŁUGA GOŚLINA",
       "district": "",
       "locationLabel": "DŁUGA GOŚLINA",
@@ -52,7 +57,8 @@
       "rooms": 7,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2024-08-28",
+      "lastModifiedAt": "2026-03-05",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -60,6 +66,7 @@
       "title": "Nowe mieszkania 3 pokoje, Kcynia ul. Młyńska",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "KCYNIA",
       "district": "Młyńska",
       "locationLabel": "Młyńska, KCYNIA",
@@ -69,7 +76,8 @@
       "rooms": 3,
       "floor": 1,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2024-09-26",
+      "lastModifiedAt": "2026-04-16",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -77,6 +85,7 @@
       "title": "Działka budowlana w Runowie, gmina Wągrowiec",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "RUNOWO",
       "district": "",
       "locationLabel": "RUNOWO",
@@ -86,7 +95,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2024-11-05",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -94,6 +104,7 @@
       "title": "Działka budowlana w Grylewie",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "GRYLEWO",
       "district": "",
       "locationLabel": "GRYLEWO",
@@ -103,7 +114,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-01-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -111,6 +123,7 @@
       "title": "Działka pod zabudowę mieszkaniową dwulokalową",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ŁAZISKA",
       "district": "",
       "locationLabel": "ŁAZISKA",
@@ -120,7 +133,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-03-17",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -128,6 +142,7 @@
       "title": "Ostatnia działka przy ul. Boguniewskiej.",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Boguniewska",
       "locationLabel": "Boguniewska, ROGOŹNO",
@@ -137,7 +152,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-03-28",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -145,6 +161,7 @@
       "title": "Na sprzedaż działki przy lesie - Tarnowo, Rogoźno",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "TARNOWO",
       "district": "",
       "locationLabel": "TARNOWO",
@@ -154,7 +171,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-04-22",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -162,6 +180,7 @@
       "title": "Działka nad jeziorem z pięknym widokiem na wodę",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "KALISKA",
       "district": "",
       "locationLabel": "KALISKA",
@@ -171,7 +190,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-05-21",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -179,6 +199,7 @@
       "title": "Działka w Zbietce gmina Mieścisko",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ZBIETKA",
       "district": "",
       "locationLabel": "ZBIETKA",
@@ -188,7 +209,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-05-21",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -196,6 +218,7 @@
       "title": "Atrakcyjna działka dookoła natura - las jezioro",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "BOGUNIEWO",
       "district": "",
       "locationLabel": "BOGUNIEWO",
@@ -205,7 +228,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-05-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -213,6 +237,7 @@
       "title": "Dom jednorodzinny w Rogoźnie",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Reja",
       "locationLabel": "Reja, ROGOŹNO",
@@ -222,7 +247,8 @@
       "rooms": 5,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-07-03",
+      "lastModifiedAt": "2026-04-28",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -230,6 +256,7 @@
       "title": "Oaza spokoju - działka z drzewami w Łaziskach",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ŁAZISKA",
       "district": "",
       "locationLabel": "ŁAZISKA",
@@ -239,7 +266,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-07-17",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -247,6 +275,7 @@
       "title": "Mieszkanie 2 pokojowe Jeżyka Wągrowiec",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "Jeżyka",
       "locationLabel": "Jeżyka, WĄGROWIEC",
@@ -256,7 +285,8 @@
       "rooms": 2,
       "floor": 4,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-08-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -264,6 +294,7 @@
       "title": "Działka budowlana - piękne położenie Bolechówko",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "BOLECHÓWKO",
       "district": "Kręta",
       "locationLabel": "Kręta, BOLECHÓWKO",
@@ -273,7 +304,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-08-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -281,6 +313,7 @@
       "title": "Działka z możliwością zabudowy jednorodzinnej",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "BRZEŹNO STARE",
       "district": "",
       "locationLabel": "BRZEŹNO STARE",
@@ -290,7 +323,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-09-26",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -298,6 +332,7 @@
       "title": "Bezczynszowe 2 pokoje z aneksem Wegnera Wągrowiec",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "Ignacego Wegnera",
       "locationLabel": "Ignacego Wegnera, WĄGROWIEC",
@@ -307,7 +342,8 @@
       "rooms": 2,
       "floor": 3,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-09-29",
+      "lastModifiedAt": "2026-04-13",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -315,6 +351,7 @@
       "title": "Stylowe mieszkanie po remoncie",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Plac Powstańców Wielkopolskich",
       "locationLabel": "Plac Powstańców Wielkopolskich, ROGOŹNO",
@@ -324,7 +361,8 @@
       "rooms": 5,
       "floor": 2,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-10-01",
+      "lastModifiedAt": "2026-05-14",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -332,6 +370,7 @@
       "title": "Piękna duża działka pod zabudowę Brzeźno Stare",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "BRZEŹNO STARE",
       "district": "",
       "locationLabel": "BRZEŹNO STARE",
@@ -341,7 +380,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-10-03",
+      "lastModifiedAt": "2026-04-10",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -349,6 +389,7 @@
       "title": "Poranna kawa na własnym tarasie, 3 pokoje czekają!",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "Stanisława Mikołajczyka",
       "locationLabel": "Stanisława Mikołajczyka, WĄGROWIEC",
@@ -358,7 +399,8 @@
       "rooms": 3,
       "floor": 0,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-10-21",
+      "lastModifiedAt": "2026-04-08",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -366,6 +408,7 @@
       "title": "Działka na terenach inwestycyjnych m. Rogoźno",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "GARBATKA",
       "district": "",
       "locationLabel": "GARBATKA",
@@ -375,7 +418,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-10-22",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -383,6 +427,7 @@
       "title": "Przestronny dom pod miastem - cisza i wygoda",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ŁAZISKA",
       "district": "",
       "locationLabel": "ŁAZISKA",
@@ -392,7 +437,8 @@
       "rooms": 6,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-10-24",
+      "lastModifiedAt": "2026-05-12",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -400,6 +446,7 @@
       "title": "Twoje miejsce na wypoczynek - jezioro i piękny las",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "OKONINY NADJEZIORNE",
       "district": "",
       "locationLabel": "OKONINY NADJEZIORNE",
@@ -409,7 +456,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-11-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -417,6 +465,7 @@
       "title": "Dom przy lesie",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "DZIEWCZA STRUGA",
       "district": "",
       "locationLabel": "DZIEWCZA STRUGA",
@@ -426,7 +475,8 @@
       "rooms": 3,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2025-12-04",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -434,6 +484,7 @@
       "title": "Przytulne 4 pokoje na parterze – Żelice",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ŻELICE",
       "district": "",
       "locationLabel": "ŻELICE",
@@ -443,7 +494,8 @@
       "rooms": 4,
       "floor": 0,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-01-08",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -451,6 +503,7 @@
       "title": "DOM · ROGOŹNO",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Wielka Poznańska",
       "locationLabel": "Wielka Poznańska, ROGOŹNO",
@@ -460,7 +513,8 @@
       "rooms": 5,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-01-12",
+      "lastModifiedAt": "2026-03-06",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -468,6 +522,7 @@
       "title": "Działka pod zabudowę Wągrowiec ul. Wierzbowa",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "Wierzbowa",
       "locationLabel": "Wierzbowa, WĄGROWIEC",
@@ -477,7 +532,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-01-14",
+      "lastModifiedAt": "2026-03-03",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -485,6 +541,7 @@
       "title": "Nowoczesny dom jednorodzinny z garażem",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "GARBATKA",
       "district": "",
       "locationLabel": "GARBATKA",
@@ -494,7 +551,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-01-20",
+      "lastModifiedAt": "2026-03-25",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -502,6 +560,7 @@
       "title": "Duża działka budowlana",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "STUDZIENIEC",
       "district": "",
       "locationLabel": "STUDZIENIEC",
@@ -511,7 +570,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-02-06",
+      "lastModifiedAt": "2026-04-08",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -519,6 +579,7 @@
       "title": "Mieszkanie na parterze z balkonem",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Wojska Polskiego",
       "locationLabel": "Wojska Polskiego, ROGOŹNO",
@@ -528,7 +589,8 @@
       "rooms": 2,
       "floor": 0,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-02-10",
+      "lastModifiedAt": "2026-04-22",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -536,6 +598,7 @@
       "title": "Dom w Tarnowie",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "TARNOWO",
       "district": "",
       "locationLabel": "TARNOWO",
@@ -545,7 +608,8 @@
       "rooms": 5,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-02-19",
+      "lastModifiedAt": "2026-05-04",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -553,6 +617,7 @@
       "title": "Mieszkanie w bloku na parterze",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Osiedle Przemysława II",
       "locationLabel": "Osiedle Przemysława II, ROGOŹNO",
@@ -562,7 +627,8 @@
       "rooms": 2,
       "floor": 0,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-02-26",
+      "lastModifiedAt": "2026-03-24",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -570,6 +636,7 @@
       "title": "Dom w bliskiej okolicy jeziora Wągrowiec",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "",
       "locationLabel": "WĄGROWIEC",
@@ -579,7 +646,8 @@
       "rooms": 5,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-03-03",
+      "lastModifiedAt": "2026-04-13",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -587,6 +655,7 @@
       "title": "Piętrowy dom w Mieścisku na spokojnym osiedlu",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "MIEŚCISKO",
       "district": "Zawadzkiego",
       "locationLabel": "Zawadzkiego, MIEŚCISKO",
@@ -596,7 +665,8 @@
       "rooms": 6,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-03-05",
+      "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -604,6 +674,7 @@
       "title": "MIESZKANIE · ROGOŹNO",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Wielka Poznańska",
       "locationLabel": "Wielka Poznańska, ROGOŹNO",
@@ -613,7 +684,8 @@
       "rooms": 2,
       "floor": 1,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-03-10",
+      "lastModifiedAt": "2026-03-10",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -621,6 +693,7 @@
       "title": "Zakład usługowo- produkcyjny",
       "category": "OBIEKT",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "",
       "locationLabel": "ROGOŹNO",
@@ -630,7 +703,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-03-11",
+      "lastModifiedAt": "2026-04-22",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -638,6 +712,7 @@
       "title": "Piękna działka Wiatrowo Las z pozwoleniem",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WIATROWO",
       "district": "",
       "locationLabel": "WIATROWO",
@@ -647,14 +722,35 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-03-11",
+      "lastModifiedAt": "2026-03-12",
       "firstSeenAt": "2026-03-24"
+    },
+    {
+      "signature": "234/6093/OGS",
+      "title": "Działka budowlana- Rogoźno",
+      "category": "DZIAŁKA",
+      "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
+      "city": "ROGOŹNO",
+      "district": "Leśna",
+      "locationLabel": "Leśna, ROGOŹNO",
+      "pricePln": 129000,
+      "pricePerM2": 160,
+      "areaM2": 808,
+      "rooms": null,
+      "floor": null,
+      "agentName": "Danuta Majchrzak",
+      "listedAt": "2026-03-16",
+      "lastModifiedAt": "2026-04-20",
+      "firstSeenAt": "2026-04-02"
     },
     {
       "signature": "301/6093/ODS",
       "title": "DOM · KOBYLEC",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "KOBYLEC",
       "district": "",
       "locationLabel": "KOBYLEC",
@@ -664,7 +760,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-03-30",
+      "lastModifiedAt": "2026-05-05",
       "firstSeenAt": "2026-04-01"
     },
     {
@@ -672,6 +769,7 @@
       "title": "2 pokoje na II piętrze w bezczynszowym bloku",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "Straszewska",
       "locationLabel": "Straszewska, WĄGROWIEC",
@@ -681,7 +779,8 @@
       "rooms": 2,
       "floor": 2,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-02",
+      "lastModifiedAt": "2026-04-07",
       "firstSeenAt": "2026-04-07"
     },
     {
@@ -689,6 +788,7 @@
       "title": "Działka budowlana- Nienawiszcz",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "NIENAWISZCZ",
       "district": "",
       "locationLabel": "NIENAWISZCZ",
@@ -698,7 +798,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-09",
+      "lastModifiedAt": "2026-04-20",
       "firstSeenAt": "2026-04-20"
     },
     {
@@ -706,6 +807,7 @@
       "title": "Cisza, przestrzeń i szybki dojazd dom k. Wągrowca",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "OCHODZA",
       "district": "",
       "locationLabel": "OCHODZA",
@@ -715,7 +817,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-21",
+      "lastModifiedAt": "2026-04-24",
       "firstSeenAt": "2026-04-21"
     },
     {
@@ -723,6 +826,7 @@
       "title": "Działka z możliwością zabudowy oraz podziału",
       "category": "DZIAŁKA",
       "transaction": "WYNAJEM",
+      "status": "AKTUALNA",
       "city": "ZBIETKA",
       "district": "",
       "locationLabel": "ZBIETKA",
@@ -732,7 +836,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-21",
+      "lastModifiedAt": "2026-04-21",
       "firstSeenAt": "2026-04-21"
     },
     {
@@ -740,6 +845,7 @@
       "title": "Spokój, natura i nowoczesność - dom  pod Wągrowcem",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WIATROWIEC",
       "district": "",
       "locationLabel": "WIATROWIEC",
@@ -749,7 +855,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-24",
+      "lastModifiedAt": "2026-04-27",
       "firstSeenAt": "2026-04-27"
     },
     {
@@ -757,6 +864,7 @@
       "title": "Rogoźno, ul. Strzelecka- ostatnie mieszkanie!!!",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "Strzelecka",
       "locationLabel": "Strzelecka, ROGOŹNO",
@@ -766,7 +874,8 @@
       "rooms": 3,
       "floor": 2,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-28",
+      "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-04-28"
     },
     {
@@ -774,6 +883,7 @@
       "title": "Piękna leśna działka z domem - Oaza Spokoju",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "RUDNICZE",
       "district": "",
       "locationLabel": "RUDNICZE",
@@ -783,7 +893,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-01-27",
+      "lastModifiedAt": "2026-04-28",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -791,6 +902,7 @@
       "title": "DOM · WĄGROWIEC",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "WĄGROWIEC",
       "district": "Leszczynowa",
       "locationLabel": "Leszczynowa, WĄGROWIEC",
@@ -800,7 +912,8 @@
       "rooms": 5,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-24",
+      "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-04-29"
     },
     {
@@ -808,6 +921,7 @@
       "title": "Segment z działką Ruda k. Rogoźna",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ROGOŹNO",
       "district": "",
       "locationLabel": "ROGOŹNO",
@@ -817,7 +931,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-29",
+      "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-04-29"
     },
     {
@@ -825,6 +940,7 @@
       "title": "Zbuduj swój dom w historycznym sercu Pałuk",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "PANIGRÓDZ",
       "district": "",
       "locationLabel": "PANIGRÓDZ",
@@ -834,7 +950,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-05-04",
+      "lastModifiedAt": "2026-05-05",
       "firstSeenAt": "2026-05-05"
     },
     {
@@ -842,6 +959,7 @@
       "title": "Działka z warunkami zabudowy Łekno",
       "category": "DZIAŁKA",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "ŁEKNO",
       "district": "",
       "locationLabel": "ŁEKNO",
@@ -851,7 +969,8 @@
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-05-07",
+      "lastModifiedAt": "2026-05-07",
       "firstSeenAt": "2026-05-07"
     },
     {
@@ -859,6 +978,7 @@
       "title": "Mieszkanie 2 pokojowe w Karolewie, gm. Rogoźno",
       "category": "MIESZKANIE",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "KAROLEWO",
       "district": "",
       "locationLabel": "KAROLEWO",
@@ -868,7 +988,8 @@
       "rooms": 2,
       "floor": 1,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-04-27",
+      "lastModifiedAt": "2026-05-11",
       "firstSeenAt": "2026-05-08"
     },
     {
@@ -876,6 +997,7 @@
       "title": "Ucieknij na wieś: Stan surowy otulony zielenią",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "STAWIANY",
       "district": "",
       "locationLabel": "STAWIANY",
@@ -885,7 +1007,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-05-04",
+      "lastModifiedAt": "2026-05-11",
       "firstSeenAt": "2026-05-11"
     },
     {
@@ -893,6 +1016,7 @@
       "title": "Mały dom w Kobylcu –  blisko jeziora i lasu!",
       "category": "DOM",
       "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
       "city": "KOBYLEC",
       "district": "Winogronowa",
       "locationLabel": "Winogronowa, KOBYLEC",
@@ -902,7 +1026,8 @@
       "rooms": 4,
       "floor": null,
       "agentName": "Danuta Majchrzak",
-      "listedAt": null,
+      "listedAt": "2026-05-06",
+      "lastModifiedAt": "2026-05-14",
       "firstSeenAt": "2026-05-14"
     }
   ]

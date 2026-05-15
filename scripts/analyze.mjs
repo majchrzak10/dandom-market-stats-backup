@@ -125,16 +125,23 @@ const priceChanges = priceChangeEvents
   .slice(0, 50);
 
 // === Time on market (aktywne oferty) ===
+// Używamy RZECZYWISTEJ daty wprowadzenia z Asari (listedAt = param 5), nie naszego firstSeenAt.
 const timeOnMarket = offers
-  .map((o) => ({
-    signature: o.signature,
-    title: o.title,
-    city: o.city,
-    pricePln: o.pricePln,
-    category: o.category,
-    firstSeenAt: o.firstSeenAt,
-    daysOnMarket: o.firstSeenAt ? daysBetween(o.firstSeenAt, today) : null,
-  }))
+  .map((o) => {
+    const referenceDate = o.listedAt || o.firstSeenAt;
+    return {
+      signature: o.signature,
+      title: o.title,
+      city: o.city,
+      pricePln: o.pricePln,
+      category: o.category,
+      listedAt: o.listedAt,
+      lastModifiedAt: o.lastModifiedAt,
+      firstSeenAt: o.firstSeenAt,
+      daysOnMarket: referenceDate ? daysBetween(referenceDate, today) : null,
+      dataSource: o.listedAt ? "asari" : "our-first-seen",
+    };
+  })
   .sort((a, b) => (b.daysOnMarket ?? 0) - (a.daysOnMarket ?? 0));
 
 // === Velocity / inventory aging ===

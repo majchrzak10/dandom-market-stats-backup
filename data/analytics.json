@@ -2,14 +2,14 @@
   "generatedAt": "2026-05-15T12:40:28.972Z",
   "kpi": {
     "date": "2026-05-15",
-    "totalOffers": 53,
-    "sale": 52,
+    "totalOffers": 54,
+    "sale": 53,
     "rent": 1,
-    "avgPrice": 432165,
-    "medianPrice": 321838,
-    "avgPricePerM2": 3087,
+    "avgPrice": 426445,
+    "medianPrice": 320000,
+    "avgPricePerM2": 3032,
     "byCategory": {
-      "DZIAŁKA": 22,
+      "DZIAŁKA": 23,
       "DOM": 18,
       "MIESZKANIE": 12,
       "OBIEKT": 1
@@ -134,7 +134,7 @@
   "timeSeries": [
     {
       "date": "2026-05-15",
-      "total": 53,
+      "total": 54,
       "added": 0,
       "removed": 0
     }
@@ -143,10 +143,10 @@
     "byCategory": [
       {
         "key": "DZIAŁKA",
-        "count": 21,
-        "avgPrice": 259476,
-        "medianPrice": 200000,
-        "avgPricePerM2": 124
+        "count": 22,
+        "avgPrice": 253545,
+        "medianPrice": 194500,
+        "avgPricePerM2": 125
       },
       {
         "key": "DOM",
@@ -173,10 +173,10 @@
     "byCity": [
       {
         "key": "ROGOŹNO",
-        "count": 10,
-        "avgPrice": 372792,
-        "medianPrice": 290000,
-        "avgPricePerM2": 4066
+        "count": 11,
+        "avgPrice": 350629,
+        "medianPrice": 260000,
+        "avgPricePerM2": 3711
       },
       {
         "key": "WĄGROWIEC",
@@ -428,8 +428,11 @@
       "city": "GARBATKA",
       "pricePln": 372120,
       "category": "DZIAŁKA",
+      "listedAt": "2021-10-29",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 1659,
+      "dataSource": "asari"
     },
     {
       "signature": "176/6093/ODS",
@@ -437,8 +440,11 @@
       "city": "NIENAWISZCZ",
       "pricePln": 269000,
       "category": "DOM",
+      "listedAt": "2023-07-05",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 1045,
+      "dataSource": "asari"
     },
     {
       "signature": "236/6093/ODS",
@@ -446,8 +452,11 @@
       "city": "DŁUGA GOŚLINA",
       "pricePln": 1999999,
       "category": "DOM",
+      "listedAt": "2024-08-28",
+      "lastModifiedAt": "2026-03-05",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 625,
+      "dataSource": "asari"
     },
     {
       "signature": "317/6093/OMS",
@@ -455,8 +464,11 @@
       "city": "KCYNIA",
       "pricePln": 323675,
       "category": "MIESZKANIE",
+      "listedAt": "2024-09-26",
+      "lastModifiedAt": "2026-04-16",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 596,
+      "dataSource": "asari"
     },
     {
       "signature": "193/6093/OGS",
@@ -464,8 +476,11 @@
       "city": "RUNOWO",
       "pricePln": 72000,
       "category": "DZIAŁKA",
+      "listedAt": "2024-11-05",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 556,
+      "dataSource": "asari"
     },
     {
       "signature": "199/6093/OGS",
@@ -473,8 +488,11 @@
       "city": "GRYLEWO",
       "pricePln": 74640,
       "category": "DZIAŁKA",
+      "listedAt": "2025-01-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 473,
+      "dataSource": "asari"
     },
     {
       "signature": "205/6093/OGS",
@@ -482,8 +500,11 @@
       "city": "ŁAZISKA",
       "pricePln": 328440,
       "category": "DZIAŁKA",
+      "listedAt": "2025-03-17",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 424,
+      "dataSource": "asari"
     },
     {
       "signature": "208/6093/OGS",
@@ -491,8 +512,11 @@
       "city": "ROGOŹNO",
       "pricePln": 142920,
       "category": "DZIAŁKA",
+      "listedAt": "2025-03-28",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 413,
+      "dataSource": "asari"
     },
     {
       "signature": "213/6093/OGS",
@@ -500,8 +524,11 @@
       "city": "TARNOWO",
       "pricePln": 95000,
       "category": "DZIAŁKA",
+      "listedAt": "2025-04-22",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 388,
+      "dataSource": "asari"
     },
     {
       "signature": "216/6093/OGS",
@@ -509,8 +536,11 @@
       "city": "KALISKA",
       "pricePln": 880000,
       "category": "DZIAŁKA",
+      "listedAt": "2025-05-21",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 359,
+      "dataSource": "asari"
     },
     {
       "signature": "217/6093/OGS",
@@ -518,8 +548,11 @@
       "city": "ZBIETKA",
       "pricePln": 79000,
       "category": "DZIAŁKA",
+      "listedAt": "2025-05-21",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 359,
+      "dataSource": "asari"
     },
     {
       "signature": "218/6093/OGS",
@@ -527,8 +560,11 @@
       "city": "BOGUNIEWO",
       "pricePln": 189000,
       "category": "DZIAŁKA",
+      "listedAt": "2025-05-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 353,
+      "dataSource": "asari"
     },
     {
       "signature": "272/6093/ODS",
@@ -536,8 +572,11 @@
       "city": "ROGOŹNO",
       "pricePln": 530000,
       "category": "DOM",
+      "listedAt": "2025-07-03",
+      "lastModifiedAt": "2026-04-28",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 316,
+      "dataSource": "asari"
     },
     {
       "signature": "222/6093/OGS",
@@ -545,8 +584,11 @@
       "city": "ŁAZISKA",
       "pricePln": 728000,
       "category": "DZIAŁKA",
+      "listedAt": "2025-07-17",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 302,
+      "dataSource": "asari"
     },
     {
       "signature": "364/6093/OMS",
@@ -554,8 +596,11 @@
       "city": "WĄGROWIEC",
       "pricePln": 270000,
       "category": "MIESZKANIE",
+      "listedAt": "2025-08-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 261,
+      "dataSource": "asari"
     },
     {
       "signature": "224/6093/OGS",
@@ -563,8 +608,11 @@
       "city": "BOLECHÓWKO",
       "pricePln": 416625,
       "category": "DZIAŁKA",
+      "listedAt": "2025-08-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 261,
+      "dataSource": "asari"
     },
     {
       "signature": "225/6093/OGS",
@@ -572,8 +620,11 @@
       "city": "BRZEŹNO STARE",
       "pricePln": 88920,
       "category": "DZIAŁKA",
+      "listedAt": "2025-09-26",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 231,
+      "dataSource": "asari"
     },
     {
       "signature": "372/6093/OMS",
@@ -581,8 +632,11 @@
       "city": "WĄGROWIEC",
       "pricePln": 339000,
       "category": "MIESZKANIE",
+      "listedAt": "2025-09-29",
+      "lastModifiedAt": "2026-04-13",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 228,
+      "dataSource": "asari"
     },
     {
       "signature": "373/6093/OMS",
@@ -590,8 +644,11 @@
       "city": "ROGOŹNO",
       "pricePln": 359000,
       "category": "MIESZKANIE",
+      "listedAt": "2025-10-01",
+      "lastModifiedAt": "2026-05-14",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 226,
+      "dataSource": "asari"
     },
     {
       "signature": "226/6093/OGS",
@@ -599,8 +656,11 @@
       "city": "BRZEŹNO STARE",
       "pricePln": 200000,
       "category": "DZIAŁKA",
+      "listedAt": "2025-10-03",
+      "lastModifiedAt": "2026-04-10",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 224,
+      "dataSource": "asari"
     },
     {
       "signature": "378/6093/OMS",
@@ -608,8 +668,11 @@
       "city": "WĄGROWIEC",
       "pricePln": 439000,
       "category": "MIESZKANIE",
+      "listedAt": "2025-10-21",
+      "lastModifiedAt": "2026-04-08",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 206,
+      "dataSource": "asari"
     },
     {
       "signature": "227/6093/OGS",
@@ -617,8 +680,11 @@
       "city": "GARBATKA",
       "pricePln": 480160,
       "category": "DZIAŁKA",
+      "listedAt": "2025-10-22",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 205,
+      "dataSource": "asari"
     },
     {
       "signature": "280/6093/ODS",
@@ -626,8 +692,11 @@
       "city": "ŁAZISKA",
       "pricePln": 1149000,
       "category": "DOM",
+      "listedAt": "2025-10-24",
+      "lastModifiedAt": "2026-05-12",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 203,
+      "dataSource": "asari"
     },
     {
       "signature": "228/6093/OGS",
@@ -635,8 +704,11 @@
       "city": "OKONINY NADJEZIORNE",
       "pricePln": 103675,
       "category": "DZIAŁKA",
+      "listedAt": "2025-11-27",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 169,
+      "dataSource": "asari"
     },
     {
       "signature": "285/6093/ODS",
@@ -644,8 +716,11 @@
       "city": "DZIEWCZA STRUGA",
       "pricePln": 250000,
       "category": "DOM",
+      "listedAt": "2025-12-04",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 162,
+      "dataSource": "asari"
     },
     {
       "signature": "393/6093/OMS",
@@ -653,8 +728,11 @@
       "city": "ŻELICE",
       "pricePln": 289000,
       "category": "MIESZKANIE",
+      "listedAt": "2026-01-08",
+      "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 127,
+      "dataSource": "asari"
     },
     {
       "signature": "287/6093/ODS",
@@ -662,8 +740,11 @@
       "city": "ROGOŹNO",
       "pricePln": 260000,
       "category": "DOM",
+      "listedAt": "2026-01-12",
+      "lastModifiedAt": "2026-03-06",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 123,
+      "dataSource": "asari"
     },
     {
       "signature": "230/6093/OGS",
@@ -671,8 +752,11 @@
       "city": "WĄGROWIEC",
       "pricePln": 260000,
       "category": "DZIAŁKA",
+      "listedAt": "2026-01-14",
+      "lastModifiedAt": "2026-03-03",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 121,
+      "dataSource": "asari"
     },
     {
       "signature": "290/6093/ODS",
@@ -680,89 +764,11 @@
       "city": "GARBATKA",
       "pricePln": 920000,
       "category": "DOM",
+      "listedAt": "2026-01-20",
+      "lastModifiedAt": "2026-03-25",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "231/6093/OGS",
-      "title": "Duża działka budowlana",
-      "city": "STUDZIENIEC",
-      "pricePln": 205000,
-      "category": "DZIAŁKA",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "398/6093/OMS",
-      "title": "Mieszkanie na parterze z balkonem",
-      "city": "ROGOŹNO",
-      "pricePln": 199000,
-      "category": "MIESZKANIE",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "295/6093/ODS",
-      "title": "Dom w Tarnowie",
-      "city": "TARNOWO",
-      "pricePln": 339000,
-      "category": "DOM",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "403/6093/OMS",
-      "title": "Mieszkanie w bloku na parterze",
-      "city": "ROGOŹNO",
-      "pricePln": 209000,
-      "category": "MIESZKANIE",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "298/6093/ODS",
-      "title": "Dom w bliskiej okolicy jeziora Wągrowiec",
-      "city": "WĄGROWIEC",
-      "pricePln": 520000,
-      "category": "DOM",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "299/6093/ODS",
-      "title": "Piętrowy dom w Mieścisku na spokojnym osiedlu",
-      "city": "MIEŚCISKO",
-      "pricePln": 549000,
-      "category": "DOM",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "406/6093/OMS",
-      "title": "MIESZKANIE · ROGOŹNO",
-      "city": "ROGOŹNO",
-      "pricePln": 189000,
-      "category": "MIESZKANIE",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "9/6093/OOS",
-      "title": "Zakład usługowo- produkcyjny",
-      "city": "ROGOŹNO",
-      "pricePln": 1120000,
-      "category": "OBIEKT",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
-    },
-    {
-      "signature": "232/6093/OGS",
-      "title": "Piękna działka Wiatrowo Las z pozwoleniem",
-      "city": "WIATROWO",
-      "pricePln": 360000,
-      "category": "DZIAŁKA",
-      "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 115,
+      "dataSource": "asari"
     },
     {
       "signature": "291/6093/ODS",
@@ -770,8 +776,131 @@
       "city": "RUDNICZE",
       "pricePln": 1390000,
       "category": "DOM",
+      "listedAt": "2026-01-27",
+      "lastModifiedAt": "2026-04-28",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 52
+      "daysOnMarket": 108,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "231/6093/OGS",
+      "title": "Duża działka budowlana",
+      "city": "STUDZIENIEC",
+      "pricePln": 205000,
+      "category": "DZIAŁKA",
+      "listedAt": "2026-02-06",
+      "lastModifiedAt": "2026-04-08",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 98,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "398/6093/OMS",
+      "title": "Mieszkanie na parterze z balkonem",
+      "city": "ROGOŹNO",
+      "pricePln": 199000,
+      "category": "MIESZKANIE",
+      "listedAt": "2026-02-10",
+      "lastModifiedAt": "2026-04-22",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 94,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "295/6093/ODS",
+      "title": "Dom w Tarnowie",
+      "city": "TARNOWO",
+      "pricePln": 339000,
+      "category": "DOM",
+      "listedAt": "2026-02-19",
+      "lastModifiedAt": "2026-05-04",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 85,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "403/6093/OMS",
+      "title": "Mieszkanie w bloku na parterze",
+      "city": "ROGOŹNO",
+      "pricePln": 209000,
+      "category": "MIESZKANIE",
+      "listedAt": "2026-02-26",
+      "lastModifiedAt": "2026-03-24",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 78,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "298/6093/ODS",
+      "title": "Dom w bliskiej okolicy jeziora Wągrowiec",
+      "city": "WĄGROWIEC",
+      "pricePln": 520000,
+      "category": "DOM",
+      "listedAt": "2026-03-03",
+      "lastModifiedAt": "2026-04-13",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 73,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "299/6093/ODS",
+      "title": "Piętrowy dom w Mieścisku na spokojnym osiedlu",
+      "city": "MIEŚCISKO",
+      "pricePln": 549000,
+      "category": "DOM",
+      "listedAt": "2026-03-05",
+      "lastModifiedAt": "2026-04-29",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 71,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "406/6093/OMS",
+      "title": "MIESZKANIE · ROGOŹNO",
+      "city": "ROGOŹNO",
+      "pricePln": 189000,
+      "category": "MIESZKANIE",
+      "listedAt": "2026-03-10",
+      "lastModifiedAt": "2026-03-10",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 66,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "9/6093/OOS",
+      "title": "Zakład usługowo- produkcyjny",
+      "city": "ROGOŹNO",
+      "pricePln": 1120000,
+      "category": "OBIEKT",
+      "listedAt": "2026-03-11",
+      "lastModifiedAt": "2026-04-22",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 65,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "232/6093/OGS",
+      "title": "Piękna działka Wiatrowo Las z pozwoleniem",
+      "city": "WIATROWO",
+      "pricePln": 360000,
+      "category": "DZIAŁKA",
+      "listedAt": "2026-03-11",
+      "lastModifiedAt": "2026-03-12",
+      "firstSeenAt": "2026-03-24",
+      "daysOnMarket": 65,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "234/6093/OGS",
+      "title": "Działka budowlana- Rogoźno",
+      "city": "ROGOŹNO",
+      "pricePln": 129000,
+      "category": "DZIAŁKA",
+      "listedAt": "2026-03-16",
+      "lastModifiedAt": "2026-04-20",
+      "firstSeenAt": "2026-04-02",
+      "daysOnMarket": 60,
+      "dataSource": "asari"
     },
     {
       "signature": "301/6093/ODS",
@@ -779,8 +908,11 @@
       "city": "KOBYLEC",
       "pricePln": 950000,
       "category": "DOM",
+      "listedAt": "2026-03-30",
+      "lastModifiedAt": "2026-05-05",
       "firstSeenAt": "2026-04-01",
-      "daysOnMarket": 44
+      "daysOnMarket": 46,
+      "dataSource": "asari"
     },
     {
       "signature": "410/6093/OMS",
@@ -788,8 +920,11 @@
       "city": "WĄGROWIEC",
       "pricePln": 319000,
       "category": "MIESZKANIE",
+      "listedAt": "2026-04-02",
+      "lastModifiedAt": "2026-04-07",
       "firstSeenAt": "2026-04-07",
-      "daysOnMarket": 38
+      "daysOnMarket": 43,
+      "dataSource": "asari"
     },
     {
       "signature": "237/6093/OGS",
@@ -797,8 +932,11 @@
       "city": "NIENAWISZCZ",
       "pricePln": 105500,
       "category": "DZIAŁKA",
+      "listedAt": "2026-04-09",
+      "lastModifiedAt": "2026-04-20",
       "firstSeenAt": "2026-04-20",
-      "daysOnMarket": 25
+      "daysOnMarket": 36,
+      "dataSource": "asari"
     },
     {
       "signature": "302/6093/ODS",
@@ -806,8 +944,11 @@
       "city": "OCHODZA",
       "pricePln": 950000,
       "category": "DOM",
+      "listedAt": "2026-04-21",
+      "lastModifiedAt": "2026-04-24",
       "firstSeenAt": "2026-04-21",
-      "daysOnMarket": 24
+      "daysOnMarket": 24,
+      "dataSource": "asari"
     },
     {
       "signature": "1/6093/OGW",
@@ -815,8 +956,11 @@
       "city": "ZBIETKA",
       "pricePln": 311680,
       "category": "DZIAŁKA",
+      "listedAt": "2026-04-21",
+      "lastModifiedAt": "2026-04-21",
       "firstSeenAt": "2026-04-21",
-      "daysOnMarket": 24
+      "daysOnMarket": 24,
+      "dataSource": "asari"
     },
     {
       "signature": "304/6093/ODS",
@@ -824,17 +968,11 @@
       "city": "WIATROWIEC",
       "pricePln": 659900,
       "category": "DOM",
+      "listedAt": "2026-04-24",
+      "lastModifiedAt": "2026-04-27",
       "firstSeenAt": "2026-04-27",
-      "daysOnMarket": 18
-    },
-    {
-      "signature": "418/6093/OMS",
-      "title": "Rogoźno, ul. Strzelecka- ostatnie mieszkanie!!!",
-      "city": "ROGOŹNO",
-      "pricePln": 320000,
-      "category": "MIESZKANIE",
-      "firstSeenAt": "2026-04-28",
-      "daysOnMarket": 17
+      "daysOnMarket": 21,
+      "dataSource": "asari"
     },
     {
       "signature": "305/6093/ODS",
@@ -842,8 +980,35 @@
       "city": "WĄGROWIEC",
       "pricePln": 699000,
       "category": "DOM",
+      "listedAt": "2026-04-24",
+      "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-04-29",
-      "daysOnMarket": 16
+      "daysOnMarket": 21,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "417/6093/OMS",
+      "title": "Mieszkanie 2 pokojowe w Karolewie, gm. Rogoźno",
+      "city": "KAROLEWO",
+      "pricePln": 129000,
+      "category": "MIESZKANIE",
+      "listedAt": "2026-04-27",
+      "lastModifiedAt": "2026-05-11",
+      "firstSeenAt": "2026-05-08",
+      "daysOnMarket": 18,
+      "dataSource": "asari"
+    },
+    {
+      "signature": "418/6093/OMS",
+      "title": "Rogoźno, ul. Strzelecka- ostatnie mieszkanie!!!",
+      "city": "ROGOŹNO",
+      "pricePln": 320000,
+      "category": "MIESZKANIE",
+      "listedAt": "2026-04-28",
+      "lastModifiedAt": "2026-04-29",
+      "firstSeenAt": "2026-04-28",
+      "daysOnMarket": 17,
+      "dataSource": "asari"
     },
     {
       "signature": "306/6093/ODS",
@@ -851,6 +1016,8 @@
       "city": "ROGOŹNO",
       "pricePln": 399000,
       "category": "DOM",
+      "listedAt": "2026-04-29",
+      "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-04-29",
       "daysOnMarket": 16
     },
@@ -2013,650 +2180,6 @@
       "rooms": 4,
       "agentName": "Danuta Majchrzak",
       "firstSeenAt": "2026-05-14"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "128/6093/OGS",
-      "title": "DZIAŁKA · GARBATKA",
-      "city": "GARBATKA",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 372120,
-      "areaM2": 9303,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "176/6093/ODS",
-      "title": "Dom rekreacyjny Nienawiszcz niedaleko jezioro",
-      "city": "NIENAWISZCZ",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 269000,
-      "areaM2": 60,
-      "rooms": 3,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "236/6093/ODS",
-      "title": "Rezydencja nad jeziorem",
-      "city": "DŁUGA GOŚLINA",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 1999999,
-      "areaM2": 508,
-      "rooms": 7,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "317/6093/OMS",
-      "title": "Nowe mieszkania 3 pokoje, Kcynia ul. Młyńska",
-      "city": "KCYNIA",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 323675,
-      "areaM2": 58.85,
-      "rooms": 3,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "193/6093/OGS",
-      "title": "Działka budowlana w Runowie, gmina Wągrowiec",
-      "city": "RUNOWO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 72000,
-      "areaM2": 800,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "199/6093/OGS",
-      "title": "Działka budowlana w Grylewie",
-      "city": "GRYLEWO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 74640,
-      "areaM2": 1244,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "205/6093/OGS",
-      "title": "Działka pod zabudowę mieszkaniową dwulokalową",
-      "city": "ŁAZISKA",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 328440,
-      "areaM2": 3128,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "208/6093/OGS",
-      "title": "Ostatnia działka przy ul. Boguniewskiej.",
-      "city": "ROGOŹNO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 142920,
-      "areaM2": 1191,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "213/6093/OGS",
-      "title": "Na sprzedaż działki przy lesie - Tarnowo, Rogoźno",
-      "city": "TARNOWO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 95000,
-      "areaM2": 3198,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "216/6093/OGS",
-      "title": "Działka nad jeziorem z pięknym widokiem na wodę",
-      "city": "KALISKA",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 880000,
-      "areaM2": 1495,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "217/6093/OGS",
-      "title": "Działka w Zbietce gmina Mieścisko",
-      "city": "ZBIETKA",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 79000,
-      "areaM2": 1220,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "218/6093/OGS",
-      "title": "Atrakcyjna działka dookoła natura - las jezioro",
-      "city": "BOGUNIEWO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 189000,
-      "areaM2": 1998,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "272/6093/ODS",
-      "title": "Dom jednorodzinny w Rogoźnie",
-      "city": "ROGOŹNO",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 530000,
-      "areaM2": 185,
-      "rooms": 5,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "222/6093/OGS",
-      "title": "Oaza spokoju - działka z drzewami w Łaziskach",
-      "city": "ŁAZISKA",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 728000,
-      "areaM2": 5200,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "364/6093/OMS",
-      "title": "Mieszkanie 2 pokojowe Jeżyka Wągrowiec",
-      "city": "WĄGROWIEC",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 270000,
-      "areaM2": 48,
-      "rooms": 2,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "224/6093/OGS",
-      "title": "Działka budowlana - piękne położenie Bolechówko",
-      "city": "BOLECHÓWKO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 416625,
-      "areaM2": 1515,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "225/6093/OGS",
-      "title": "Działka z możliwością zabudowy jednorodzinnej",
-      "city": "BRZEŹNO STARE",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 88920,
-      "areaM2": 988,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "372/6093/OMS",
-      "title": "Bezczynszowe 2 pokoje z aneksem Wegnera Wągrowiec",
-      "city": "WĄGROWIEC",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 339000,
-      "areaM2": 40.89,
-      "rooms": 2,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "373/6093/OMS",
-      "title": "Stylowe mieszkanie po remoncie",
-      "city": "ROGOŹNO",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 359000,
-      "areaM2": 141.79,
-      "rooms": 5,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "226/6093/OGS",
-      "title": "Piękna duża działka pod zabudowę Brzeźno Stare",
-      "city": "BRZEŹNO STARE",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 200000,
-      "areaM2": 6338,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "378/6093/OMS",
-      "title": "Poranna kawa na własnym tarasie, 3 pokoje czekają!",
-      "city": "WĄGROWIEC",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 439000,
-      "areaM2": 49.5,
-      "rooms": 3,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "227/6093/OGS",
-      "title": "Działka na terenach inwestycyjnych m. Rogoźno",
-      "city": "GARBATKA",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 480160,
-      "areaM2": 12004,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "280/6093/ODS",
-      "title": "Przestronny dom pod miastem - cisza i wygoda",
-      "city": "ŁAZISKA",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 1149000,
-      "areaM2": 270,
-      "rooms": 6,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "228/6093/OGS",
-      "title": "Twoje miejsce na wypoczynek - jezioro i piękny las",
-      "city": "OKONINY NADJEZIORNE",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 103675,
-      "areaM2": 1595,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "285/6093/ODS",
-      "title": "Dom przy lesie",
-      "city": "DZIEWCZA STRUGA",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 250000,
-      "areaM2": 90,
-      "rooms": 3,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "393/6093/OMS",
-      "title": "Przytulne 4 pokoje na parterze – Żelice",
-      "city": "ŻELICE",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 289000,
-      "areaM2": 77.8,
-      "rooms": 4,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "287/6093/ODS",
-      "title": "DOM · ROGOŹNO",
-      "city": "ROGOŹNO",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 260000,
-      "areaM2": 100,
-      "rooms": 5,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "230/6093/OGS",
-      "title": "Działka pod zabudowę Wągrowiec ul. Wierzbowa",
-      "city": "WĄGROWIEC",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 260000,
-      "areaM2": 975,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "290/6093/ODS",
-      "title": "Nowoczesny dom jednorodzinny z garażem",
-      "city": "GARBATKA",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 920000,
-      "areaM2": 116,
-      "rooms": 4,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "231/6093/OGS",
-      "title": "Duża działka budowlana",
-      "city": "STUDZIENIEC",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 205000,
-      "areaM2": 2085,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "398/6093/OMS",
-      "title": "Mieszkanie na parterze z balkonem",
-      "city": "ROGOŹNO",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 199000,
-      "areaM2": 51.5,
-      "rooms": 2,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "295/6093/ODS",
-      "title": "Dom w Tarnowie",
-      "city": "TARNOWO",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 339000,
-      "areaM2": 90,
-      "rooms": 5,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "403/6093/OMS",
-      "title": "Mieszkanie w bloku na parterze",
-      "city": "ROGOŹNO",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 209000,
-      "areaM2": 36.8,
-      "rooms": 2,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "298/6093/ODS",
-      "title": "Dom w bliskiej okolicy jeziora Wągrowiec",
-      "city": "WĄGROWIEC",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 520000,
-      "areaM2": 219,
-      "rooms": 5,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "299/6093/ODS",
-      "title": "Piętrowy dom w Mieścisku na spokojnym osiedlu",
-      "city": "MIEŚCISKO",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 549000,
-      "areaM2": 125,
-      "rooms": 6,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "406/6093/OMS",
-      "title": "MIESZKANIE · ROGOŹNO",
-      "city": "ROGOŹNO",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 189000,
-      "areaM2": 35.3,
-      "rooms": 2,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "9/6093/OOS",
-      "title": "Zakład usługowo- produkcyjny",
-      "city": "ROGOŹNO",
-      "category": "OBIEKT",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 1120000,
-      "areaM2": 225,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "232/6093/OGS",
-      "title": "Piękna działka Wiatrowo Las z pozwoleniem",
-      "city": "WIATROWO",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 360000,
-      "areaM2": 1925,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "301/6093/ODS",
-      "title": "DOM · KOBYLEC",
-      "city": "KOBYLEC",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 950000,
-      "areaM2": 157,
-      "rooms": 4,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-01"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "410/6093/OMS",
-      "title": "2 pokoje na II piętrze w bezczynszowym bloku",
-      "city": "WĄGROWIEC",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 319000,
-      "areaM2": 50.4,
-      "rooms": 2,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-07"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "237/6093/OGS",
-      "title": "Działka budowlana- Nienawiszcz",
-      "city": "NIENAWISZCZ",
-      "category": "DZIAŁKA",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 105500,
-      "areaM2": 1055,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-20"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "302/6093/ODS",
-      "title": "Cisza, przestrzeń i szybki dojazd dom k. Wągrowca",
-      "city": "OCHODZA",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 950000,
-      "areaM2": 175.78,
-      "rooms": 4,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-21"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "1/6093/OGW",
-      "title": "Działka z możliwością zabudowy oraz podziału",
-      "city": "ZBIETKA",
-      "category": "DZIAŁKA",
-      "transaction": "WYNAJEM",
-      "pricePln": 311680,
-      "areaM2": 3896,
-      "rooms": null,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-21"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "304/6093/ODS",
-      "title": "Spokój, natura i nowoczesność - dom  pod Wągrowcem",
-      "city": "WIATROWIEC",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 659900,
-      "areaM2": 97.8,
-      "rooms": 4,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-27"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "418/6093/OMS",
-      "title": "Rogoźno, ul. Strzelecka- ostatnie mieszkanie!!!",
-      "city": "ROGOŹNO",
-      "category": "MIESZKANIE",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 320000,
-      "areaM2": 46.68,
-      "rooms": 3,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-04-28"
-    },
-    {
-      "type": "offer_added",
-      "date": "2026-05-15",
-      "signature": "291/6093/ODS",
-      "title": "Piękna leśna działka z domem - Oaza Spokoju",
-      "city": "RUDNICZE",
-      "category": "DOM",
-      "transaction": "SPRZEDAŻ",
-      "pricePln": 1390000,
-      "areaM2": 112,
-      "rooms": 4,
-      "agentName": "Danuta Majchrzak",
-      "firstSeenAt": "2026-03-24"
     }
   ],
   "totalEventsLogged": 160
