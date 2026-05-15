@@ -35,6 +35,12 @@ jobs:
           if git diff --cached --quiet; then
             echo "Brak nowych danych."
           else
-            git commit -m "chore(competitors): otodom $(date -u +%Y-%m-%d) [skip ci]"
-            git push origin HEAD
+            git commit -m "chore(competitors): otodom+olx $(date -u +%Y-%m-%d) [skip ci]"
+            for i in 1 2 3; do
+              if git push origin HEAD; then exit 0; fi
+              echo "Push odrzucony (próba $i/3), rebase..."
+              git pull --rebase -X ours origin main
+            done
+            echo "Push nieudany po 3 próbach"
+            exit 1
           fi

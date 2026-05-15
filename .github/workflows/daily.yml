@@ -47,5 +47,12 @@ jobs:
             echo "Brak zmian."
           else
             git commit -m "chore(stats): snapshot $(date -u +%Y-%m-%d) [skip ci]"
-            git push origin HEAD
+            # Retry push 3x z rebase — żeby race condition z innym workflow nie zabijał commitu.
+            for i in 1 2 3; do
+              if git push origin HEAD; then exit 0; fi
+              echo "Push odrzucony (próba $i/3), rebase..."
+              git pull --rebase -X ours origin main
+            done
+            echo "Push nieudany po 3 próbach"
+            exit 1
           fi
