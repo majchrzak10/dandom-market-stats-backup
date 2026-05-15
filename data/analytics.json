@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:46:41.459Z",
+  "generatedAt": "2026-05-15T12:49:35.138Z",
   "kpi": {
     "date": "2026-05-15",
     "totalOffers": 53,
@@ -1064,10 +1064,10 @@
   "agents": [
     {
       "name": "Danuta Majchrzak",
-      "activeOffers": 54,
-      "avgActivePrice": 424320,
+      "activeOffers": 53,
+      "avgActivePrice": 429892,
       "medianActivePrice": 320000,
-      "totalActiveValue": 22913254,
+      "totalActiveValue": 22784254,
       "removedOffers": 0,
       "avgDaysToRemoval": null
     }
@@ -1076,10 +1076,10 @@
     "byCity": [
       {
         "key": "ROGOŹNO",
-        "count": 11,
-        "avgPrice": 350629,
-        "medianPrice": 260000,
-        "avgPricePerM2": 3711
+        "count": 10,
+        "avgPrice": 372792,
+        "medianPrice": 290000,
+        "avgPricePerM2": 4066
       },
       {
         "key": "WĄGROWIEC",
@@ -1376,13 +1376,6 @@
         "avgPrice": 549000,
         "medianPrice": 549000,
         "avgPricePerM2": 4392
-      },
-      {
-        "key": "Leśna (ROGOŹNO)",
-        "count": 1,
-        "avgPrice": 129000,
-        "medianPrice": 129000,
-        "avgPricePerM2": 160
       },
       {
         "key": "Straszewska (WĄGROWIEC)",
@@ -2816,5 +2809,6 @@
       "firstSeenAt": "2026-03-24"
     }
   ],
-  "totalEventsLogged": 213
+  "totalEventsLogged": 266,
+  "bootstrapEvents": 53
 }
