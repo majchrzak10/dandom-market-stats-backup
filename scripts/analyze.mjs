@@ -215,11 +215,17 @@ const geoByDistrict = bucketBy(
 );
 
 // === Recent events (30 dni) ===
+// Wykluczamy bootstrap-y (offer_added gdzie oferta w Asari istniała dużo wcześniej
+// niż my zaczęliśmy zbierać dane). Filtrujemy po effectiveDate, nie date.
 const thirtyDaysAgo = new Date(Date.now() - 30 * 86_400_000).toISOString().slice(0, 10);
 const recentEvents = events
-  .filter((e) => e.date >= thirtyDaysAgo)
-  .sort((a, b) => b.date.localeCompare(a.date))
+  .filter((e) => !e.isBootstrap)
+  .filter((e) => (e.effectiveDate || e.date) >= thirtyDaysAgo)
+  .sort((a, b) => (b.effectiveDate || b.date).localeCompare(a.effectiveDate || a.date))
   .slice(0, 100);
+
+// Statystyki bootstrap-u (dla informacji)
+const bootstrapCount = events.filter((e) => e.isBootstrap).length;
 
 // === Benchmark vs konkurencja ===
 function loadLatestCompetitorSnapshot(source) {
@@ -313,6 +319,7 @@ const analytics = {
   },
   recentEvents,
   totalEventsLogged: events.length,
+  bootstrapEvents: bootstrapCount,
 };
 
 fs.writeFileSync(path.join(ROOT, "data", "analytics.json"), JSON.stringify(analytics, null, 2) + "\n");

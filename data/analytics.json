@@ -1064,10 +1064,10 @@
   "agents": [
     {
       "name": "Danuta Majchrzak",
-      "activeOffers": 53,
-      "avgActivePrice": 429892,
+      "activeOffers": 54,
+      "avgActivePrice": 424320,
       "medianActivePrice": 320000,
-      "totalActiveValue": 22784254,
+      "totalActiveValue": 22913254,
       "removedOffers": 0,
       "avgDaysToRemoval": null
     }
@@ -1076,10 +1076,10 @@
     "byCity": [
       {
         "key": "ROGOŹNO",
-        "count": 10,
-        "avgPrice": 372792,
-        "medianPrice": 290000,
-        "avgPricePerM2": 4066
+        "count": 11,
+        "avgPrice": 350629,
+        "medianPrice": 260000,
+        "avgPricePerM2": 3711
       },
       {
         "key": "WĄGROWIEC",
@@ -1376,6 +1376,13 @@
         "avgPrice": 549000,
         "medianPrice": 549000,
         "avgPricePerM2": 4392
+      },
+      {
+        "key": "Leśna (ROGOŹNO)",
+        "count": 1,
+        "avgPrice": 129000,
+        "medianPrice": 129000,
+        "avgPricePerM2": 160
       },
       {
         "key": "Straszewska (WĄGROWIEC)",

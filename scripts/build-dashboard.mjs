@@ -123,7 +123,8 @@ const html = `<!DOCTYPE html>
 const A = ${JSON.stringify(analytics, null, 2)};
 
 document.getElementById("updated").textContent = new Date(A.generatedAt).toLocaleString("pl-PL");
-document.getElementById("events-total").textContent = \`\${A.totalEventsLogged} eventów w historii\`;
+document.getElementById("events-total").textContent =
+  \`\${A.totalEventsLogged} eventów w historii\${A.bootstrapEvents ? \` (w tym \${A.bootstrapEvents} bootstrap z istniejących ofert)\` : ""}\`;
 
 const fmtPLN = (n) => n == null ? "—" : new Intl.NumberFormat("pl-PL", { maximumFractionDigits: 0 }).format(n) + " zł";
 
@@ -271,6 +272,7 @@ if (A.recentEvents.length > 0) {
       <tbody>
         \${A.recentEvents.slice(0, 30).map(e => {
           const meta = eventTypeMap[e.type] || { label: e.type, badge: "" };
+          const displayDate = e.effectiveDate || e.date;
           let detail = "";
           if (e.type === "price_changed") {
             const direction = e.diff < 0 ? "badge-price-down" : "badge-price-up";
@@ -284,7 +286,7 @@ if (A.recentEvents.length > 0) {
           }
           return \`
             <tr class="border-b last:border-0">
-              <td class="py-2 text-stone-500">\${e.date}</td>
+              <td class="py-2 text-stone-500">\${displayDate}</td>
               <td class="py-2"><span class="badge \${meta.badge}">\${meta.label}</span></td>
               <td class="py-2">\${e.title || e.signature}</td>
               <td class="py-2">\${e.city || "—"}</td>

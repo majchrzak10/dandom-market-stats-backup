@@ -1169,10 +1169,10 @@ const A = {
   "agents": [
     {
       "name": "Danuta Majchrzak",
-      "activeOffers": 53,
-      "avgActivePrice": 429892,
+      "activeOffers": 54,
+      "avgActivePrice": 424320,
       "medianActivePrice": 320000,
-      "totalActiveValue": 22784254,
+      "totalActiveValue": 22913254,
       "removedOffers": 0,
       "avgDaysToRemoval": null
     }
@@ -1181,10 +1181,10 @@ const A = {
     "byCity": [
       {
         "key": "ROGOŹNO",
-        "count": 10,
-        "avgPrice": 372792,
-        "medianPrice": 290000,
-        "avgPricePerM2": 4066
+        "count": 11,
+        "avgPrice": 350629,
+        "medianPrice": 260000,
+        "avgPricePerM2": 3711
       },
       {
         "key": "WĄGROWIEC",
@@ -1481,6 +1481,13 @@ const A = {
         "avgPrice": 549000,
         "medianPrice": 549000,
         "avgPricePerM2": 4392
+      },
+      {
+        "key": "Leśna (ROGOŹNO)",
+        "count": 1,
+        "avgPrice": 129000,
+        "medianPrice": 129000,
+        "avgPricePerM2": 160
       },
       {
         "key": "Straszewska (WĄGROWIEC)",
@@ -2918,7 +2925,8 @@ const A = {
 };
 
 document.getElementById("updated").textContent = new Date(A.generatedAt).toLocaleString("pl-PL");
-document.getElementById("events-total").textContent = `${A.totalEventsLogged} eventów w historii`;
+document.getElementById("events-total").textContent =
+  `${A.totalEventsLogged} eventów w historii${A.bootstrapEvents ? ` (w tym ${A.bootstrapEvents} bootstrap z istniejących ofert)` : ""}`;
 
 const fmtPLN = (n) => n == null ? "—" : new Intl.NumberFormat("pl-PL", { maximumFractionDigits: 0 }).format(n) + " zł";
 
@@ -3066,6 +3074,7 @@ if (A.recentEvents.length > 0) {
       <tbody>
         ${A.recentEvents.slice(0, 30).map(e => {
           const meta = eventTypeMap[e.type] || { label: e.type, badge: "" };
+          const displayDate = e.effectiveDate || e.date;
           let detail = "";
           if (e.type === "price_changed") {
             const direction = e.diff < 0 ? "badge-price-down" : "badge-price-up";
@@ -3079,7 +3088,7 @@ if (A.recentEvents.length > 0) {
           }
           return `
             <tr class="border-b last:border-0">
-              <td class="py-2 text-stone-500">${e.date}</td>
+              <td class="py-2 text-stone-500">${displayDate}</td>
               <td class="py-2"><span class="badge ${meta.badge}">${meta.label}</span></td>
               <td class="py-2">${e.title || e.signature}</td>
               <td class="py-2">${e.city || "—"}</td>
