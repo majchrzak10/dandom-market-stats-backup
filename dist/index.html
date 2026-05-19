@@ -177,7 +177,7 @@
     </section>
 
     <section class="bg-white rounded-2xl shadow-sm p-5 mb-8">
-      <h2 class="text-base font-semibold mb-3">Tabela miesięczna</h2>
+      <h2 class="text-base font-semibold mb-3">Tabela miesięczna — nasze</h2>
       <div class="overflow-x-auto">
         <table class="w-full text-sm">
           <thead class="text-stone-500 text-left border-b border-stone-200">
@@ -197,12 +197,74 @@
       </div>
     </section>
 
+    <!-- === Historia konkurencji === -->
+    <div class="border-t border-stone-200 pt-8 mb-6">
+      <h2 class="text-xl font-bold mb-1">🌍 Rynek i konkurencja — historia (Otodom + OLX)</h2>
+      <p class="text-sm text-stone-500 mb-4">Te same metryki dla ofert konkurencji w Wągrowcu i Rogoźnie. Listed = data utworzenia oferty na portalu (dateCreated).</p>
+    </div>
+
+    <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
+      <div class="bg-white rounded-2xl shadow-sm p-5">
+        <h2 class="text-base font-semibold mb-1">Liczba aktywnych ofert konkurencji</h2>
+        <p class="text-xs text-stone-500 mb-3">Łącznie + breakdown per kategoria.</p>
+        <canvas id="chist-count-chart"></canvas>
+      </div>
+      <div class="bg-white rounded-2xl shadow-sm p-5">
+        <h2 class="text-base font-semibold mb-1">Miks kategorii konkurencji w czasie</h2>
+        <canvas id="chist-category-mix-chart"></canvas>
+      </div>
+    </section>
+
+    <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
+      <div class="bg-white rounded-2xl shadow-sm p-5">
+        <h2 class="text-base font-semibold mb-1">Mediana ceny — my vs konkurencja</h2>
+        <p class="text-xs text-stone-500 mb-3">Bezpośrednie porównanie miesiąc po miesiącu.</p>
+        <canvas id="chist-price-chart"></canvas>
+      </div>
+      <div class="bg-white rounded-2xl shadow-sm p-5">
+        <h2 class="text-base font-semibold mb-1">Mediana zł/m² — my vs konkurencja</h2>
+        <canvas id="chist-pricepm2-chart"></canvas>
+      </div>
+    </section>
+
+    <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
+      <div class="bg-white rounded-2xl shadow-sm p-5">
+        <h2 class="text-base font-semibold mb-1">Średni czas na rynku — my vs konkurencja</h2>
+        <canvas id="chist-days-chart"></canvas>
+      </div>
+      <div class="bg-white rounded-2xl shadow-sm p-5">
+        <h2 class="text-base font-semibold mb-1">Top 5 miejscowości konkurencji</h2>
+        <canvas id="chist-cities-chart"></canvas>
+      </div>
+    </section>
+
+    <section class="bg-white rounded-2xl shadow-sm p-5 mb-8">
+      <h2 class="text-base font-semibold mb-3">Tabela miesięczna — konkurencja</h2>
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm">
+          <thead class="text-stone-500 text-left border-b border-stone-200">
+            <tr>
+              <th class="pb-2">Miesiąc</th>
+              <th class="pb-2 text-right">Aktywnych</th>
+              <th class="pb-2 text-right">DOM</th>
+              <th class="pb-2 text-right">MIESZKANIE</th>
+              <th class="pb-2 text-right">DZIAŁKA</th>
+              <th class="pb-2 text-right">Mediana ceny</th>
+              <th class="pb-2 text-right">Mediana zł/m²</th>
+              <th class="pb-2 text-right">Śr. dni</th>
+            </tr>
+          </thead>
+          <tbody id="chist-table"></tbody>
+        </table>
+      </div>
+    </section>
+
   </div>
 </div>
 
 <script>
 const A = {
-  "generatedAt": "2026-05-19T12:13:32.073Z",
+  "generatedAt": "2026-05-19T12:49:18.628Z",
   "kpi": {
     "date": "2026-05-19",
     "totalOffers": 51,
@@ -265,6 +327,55 @@ const A = {
         "beforeTracking": false
       }
     ]
+  },
+  "competitorHistory": {
+    "trackingStartDate": "2026-05-15",
+    "earliestListedAt": "2022-06-23",
+    "months": [
+      {
+        "key": "2026-05",
+        "year": 2026,
+        "month": 5,
+        "end": "2026-05-31",
+        "total": 195,
+        "sale": 195,
+        "byCategory": {
+          "MIESZKANIE": 71,
+          "INWESTYCJA": 1,
+          "DOM": 45,
+          "DZIAŁKA": 78
+        },
+        "medianPrice": 304452,
+        "avgPrice": 562548,
+        "medianPricePerM2": 3912,
+        "avgDaysOnMarket": 149,
+        "medianDaysOnMarket": 59,
+        "topCities": [
+          {
+            "city": "WĄGROWIEC",
+            "count": 77
+          },
+          {
+            "city": "ROGOŹNO",
+            "count": 64
+          },
+          {
+            "city": "NIENAWISZCZ",
+            "count": 11
+          },
+          {
+            "city": "JARACZ",
+            "count": 10
+          },
+          {
+            "city": "GARBATKA",
+            "count": 6
+          }
+        ],
+        "beforeTracking": false
+      }
+    ],
+    "totalOffers": 211
   },
   "benchmark": {
     "competitor": {
@@ -2065,6 +2176,175 @@ if (H && H.months && H.months.length > 0) {
       scales: { y: { beginAtZero: true } },
     },
   });
+
+  // === HISTORIA KONKURENCJI ===
+  const CH = A.competitorHistory;
+  if (CH && CH.months && CH.months.length > 0) {
+    const cLabels = CH.months.map(m => m.key);
+    const cCategories = Array.from(new Set(CH.months.flatMap(m => Object.keys(m.byCategory))));
+
+    // 1. Liczba ofert konkurencji + breakdown
+    const cTotalDataset = {
+      label: "Łącznie (konkurencja)",
+      data: CH.months.map(m => m.total),
+      borderColor: "#1c1917",
+      backgroundColor: "transparent",
+      borderWidth: 2.5,
+      tension: 0.25,
+      fill: false,
+    };
+    const cCatDatasets = cCategories.map(cat => ({
+      label: cat,
+      data: CH.months.map(m => m.byCategory[cat] || 0),
+      borderColor: CAT_COLORS[cat] || "#78716c",
+      backgroundColor: "transparent",
+      borderWidth: 1.5,
+      tension: 0.25,
+      fill: false,
+    }));
+    new Chart(document.getElementById("chist-count-chart"), {
+      type: "line",
+      data: { labels: cLabels, datasets: [cTotalDataset, ...cCatDatasets] },
+      options: {
+        responsive: true,
+        plugins: { legend: { position: "bottom", labels: { boxWidth: 12, font: { size: 11 } } } },
+        scales: { y: { beginAtZero: true } },
+      },
+    });
+
+    // 2. Miks kategorii %
+    new Chart(document.getElementById("chist-category-mix-chart"), {
+      type: "line",
+      data: {
+        labels: cLabels,
+        datasets: cCategories.map(cat => ({
+          label: cat,
+          data: CH.months.map(m => {
+            const total = m.total || 1;
+            return Math.round(((m.byCategory[cat] || 0) / total) * 1000) / 10;
+          }),
+          borderColor: CAT_COLORS[cat] || "#78716c",
+          backgroundColor: (CAT_COLORS[cat] || "#78716c") + "60",
+          fill: true,
+          tension: 0.25,
+        })),
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: "bottom", labels: { boxWidth: 12, font: { size: 11 } } },
+          tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ": " + ctx.parsed.y + "%" } },
+        },
+        scales: { y: { stacked: true, beginAtZero: true, max: 100, ticks: { callback: v => v + "%" } } },
+      },
+    });
+
+    // Helper: dopasuj nasze miesiące do miesięcy konkurencji (po kluczu)
+    const ourByKey = new Map(H.months.map(m => [m.key, m]));
+    const ourSeries = (field) => cLabels.map(k => ourByKey.get(k)?.[field] ?? null);
+
+    // 3. Mediana ceny — my vs konkurencja
+    new Chart(document.getElementById("chist-price-chart"), {
+      type: "line",
+      data: {
+        labels: cLabels,
+        datasets: [
+          { label: "Nasze (mediana)", data: ourSeries("medianPrice"), borderColor: "#800020", backgroundColor: "rgba(128,0,32,0.15)", tension: 0.25, fill: true, borderWidth: 2 },
+          { label: "Konkurencja (mediana)", data: CH.months.map(m => m.medianPrice), borderColor: "#4a6fa5", backgroundColor: "transparent", tension: 0.25, fill: false, borderWidth: 2 },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: "bottom" },
+          tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ": " + fmtPLN(ctx.parsed.y) } },
+        },
+        scales: { y: { ticks: { callback: v => fmtPLN(v) } } },
+      },
+    });
+
+    // 4. Mediana zł/m² — my vs konkurencja
+    new Chart(document.getElementById("chist-pricepm2-chart"), {
+      type: "line",
+      data: {
+        labels: cLabels,
+        datasets: [
+          { label: "Nasze (zł/m²)", data: ourSeries("medianPricePerM2"), borderColor: "#5d7e3f", backgroundColor: "rgba(93,126,63,0.15)", tension: 0.25, fill: true, borderWidth: 2 },
+          { label: "Konkurencja (zł/m²)", data: CH.months.map(m => m.medianPricePerM2), borderColor: "#4a6fa5", backgroundColor: "transparent", tension: 0.25, fill: false, borderWidth: 2 },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: "bottom" },
+          tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ": " + fmtPLN(ctx.parsed.y) + "/m²" } },
+        },
+        scales: { y: { ticks: { callback: v => fmtPLN(v) } } },
+      },
+    });
+
+    // 5. Średni czas na rynku — my vs konkurencja
+    new Chart(document.getElementById("chist-days-chart"), {
+      type: "line",
+      data: {
+        labels: cLabels,
+        datasets: [
+          { label: "Nasze (śr.)", data: ourSeries("avgDaysOnMarket"), borderColor: "#b8860b", backgroundColor: "rgba(184,134,11,0.15)", tension: 0.25, fill: true, borderWidth: 2 },
+          { label: "Konkurencja (śr.)", data: CH.months.map(m => m.avgDaysOnMarket), borderColor: "#4a6fa5", backgroundColor: "transparent", tension: 0.25, fill: false, borderWidth: 2 },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: "bottom" },
+          tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ": " + ctx.parsed.y + " dni" } },
+        },
+        scales: { y: { beginAtZero: true, ticks: { callback: v => v + " dni" } } },
+      },
+    });
+
+    // 6. Top 5 miast konkurencji
+    const cLastMonth = CH.months[CH.months.length - 1];
+    const cTopCityNames = cLastMonth.topCities.map(c => c.city);
+    const cityColors = ["#4a6fa5", "#800020", "#b8860b", "#5d7e3f", "#8c4a6a"];
+    new Chart(document.getElementById("chist-cities-chart"), {
+      type: "line",
+      data: {
+        labels: cLabels,
+        datasets: cTopCityNames.map((city, i) => ({
+          label: city,
+          data: CH.months.map(m => {
+            const found = m.topCities.find(c => c.city === city);
+            return found ? found.count : 0;
+          }),
+          borderColor: cityColors[i % cityColors.length],
+          backgroundColor: "transparent",
+          tension: 0.25,
+          fill: false,
+          borderWidth: 1.8,
+        })),
+      },
+      options: {
+        responsive: true,
+        plugins: { legend: { position: "bottom", labels: { boxWidth: 12, font: { size: 11 } } } },
+        scales: { y: { beginAtZero: true } },
+      },
+    });
+
+    // Tabela konkurencji
+    document.getElementById("chist-table").innerHTML = CH.months.slice().reverse().map(m => `
+      <tr class="border-b border-stone-100 last:border-0">
+        <td class="py-2 font-medium">${m.key}</td>
+        <td class="py-2 text-right font-semibold">${m.total}</td>
+        <td class="py-2 text-right">${m.byCategory.DOM || 0}</td>
+        <td class="py-2 text-right">${m.byCategory.MIESZKANIE || 0}</td>
+        <td class="py-2 text-right">${m.byCategory["DZIAŁKA"] || 0}</td>
+        <td class="py-2 text-right">${fmtPLN(m.medianPrice)}</td>
+        <td class="py-2 text-right">${fmtPLN(m.medianPricePerM2)}</td>
+        <td class="py-2 text-right">${m.avgDaysOnMarket ?? "—"}</td>
+      </tr>
+    `).join("");
+  }
 
   // Tabela
   document.getElementById("hist-table").innerHTML = H.months.slice().reverse().map(m => `

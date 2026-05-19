@@ -16,7 +16,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { loadAllEvents, buildOfferTimelines } from "../lib/events-loader.mjs";
-import { buildMonthlyHistory } from "../lib/history-builder.mjs";
+import { buildMonthlyHistory, buildCompetitorHistory } from "../lib/history-builder.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -336,10 +336,24 @@ const history = buildMonthlyHistory({
   snapshots,
 });
 
+function loadAllCompetitorSnapshots(source) {
+  const dir = path.join(COMPETITORS_DIR, source);
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .sort()
+    .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")));
+}
+
+const competitorSnapshots = loadAllCompetitorSnapshots("combined");
+const competitorHistory = buildCompetitorHistory({ snapshots: competitorSnapshots });
+
 const analytics = {
   generatedAt: new Date().toISOString(),
   kpi,
   history,
+  competitorHistory,
   benchmark: {
     competitor: benchmarkCombined,
     sourceCounts,
@@ -366,5 +380,5 @@ const analytics = {
 fs.writeFileSync(path.join(ROOT, "data", "analytics.json"), JSON.stringify(analytics, null, 2) + "\n");
 
 console.log(
-  `Analytics: ${kpi.totalOffers} ofert · ${events.length} eventów history · ${agents.length} agentów · ${velocityBuckets.length} buckets velocity · ${history.months.length} miesięcy historii`,
+  `Analytics: ${kpi.totalOffers} ofert · ${events.length} eventów history · ${agents.length} agentów · ${velocityBuckets.length} buckets velocity · ${history.months.length} miesięcy historii nas · ${competitorHistory.months.length} miesięcy historii konkurencji (${competitorHistory.totalOffers ?? 0} ofert)`,
 );
