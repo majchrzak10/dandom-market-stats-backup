@@ -1,8 +1,8 @@
 {
   "date": "2026-05-25",
-  "generatedAt": "2026-05-25T08:51:52.433Z",
+  "generatedAt": "2026-05-25T10:53:31.378Z",
   "source": "/home/runner/work/dandom-market-stats/dandom-market-stats/strona-dan-dom/asari-export",
-  "offerCount": 56,
+  "offerCount": 57,
   "offers": [
     {
       "signature": "128/6093/OGS",
@@ -450,14 +450,14 @@
       "city": "OKONINY NADJEZIORNE",
       "district": "",
       "locationLabel": "OKONINY NADJEZIORNE",
-      "pricePln": 103675,
+      "pricePln": 116285,
       "pricePerM2": 65,
-      "areaM2": 1595,
+      "areaM2": 1789,
       "rooms": null,
       "floor": null,
       "agentName": "Danuta Majchrzak",
       "listedAt": "2025-11-27",
-      "lastModifiedAt": "2026-01-30",
+      "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-03-24"
     },
     {
@@ -932,7 +932,7 @@
       "floor": null,
       "agentName": "Danuta Majchrzak",
       "listedAt": "2026-05-04",
-      "lastModifiedAt": "2026-05-22",
+      "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-05-11"
     },
     {
@@ -1067,6 +1067,25 @@
       "listedAt": "2026-05-20",
       "lastModifiedAt": "2026-05-22",
       "firstSeenAt": "2026-05-22"
+    },
+    {
+      "signature": "421/6093/OMS",
+      "title": "Całkowicie wyposażone mieszkanie z windą Wegnera",
+      "category": "MIESZKANIE",
+      "transaction": "SPRZEDAŻ",
+      "status": "AKTUALNA",
+      "city": "WĄGROWIEC",
+      "district": "Ignacego Wegnera",
+      "locationLabel": "Ignacego Wegnera, WĄGROWIEC",
+      "pricePln": 480000,
+      "pricePerM2": 8738,
+      "areaM2": 54.93,
+      "rooms": 3,
+      "floor": 2,
+      "agentName": "Danuta Majchrzak",
+      "listedAt": "2026-05-22",
+      "lastModifiedAt": "2026-05-25",
+      "firstSeenAt": "2026-05-25"
     }
   ]
 }

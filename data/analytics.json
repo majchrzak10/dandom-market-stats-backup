@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-25T08:51:52.637Z",
+  "generatedAt": "2026-05-25T10:53:31.616Z",
   "kpi": {
     "date": "2026-05-25",
-    "totalOffers": 56,
-    "sale": 55,
+    "totalOffers": 57,
+    "sale": 56,
     "rent": 1,
-    "avgPrice": 474538,
-    "medianPrice": 320000,
-    "avgPricePerM2": 3385,
+    "avgPrice": 474860,
+    "medianPrice": 321838,
+    "avgPricePerM2": 3480,
     "byCategory": {
       "DZIAŁKA": 23,
       "DOM": 18,
-      "MIESZKANIE": 14,
+      "MIESZKANIE": 15,
       "OBIEKT": 1
     }
   },
@@ -24,19 +24,19 @@
         "year": 2026,
         "month": 5,
         "end": "2026-05-31",
-        "total": 57,
-        "sale": 56,
+        "total": 58,
+        "sale": 57,
         "byCategory": {
           "DZIAŁKA": 24,
           "DOM": 18,
-          "MIESZKANIE": 14,
+          "MIESZKANIE": 15,
           "OBIEKT": 1
         },
         "medianPrice": 320000,
-        "avgPrice": 468367,
-        "medianPricePerM2": 2801,
-        "avgDaysOnMarket": 219,
-        "medianDaysOnMarket": 124,
+        "avgPrice": 468793,
+        "medianPricePerM2": 2865,
+        "avgDaysOnMarket": 216,
+        "medianDaysOnMarket": 119,
         "topCities": [
           {
             "city": "ROGOŹNO",
@@ -44,7 +44,7 @@
           },
           {
             "city": "WĄGROWIEC",
-            "count": 10
+            "count": 11
           },
           {
             "city": "GARBATKA",
@@ -72,27 +72,27 @@
         "year": 2026,
         "month": 5,
         "end": "2026-05-31",
-        "total": 211,
-        "sale": 211,
+        "total": 208,
+        "sale": 208,
         "byCategory": {
-          "MIESZKANIE": 76,
+          "MIESZKANIE": 75,
           "INWESTYCJA": 1,
           "DOM": 47,
-          "DZIAŁKA": 87
+          "DZIAŁKA": 85
         },
-        "medianPrice": 292000,
-        "avgPrice": 546643,
-        "medianPricePerM2": 4207,
-        "avgDaysOnMarket": 150,
-        "medianDaysOnMarket": 57,
+        "medianPrice": 289000,
+        "avgPrice": 549729,
+        "medianPricePerM2": 4104,
+        "avgDaysOnMarket": 151,
+        "medianDaysOnMarket": 59,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 89
+            "count": 88
           },
           {
             "city": "ROGOŹNO",
-            "count": 65
+            "count": 63
           },
           {
             "city": "NIENAWISZCZ",
@@ -110,36 +110,36 @@
         "beforeTracking": false
       }
     ],
-    "totalOffers": 235
+    "totalOffers": 237
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 219,
+      "totalCompetitorOffers": 216,
       "comparison": [
+        {
+          "category": "MIESZKANIE",
+          "city": "WĄGROWIEC",
+          "ourCount": 6,
+          "competitorCount": 44,
+          "ourMedianPrice": 319500,
+          "competitorMedianPrice": 308115,
+          "priceDiffPct": 3.7,
+          "ourMedianPricePerM2": 7498,
+          "competitorMedianPricePerM2": 7067,
+          "pricePerM2DiffPct": 6.1
+        },
         {
           "category": "MIESZKANIE",
           "city": "ROGOŹNO",
           "ourCount": 6,
-          "competitorCount": 33,
+          "competitorCount": 32,
           "ourMedianPrice": 234000,
-          "competitorMedianPrice": 300000,
-          "priceDiffPct": -22,
+          "competitorMedianPrice": 297500,
+          "priceDiffPct": -21.3,
           "ourMedianPricePerM2": 5517,
-          "competitorMedianPricePerM2": 5564,
-          "pricePerM2DiffPct": -0.8
-        },
-        {
-          "category": "MIESZKANIE",
-          "city": "WĄGROWIEC",
-          "ourCount": 5,
-          "competitorCount": 44,
-          "ourMedianPrice": 309000,
-          "competitorMedianPrice": 304452,
-          "priceDiffPct": 1.5,
-          "ourMedianPricePerM2": 6926,
-          "competitorMedianPricePerM2": 6901,
-          "pricePerM2DiffPct": 0.4
+          "competitorMedianPricePerM2": 5650,
+          "pricePerM2DiffPct": -2.4
         },
         {
           "category": "DOM",
@@ -162,8 +162,8 @@
           "competitorMedianPrice": 832000,
           "priceDiffPct": -8.1,
           "ourMedianPricePerM2": 4927,
-          "competitorMedianPricePerM2": 5227,
-          "pricePerM2DiffPct": -5.7
+          "competitorMedianPricePerM2": 5076,
+          "pricePerM2DiffPct": -2.9
         },
         {
           "category": "DOM",
@@ -181,13 +181,13 @@
           "category": "DZIAŁKA",
           "city": "ROGOŹNO",
           "ourCount": 1,
-          "competitorCount": 9,
+          "competitorCount": 8,
           "ourMedianPrice": 142920,
-          "competitorMedianPrice": 80000,
-          "priceDiffPct": 78.7,
+          "competitorMedianPrice": 87500,
+          "priceDiffPct": 63.3,
           "ourMedianPricePerM2": 120,
-          "competitorMedianPricePerM2": 100,
-          "pricePerM2DiffPct": 20
+          "competitorMedianPricePerM2": 93,
+          "pricePerM2DiffPct": 29
         },
         {
           "category": "DZIAŁKA",
@@ -229,8 +229,8 @@
     },
     "sourceCounts": {
       "otodom": 159,
-      "olx+otodom": 19,
-      "olx": 41
+      "olx+otodom": 18,
+      "olx": 39
     }
   },
   "timeSeries": [
@@ -290,8 +290,8 @@
     },
     {
       "date": "2026-05-25",
-      "total": 56,
-      "added": 0,
+      "total": 57,
+      "added": 1,
       "removed": 0
     }
   ],
@@ -300,7 +300,7 @@
       {
         "key": "DZIAŁKA",
         "count": 22,
-        "avgPrice": 252682,
+        "avgPrice": 253255,
         "medianPrice": 194500,
         "avgPricePerM2": 123
       },
@@ -313,10 +313,10 @@
       },
       {
         "key": "MIESZKANIE",
-        "count": 14,
-        "avgPrice": 273548,
-        "medianPrice": 279500,
-        "avgPricePerM2": 5559
+        "count": 15,
+        "avgPrice": 287312,
+        "medianPrice": 289000,
+        "avgPricePerM2": 5771
       },
       {
         "key": "OBIEKT",
@@ -336,10 +336,10 @@
       },
       {
         "key": "WĄGROWIEC",
-        "count": 10,
-        "avgPrice": 635200,
-        "medianPrice": 384500,
-        "avgPricePerM2": 5975
+        "count": 11,
+        "avgPrice": 621091,
+        "medianPrice": 439000,
+        "avgPricePerM2": 6226
       },
       {
         "key": "GARBATKA",
@@ -442,8 +442,8 @@
       {
         "key": "OKONINY NADJEZIORNE",
         "count": 1,
-        "avgPrice": 103675,
-        "medianPrice": 103675,
+        "avgPrice": 116285,
+        "medianPrice": 116285,
         "avgPricePerM2": 65
       },
       {
@@ -548,10 +548,10 @@
       },
       {
         "key": "3 pok.",
-        "count": 4,
-        "avgPrice": 337919,
-        "medianPrice": 321838,
-        "avgPricePerM2": 6427
+        "count": 5,
+        "avgPrice": 366335,
+        "medianPrice": 323675,
+        "avgPricePerM2": 6889
       },
       {
         "key": "7 pok.",
@@ -577,6 +577,18 @@
     ]
   },
   "priceChanges": [
+    {
+      "type": "price_changed",
+      "date": "2026-05-25",
+      "signature": "228/6093/OGS",
+      "title": "Twoje miejsce na wypoczynek - jezioro i piękny las",
+      "city": "OKONINY NADJEZIORNE",
+      "from": 103675,
+      "to": 116285,
+      "diff": 12610,
+      "diffPct": 12.2,
+      "currentlyActive": true
+    },
     {
       "type": "price_changed",
       "date": "2026-05-20",
@@ -883,10 +895,10 @@
       "signature": "228/6093/OGS",
       "title": "Twoje miejsce na wypoczynek - jezioro i piękny las",
       "city": "OKONINY NADJEZIORNE",
-      "pricePln": 103675,
+      "pricePln": 116285,
       "category": "DZIAŁKA",
       "listedAt": "2025-11-27",
-      "lastModifiedAt": "2026-01-30",
+      "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-03-24",
       "daysOnMarket": 179,
       "dataSource": "asari"
@@ -1186,7 +1198,7 @@
       "pricePln": 365000,
       "category": "DOM",
       "listedAt": "2026-05-04",
-      "lastModifiedAt": "2026-05-22",
+      "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-05-11",
       "daysOnMarket": 21,
       "dataSource": "asari"
@@ -1210,7 +1222,7 @@
         "label": "0–7 dni (świeże)",
         "min": 0,
         "max": 7,
-        "count": 2
+        "count": 3
       },
       {
         "label": "8–30 dni",
@@ -1237,18 +1249,18 @@
         "count": 23
       }
     ],
-    "avgDaysOnMarket": 216,
-    "medianDaysOnMarket": 122,
+    "avgDaysOnMarket": 212,
+    "medianDaysOnMarket": 118,
     "avgDaysToRemoval": 116,
     "totalRemoved": 7
   },
   "agents": [
     {
       "name": "Danuta Majchrzak",
-      "activeOffers": 56,
-      "avgActivePrice": 471630,
+      "activeOffers": 57,
+      "avgActivePrice": 471998,
       "medianActivePrice": 320000,
-      "totalActiveValue": 26411254,
+      "totalActiveValue": 26903864,
       "removedOffers": 7,
       "avgDaysToRemoval": 116
     }
@@ -1264,10 +1276,10 @@
       },
       {
         "key": "WĄGROWIEC",
-        "count": 10,
-        "avgPrice": 635200,
-        "medianPrice": 384500,
-        "avgPricePerM2": 5975
+        "count": 11,
+        "avgPrice": 621091,
+        "medianPrice": 439000,
+        "avgPricePerM2": 6226
       },
       {
         "key": "GARBATKA",
@@ -1370,8 +1382,8 @@
       {
         "key": "OKONINY NADJEZIORNE",
         "count": 1,
-        "avgPrice": 103675,
-        "medianPrice": 103675,
+        "avgPrice": 116285,
+        "medianPrice": 116285,
         "avgPricePerM2": 65
       },
       {
@@ -1454,6 +1466,13 @@
     ],
     "byDistrict": [
       {
+        "key": "Ignacego Wegnera (WĄGROWIEC)",
+        "count": 2,
+        "avgPrice": 405000,
+        "medianPrice": 405000,
+        "avgPricePerM2": 8404
+      },
+      {
         "key": "Wielka Poznańska (ROGOŹNO)",
         "count": 2,
         "avgPrice": 224500,
@@ -1501,13 +1520,6 @@
         "avgPrice": 416625,
         "medianPrice": 416625,
         "avgPricePerM2": 275
-      },
-      {
-        "key": "Ignacego Wegnera (WĄGROWIEC)",
-        "count": 1,
-        "avgPrice": 330000,
-        "medianPrice": 330000,
-        "avgPricePerM2": 8070
       },
       {
         "key": "Plac Powstańców Wielkopolskich (ROGOŹNO)",
@@ -1605,6 +1617,26 @@
   "recentEvents": [
     {
       "type": "price_changed",
+      "date": "2026-05-25",
+      "signature": "228/6093/OGS",
+      "title": "Twoje miejsce na wypoczynek - jezioro i piękny las",
+      "city": "OKONINY NADJEZIORNE",
+      "from": 103675,
+      "to": 116285,
+      "diff": 12610,
+      "diffPct": 12.2
+    },
+    {
+      "type": "area_changed",
+      "date": "2026-05-25",
+      "signature": "228/6093/OGS",
+      "title": "Twoje miejsce na wypoczynek - jezioro i piękny las",
+      "city": "OKONINY NADJEZIORNE",
+      "from": 1595,
+      "to": 1789
+    },
+    {
+      "type": "price_changed",
       "date": "2026-05-24",
       "signature": "372/6093/OMS",
       "title": "Bezczynszowe 2 pokoje z aneksem Wegnera Wągrowiec",
@@ -1613,6 +1645,23 @@
       "to": 330000,
       "diff": -9000,
       "diffPct": -2.7
+    },
+    {
+      "type": "offer_added",
+      "date": "2026-05-25",
+      "effectiveDate": "2026-05-22",
+      "isBootstrap": false,
+      "signature": "421/6093/OMS",
+      "title": "Całkowicie wyposażone mieszkanie z windą Wegnera",
+      "city": "WĄGROWIEC",
+      "category": "MIESZKANIE",
+      "transaction": "SPRZEDAŻ",
+      "pricePln": 480000,
+      "areaM2": 54.93,
+      "rooms": 3,
+      "agentName": "Danuta Majchrzak",
+      "listedAt": "2026-05-22",
+      "firstSeenAt": "2026-05-25"
     },
     {
       "type": "offer_added",
@@ -1694,6 +1743,6 @@
       "firstSeenAt": "2026-05-20"
     }
   ],
-  "totalEventsLogged": 281,
+  "totalEventsLogged": 284,
   "bootstrapEvents": 268
 }
