@@ -453,6 +453,42 @@ if (H && H.months && H.months.length > 0) {
     const cLabels = CH.months.map((m) => m.key);
     const cCategories = Array.from(new Set(CH.months.flatMap((m) => Object.keys(m.byCategory))));
 
+    // === Nasz udzial w rynku w czasie ===
+    // Wspólne klucze (oba muszą mieć dany bucket), inaczej share nie ma sensu.
+    const ourByKeyForShare = new Map(H.months.map((m) => [m.key, m.total]));
+    const sharedKeys = cLabels.filter((k) => ourByKeyForShare.has(k));
+    const shareSeries = sharedKeys.map((k) => {
+      const ours = ourByKeyForShare.get(k) || 0;
+      const theirs = CH.months.find((m) => m.key === k)?.total || 0;
+      const total = ours + theirs;
+      return total > 0 ? Math.round((ours / total) * 1000) / 10 : null;
+    });
+    new Chart(document.getElementById("market-share-history-chart"), {
+      type: "line",
+      data: {
+        labels: sharedKeys,
+        datasets: [
+          {
+            label: "Nasz udział (%)",
+            data: shareSeries,
+            borderColor: "#800020",
+            backgroundColor: "rgba(128,0,32,0.15)",
+            tension: 0.25,
+            fill: true,
+            borderWidth: 2,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { label: (ctx) => "Udział: " + ctx.parsed.y + "%" } },
+        },
+        scales: { y: { beginAtZero: true, ticks: { callback: (v) => v + "%" } } },
+      },
+    });
+
     const cTotalDataset = {
       label: "Łącznie (konkurencja)",
       data: CH.months.map((m) => m.total),

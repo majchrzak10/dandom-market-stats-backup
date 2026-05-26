@@ -244,6 +244,12 @@ const html = `<!DOCTYPE html>
       <p class="text-sm text-stone-500 mb-4">Te same metryki dla ofert konkurencji w Wągrowcu i Rogoźnie. Listed = data utworzenia oferty na portalu (dateCreated).</p>
     </div>
 
+    <section class="bg-white rounded-2xl shadow-sm p-5 mb-6">
+      <h2 class="text-base font-semibold mb-1">📊 Nasz udział w rynku w czasie</h2>
+      <p class="text-xs text-stone-500 mb-3">% nasz / (nasz + konkurencja). Dla pełnego rynku regionu Wągrowiec/Rogoźno.</p>
+      <canvas id="market-share-history-chart"></canvas>
+    </section>
+
     <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
       <div class="bg-white rounded-2xl shadow-sm p-5">
         <h2 class="text-base font-semibold mb-1">Liczba aktywnych ofert konkurencji</h2>
