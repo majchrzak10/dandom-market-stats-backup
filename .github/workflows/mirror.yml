@@ -35,7 +35,10 @@ jobs:
       - name: Push to backup
         run: |
           git remote add backup git@github.com:majchrzak10/dandom-market-stats-backup.git
-          # Zwykły fast-forward push. Jeśli backup się rozjedzie (ktoś go ruszył ręcznie),
-          # workflow padnie i dostaniesz alert — wtedy świadomie rozstrzygasz konflikt.
-          git push backup main
-          git push backup --tags || true
+          # Backup ma być EXACT mirrorem main. Force-with-lease zabezpiecza
+          # przed race condition (równoległe push'e na main = równoległe mirrory)
+          # i orphan-commits zostałych po rebase'ach. Skoro backup jest write-only-
+          # from-workflow, nikt go ręcznie nie ruszy → force jest bezpieczne.
+          git fetch backup main || true
+          git push backup main --force-with-lease
+          git push backup --tags --force || true
