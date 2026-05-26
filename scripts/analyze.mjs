@@ -381,5 +381,5 @@ const analytics = {
 fs.writeFileSync(path.join(ROOT, "data", "analytics.json"), JSON.stringify(analytics, null, 2) + "\n");
 
 console.log(
-  `Analytics: ${kpi.totalOffers} ofert · ${events.length} eventów history · ${agents.length} agentów · ${velocityBuckets.length} buckets velocity · ${history.months.length} miesięcy historii nas · ${competitorHistory.months.length} miesięcy historii konkurencji (${competitorHistory.totalOffers ?? 0} ofert)`,
+  `Analytics: ${kpi.totalOffers} ofert · ${events.length} eventów history · ${agents.length} agentów · ${velocityBuckets.length} buckets velocity · ${history.months.length} okresów historii nas · ${competitorHistory.months.length} okresów historii konkurencji (${competitorHistory.totalOffers ?? 0} ofert)`,
 );

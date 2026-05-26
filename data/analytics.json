@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T11:55:43.585Z",
+  "generatedAt": "2026-05-26T12:20:52.227Z",
   "kpi": {
     "date": "2026-05-26",
     "totalOffers": 58,
@@ -21,10 +21,9 @@
     "earliestListedAt": "2021-10-29",
     "months": [
       {
-        "key": "2026-05",
-        "year": 2026,
-        "month": 5,
-        "end": "2026-05-31",
+        "key": "2026-05-28",
+        "start": "2026-05-15",
+        "end": "2026-05-28",
         "total": 59,
         "sale": 57,
         "byCategory": {
@@ -36,8 +35,8 @@
         "medianPrice": 320000,
         "avgPrice": 468793,
         "medianPricePerM2": 2865,
-        "avgDaysOnMarket": 212,
-        "medianDaysOnMarket": 114,
+        "avgDaysOnMarket": 209,
+        "medianDaysOnMarket": 111,
         "topCities": [
           {
             "city": "ROGOŹNO",
@@ -69,10 +68,9 @@
     "earliestListedAt": "2022-06-23",
     "months": [
       {
-        "key": "2026-05",
-        "year": 2026,
-        "month": 5,
-        "end": "2026-05-31",
+        "key": "2026-05-28",
+        "start": "2026-05-15",
+        "end": "2026-05-28",
         "total": 201,
         "sale": 201,
         "byCategory": {
@@ -84,8 +82,8 @@
         "medianPrice": 292000,
         "avgPrice": 549580,
         "medianPricePerM2": 3946,
-        "avgDaysOnMarket": 152,
-        "medianDaysOnMarket": 53,
+        "avgDaysOnMarket": 149,
+        "medianDaysOnMarket": 50,
         "topCities": [
           {
             "city": "WĄGROWIEC",

@@ -175,7 +175,7 @@ const html = `<!DOCTYPE html>
 
     <div class="bg-stone-50 border border-stone-200 rounded-xl p-4 mb-6 text-sm text-stone-600">
       Tracking zaczął się <span id="tracking-start" class="font-semibold"></span>.
-      Wykresy pokazują stan portfela na koniec każdego miesiąca — z każdym kolejnym miesiącem historia rośnie.
+      Wykresy pokazują stan portfela na koniec każdego 14-dniowego okresu — z każdym kolejnym okresem historia rośnie.
     </div>
 
     <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
@@ -194,7 +194,7 @@ const html = `<!DOCTYPE html>
     <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
       <div class="bg-white rounded-2xl shadow-sm p-5">
         <h2 class="text-base font-semibold mb-1">Mediana ceny (sprzedaż)</h2>
-        <p class="text-xs text-stone-500 mb-3">Aktualna cena ofert aktywnych w danym miesiącu. Mediana zwykle stabilniejsza niż średnia.</p>
+        <p class="text-xs text-stone-500 mb-3">Aktualna cena ofert aktywnych na koniec danego okresu (14 dni). Mediana zwykle stabilniejsza niż średnia.</p>
         <canvas id="hist-price-chart"></canvas>
       </div>
       <div class="bg-white rounded-2xl shadow-sm p-5">
@@ -212,18 +212,18 @@ const html = `<!DOCTYPE html>
       </div>
       <div class="bg-white rounded-2xl shadow-sm p-5">
         <h2 class="text-base font-semibold mb-1">Top 5 miejscowości</h2>
-        <p class="text-xs text-stone-500 mb-3">Liczba ofert w największych miastach miesiąc po miesiącu.</p>
+        <p class="text-xs text-stone-500 mb-3">Liczba ofert w największych miastach okres po okresie (14 dni).</p>
         <canvas id="hist-cities-chart"></canvas>
       </div>
     </section>
 
     <section class="bg-white rounded-2xl shadow-sm p-5 mb-8">
-      <h2 class="text-base font-semibold mb-3">Tabela miesięczna — nasze</h2>
+      <h2 class="text-base font-semibold mb-3">Tabela dwutygodniowa — nasze</h2>
       <div class="overflow-x-auto">
         <table class="w-full text-sm">
           <thead class="text-stone-500 text-left border-b border-stone-200">
             <tr>
-              <th class="pb-2">Miesiąc</th>
+              <th class="pb-2">Okres (do)</th>
               <th class="pb-2 text-right">Aktywnych</th>
               <th class="pb-2 text-right">DOM</th>
               <th class="pb-2 text-right">MIESZKANIE</th>
@@ -259,7 +259,7 @@ const html = `<!DOCTYPE html>
     <section class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
       <div class="bg-white rounded-2xl shadow-sm p-5">
         <h2 class="text-base font-semibold mb-1">Mediana ceny — my vs konkurencja</h2>
-        <p class="text-xs text-stone-500 mb-3">Bezpośrednie porównanie miesiąc po miesiącu.</p>
+        <p class="text-xs text-stone-500 mb-3">Bezpośrednie porównanie okres po okresie (14 dni).</p>
         <canvas id="chist-price-chart"></canvas>
       </div>
       <div class="bg-white rounded-2xl shadow-sm p-5">
@@ -280,12 +280,12 @@ const html = `<!DOCTYPE html>
     </section>
 
     <section class="bg-white rounded-2xl shadow-sm p-5 mb-8">
-      <h2 class="text-base font-semibold mb-3">Tabela miesięczna — konkurencja</h2>
+      <h2 class="text-base font-semibold mb-3">Tabela dwutygodniowa — konkurencja</h2>
       <div class="overflow-x-auto">
         <table class="w-full text-sm">
           <thead class="text-stone-500 text-left border-b border-stone-200">
             <tr>
-              <th class="pb-2">Miesiąc</th>
+              <th class="pb-2">Okres (do)</th>
               <th class="pb-2 text-right">Aktywnych</th>
               <th class="pb-2 text-right">DOM</th>
               <th class="pb-2 text-right">MIESZKANIE</th>
