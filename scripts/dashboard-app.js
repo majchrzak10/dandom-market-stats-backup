@@ -316,15 +316,28 @@ if (CA && CA.total > 0) {
     },
   });
 
-  // Bar: top 10 biur
+  // Bar: top 10 biur (Dan-Dom highlighted)
   const top10 = CA.byAgency.slice(0, 10);
   new Chart(document.getElementById("competitor-top-agencies"), {
     type: "bar",
     data: {
-      labels: top10.map((a) => (a.name.length > 35 ? a.name.slice(0, 35) + "…" : a.name)),
-      datasets: [{ label: "Oferty", data: top10.map((a) => a.count), backgroundColor: "#800020" }],
+      labels: top10.map((a) => (a.isOurs ? "★ " : "") + (a.name.length > 35 ? a.name.slice(0, 35) + "…" : a.name)),
+      datasets: [
+        {
+          label: "Oferty",
+          data: top10.map((a) => a.count),
+          backgroundColor: top10.map((a) => (a.isOurs ? "#22c55e" : "#800020")),
+        },
+      ],
     },
-    options: { indexAxis: "y", plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true, ticks: { precision: 0 } } } },
+    options: {
+      indexAxis: "y",
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { afterBody: (ctx) => (top10[ctx[0].dataIndex].isOurs ? "(Twoje biuro)" : "") } },
+      },
+      scales: { x: { beginAtZero: true, ticks: { precision: 0 } } },
+    },
   });
 }
 
@@ -499,12 +512,14 @@ if (H && H.months && H.months.length > 0) {
       const cahLabels = CAH.map((d) => d.date);
       const trendColors = ["#800020", "#b8860b", "#5d7e3f", "#4a6fa5", "#8c4a6a"];
 
+      // Find isOurs flag per name (latest day's metadata)
+      const lastDayMeta = new Map(lastDay.topAgencies.map((a) => [a.name, a.isOurs]));
       new Chart(document.getElementById("competitor-agencies-trend"), {
         type: "line",
         data: {
           labels: cahLabels,
           datasets: top5Names.map((name, i) => ({
-            label: name.length > 30 ? name.slice(0, 30) + "…" : name,
+            label: (lastDayMeta.get(name) ? "★ " : "") + (name.length > 30 ? name.slice(0, 30) + "…" : name),
             data: CAH.map((d) => d.topAgencies.find((a) => a.name === name)?.count ?? 0),
             borderColor: trendColors[i % trendColors.length],
             backgroundColor: "transparent",

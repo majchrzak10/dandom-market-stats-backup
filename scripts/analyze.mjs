@@ -374,8 +374,7 @@ function buildCompetitorAgents(competitorOffers) {
     if (o.isPrivate) {
       privateCount++;
     } else if (o.agencyName) {
-      if (isOurAgency(o.agencyName)) continue; // skip nasze
-      const cur = byAgency.get(o.agencyName) || { name: o.agencyName, count: 0, totalValue: 0 };
+      const cur = byAgency.get(o.agencyName) || { name: o.agencyName, count: 0, totalValue: 0, isOurs: isOurAgency(o.agencyName) };
       cur.count++;
       if (o.pricePln) cur.totalValue += o.pricePln;
       byAgency.set(o.agencyName, cur);
@@ -406,7 +405,7 @@ const competitorAgentsHistory = competitorSnapshots.map((snap) => {
     private: stats.private,
     unknown: stats.unknown,
     knownAgent: stats.knownAgent,
-    topAgencies: stats.byAgency.slice(0, 10).map((a) => ({ name: a.name, count: a.count })),
+    topAgencies: stats.byAgency.slice(0, 10).map((a) => ({ name: a.name, count: a.count, isOurs: a.isOurs })),
   };
 });
 

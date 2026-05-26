@@ -176,7 +176,7 @@ const html = `<!DOCTYPE html>
       </div>
       <div class="bg-white rounded-2xl shadow-sm p-5 lg:col-span-2">
         <h2 class="text-base font-semibold mb-1">Top 10 biur w regionie</h2>
-        <p class="text-xs text-stone-500 mb-3">Aktywne oferty per biuro (bez nas). Tylko otodom + OLX — NO nie udostępnia agencji w listingu.</p>
+        <p class="text-xs text-stone-500 mb-3">Aktywne oferty per biuro. Twoje biuro oznaczone ★ na zielono. Tylko otodom + OLX — NO nie udostępnia agencji w listingu.</p>
         <canvas id="competitor-top-agencies"></canvas>
       </div>
     </section>
