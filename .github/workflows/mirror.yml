@@ -23,10 +23,14 @@ jobs:
         with:
           fetch-depth: 0  # pełna historia, nie tylko HEAD
 
-      - name: Setup SSH for backup repo
-        uses: webfactory/ssh-agent@v0.9.0
-        with:
-          ssh-private-key: ${{ secrets.BACKUP_DEPLOY_KEY }}
+      - name: Setup SSH key
+        env:
+          SSH_KEY: ${{ secrets.BACKUP_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
 
       - name: Push to backup
         run: |
