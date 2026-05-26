@@ -284,7 +284,7 @@ if (bench) {
       labels: cats,
       datasets: [
         { label: "Nasze", data: cats.map((c) => Math.round(avg(byCat[c].ours))), backgroundColor: "#800020" },
-        { label: "Otodom", data: cats.map((c) => Math.round(avg(byCat[c].theirs))), backgroundColor: "#a8a29e" },
+        { label: "Konkurencja", data: cats.map((c) => Math.round(avg(byCat[c].theirs))), backgroundColor: "#a8a29e" },
       ],
     },
     options: { plugins: { legend: { position: "bottom" } }, responsive: true },

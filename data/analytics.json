@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T12:50:25.993Z",
+  "generatedAt": "2026-05-26T13:11:25.265Z",
   "kpi": {
     "date": "2026-05-26",
     "totalOffers": 58,
@@ -71,98 +71,134 @@
         "key": "2026-05-28",
         "start": "2026-05-15",
         "end": "2026-05-28",
-        "total": 201,
-        "sale": 201,
+        "total": 940,
+        "sale": 940,
         "byCategory": {
-          "MIESZKANIE": 74,
+          "MIESZKANIE": 240,
           "INWESTYCJA": 1,
-          "DOM": 42,
-          "DZIAŁKA": 84
+          "DOM": 294,
+          "DZIAŁKA": 405
         },
-        "medianPrice": 292000,
-        "avgPrice": 549580,
-        "medianPricePerM2": 3946,
-        "avgDaysOnMarket": 149,
-        "medianDaysOnMarket": 50,
+        "medianPrice": 300000,
+        "avgPrice": 537334,
+        "medianPricePerM2": 1954,
+        "avgDaysOnMarket": 34,
+        "medianDaysOnMarket": 2,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 82
+            "count": 429
           },
           {
             "city": "ROGOŹNO",
-            "count": 62
+            "count": 180
           },
           {
-            "city": "NIENAWISZCZ",
-            "count": 11
+            "city": "ROGÓŹNO",
+            "count": 119
           },
           {
-            "city": "JARACZ",
-            "count": 10
+            "city": "TOMASZÓW LUBELSKI",
+            "count": 16
           },
           {
-            "city": "GARBATKA",
-            "count": 6
+            "city": "ROGÓŻNO",
+            "count": 13
           }
         ],
         "beforeTracking": false
       }
     ],
-    "totalOffers": 238
+    "totalOffers": 1002
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 209,
+      "totalCompetitorOffers": 940,
       "comparison": [
         {
           "category": "MIESZKANIE",
           "city": "WĄGROWIEC",
           "ourCount": 6,
-          "competitorCount": 44,
+          "competitorCount": 159,
           "ourMedianPrice": 319500,
-          "competitorMedianPrice": 304452,
-          "priceDiffPct": 4.9,
+          "competitorMedianPrice": 315000,
+          "priceDiffPct": 1.4,
           "ourMedianPricePerM2": 7498,
-          "competitorMedianPricePerM2": 6967,
-          "pricePerM2DiffPct": 7.6
+          "competitorMedianPricePerM2": 5978,
+          "pricePerM2DiffPct": 25.4
         },
         {
           "category": "MIESZKANIE",
           "city": "ROGOŹNO",
           "ourCount": 6,
-          "competitorCount": 31,
+          "competitorCount": 76,
           "ourMedianPrice": 234000,
-          "competitorMedianPrice": 300000,
-          "priceDiffPct": -22,
+          "competitorMedianPrice": 291500,
+          "priceDiffPct": -19.7,
           "ourMedianPricePerM2": 5517,
-          "competitorMedianPricePerM2": 5564,
-          "pricePerM2DiffPct": -0.8
+          "competitorMedianPricePerM2": 5000,
+          "pricePerM2DiffPct": 10.3
         },
         {
           "category": "DOM",
           "city": "ROGOŹNO",
           "ourCount": 4,
-          "competitorCount": 11,
+          "competitorCount": 42,
           "ourMedianPrice": 464500,
-          "competitorMedianPrice": 530000,
-          "priceDiffPct": -12.4,
+          "competitorMedianPrice": 485000,
+          "priceDiffPct": -4.2,
           "ourMedianPricePerM2": 4337,
-          "competitorMedianPricePerM2": 5547,
-          "pricePerM2DiffPct": -21.8
+          "competitorMedianPricePerM2": 3895,
+          "pricePerM2DiffPct": 11.3
         },
         {
           "category": "DOM",
           "city": "WĄGROWIEC",
           "ourCount": 4,
-          "competitorCount": 21,
+          "competitorCount": 139,
           "ourMedianPrice": 764500,
-          "competitorMedianPrice": 850000,
-          "priceDiffPct": -10.1,
+          "competitorMedianPrice": 490000,
+          "priceDiffPct": 56,
           "ourMedianPricePerM2": 4927,
-          "competitorMedianPricePerM2": 5313,
-          "pricePerM2DiffPct": -7.3
+          "competitorMedianPricePerM2": 2745,
+          "pricePerM2DiffPct": 79.5
+        },
+        {
+          "category": "DZIAŁKA",
+          "city": "GARBATKA",
+          "ourCount": 2,
+          "competitorCount": 2,
+          "ourMedianPrice": 426140,
+          "competitorMedianPrice": 426140,
+          "priceDiffPct": 0,
+          "ourMedianPricePerM2": 40,
+          "competitorMedianPricePerM2": 40,
+          "pricePerM2DiffPct": 0
+        },
+        {
+          "category": "DZIAŁKA",
+          "city": "ŁAZISKA",
+          "ourCount": 2,
+          "competitorCount": 3,
+          "ourMedianPrice": 528220,
+          "competitorMedianPrice": 728000,
+          "priceDiffPct": -27.4,
+          "ourMedianPricePerM2": 123,
+          "competitorMedianPricePerM2": 105,
+          "pricePerM2DiffPct": 17.1
+        },
+        {
+          "category": "DOM",
+          "city": "KOBYLEC",
+          "ourCount": 2,
+          "competitorCount": 5,
+          "ourMedianPrice": 635000,
+          "competitorMedianPrice": 799000,
+          "priceDiffPct": -20.5,
+          "ourMedianPricePerM2": 5296,
+          "competitorMedianPricePerM2": 4540,
+          "pricePerM2DiffPct": 16.7
         },
         {
           "category": "DOM",
@@ -178,39 +214,123 @@
         },
         {
           "category": "DZIAŁKA",
+          "city": "RUNOWO",
+          "ourCount": 1,
+          "competitorCount": 2,
+          "ourMedianPrice": 72000,
+          "competitorMedianPrice": 311000,
+          "priceDiffPct": -76.8,
+          "ourMedianPricePerM2": 90,
+          "competitorMedianPricePerM2": 90,
+          "pricePerM2DiffPct": 0
+        },
+        {
+          "category": "DZIAŁKA",
           "city": "ROGOŹNO",
           "ourCount": 1,
-          "competitorCount": 7,
+          "competitorCount": 46,
           "ourMedianPrice": 142920,
-          "competitorMedianPrice": 80000,
-          "priceDiffPct": 78.7,
+          "competitorMedianPrice": 140460,
+          "priceDiffPct": 1.8,
           "ourMedianPricePerM2": 120,
-          "competitorMedianPricePerM2": 100,
-          "pricePerM2DiffPct": 20
+          "competitorMedianPricePerM2": 88,
+          "pricePerM2DiffPct": 36.4
+        },
+        {
+          "category": "DZIAŁKA",
+          "city": "KALISKA",
+          "ourCount": 1,
+          "competitorCount": 2,
+          "ourMedianPrice": 880000,
+          "competitorMedianPrice": 736820,
+          "priceDiffPct": 19.4,
+          "ourMedianPricePerM2": 589,
+          "competitorMedianPricePerM2": 380,
+          "pricePerM2DiffPct": 55
+        },
+        {
+          "category": "DZIAŁKA",
+          "city": "BOGUNIEWO",
+          "ourCount": 1,
+          "competitorCount": 1,
+          "ourMedianPrice": 189000,
+          "competitorMedianPrice": 149000,
+          "priceDiffPct": 26.8,
+          "ourMedianPricePerM2": 95,
+          "competitorMedianPricePerM2": 109,
+          "pricePerM2DiffPct": -12.8
+        },
+        {
+          "category": "DOM",
+          "city": "ŁAZISKA",
+          "ourCount": 1,
+          "competitorCount": 1,
+          "ourMedianPrice": 1149000,
+          "competitorMedianPrice": 1149000,
+          "priceDiffPct": 0,
+          "ourMedianPricePerM2": 4256,
+          "competitorMedianPricePerM2": 4256,
+          "pricePerM2DiffPct": 0
         },
         {
           "category": "DZIAŁKA",
           "city": "WĄGROWIEC",
           "ourCount": 1,
-          "competitorCount": 9,
+          "competitorCount": 119,
           "ourMedianPrice": 260000,
-          "competitorMedianPrice": 115000,
-          "priceDiffPct": 126.1,
+          "competitorMedianPrice": 260000,
+          "priceDiffPct": 0,
           "ourMedianPricePerM2": 267,
-          "competitorMedianPricePerM2": 223,
-          "pricePerM2DiffPct": 19.7
+          "competitorMedianPricePerM2": 103,
+          "pricePerM2DiffPct": 159.2
         },
         {
           "category": "DOM",
           "city": "GARBATKA",
           "ourCount": 1,
-          "competitorCount": 1,
+          "competitorCount": 2,
           "ourMedianPrice": 920000,
-          "competitorMedianPrice": 920000,
-          "priceDiffPct": 0,
+          "competitorMedianPrice": 780000,
+          "priceDiffPct": 17.9,
           "ourMedianPricePerM2": 7931,
-          "competitorMedianPricePerM2": 7931,
+          "competitorMedianPricePerM2": 5299,
+          "pricePerM2DiffPct": 49.7
+        },
+        {
+          "category": "DZIAŁKA",
+          "city": "STUDZIENIEC",
+          "ourCount": 1,
+          "competitorCount": 2,
+          "ourMedianPrice": 205000,
+          "competitorMedianPrice": 152500,
+          "priceDiffPct": 34.4,
+          "ourMedianPricePerM2": 98,
+          "competitorMedianPricePerM2": 99,
+          "pricePerM2DiffPct": -1
+        },
+        {
+          "category": "DOM",
+          "city": "OCHODZA",
+          "ourCount": 1,
+          "competitorCount": 3,
+          "ourMedianPrice": 950000,
+          "competitorMedianPrice": 449000,
+          "priceDiffPct": 111.6,
+          "ourMedianPricePerM2": 5404,
+          "competitorMedianPricePerM2": 5404,
           "pricePerM2DiffPct": 0
+        },
+        {
+          "category": "DOM",
+          "city": "WIATROWIEC",
+          "ourCount": 1,
+          "competitorCount": 1,
+          "ourMedianPrice": 659900,
+          "competitorMedianPrice": 1290000,
+          "priceDiffPct": -48.8,
+          "ourMedianPricePerM2": 6747,
+          "competitorMedianPricePerM2": 3519,
+          "pricePerM2DiffPct": 91.7
         },
         {
           "category": "MIESZKANIE",
@@ -227,9 +347,13 @@
       ]
     },
     "sourceCounts": {
-      "otodom": 165,
+      "otodom": 86,
+      "nieruchomosci-online+otodom": 72,
       "olx+otodom": 12,
-      "olx": 32
+      "nieruchomosci-online+olx+otodom": 7,
+      "olx": 35,
+      "nieruchomosci-online+olx": 1,
+      "nieruchomosci-online": 727
     }
   },
   "timeSeries": [

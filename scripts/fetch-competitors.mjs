@@ -10,6 +10,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { fetchOtodomSnapshot } from "../lib/competitors/otodom.mjs";
 import { fetchOlxSnapshot } from "../lib/competitors/olx.mjs";
+import { fetchNoSnapshot } from "../lib/competitors/nieruchomosci-online.mjs";
 import { dedupeCompetitorOffers } from "../lib/competitors/dedupe.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -41,6 +42,7 @@ async function main() {
 
   let otodom = [];
   let olx = [];
+  let no = [];
 
   try {
     otodom = await fetchOtodomSnapshot({ cities });
@@ -56,9 +58,16 @@ async function main() {
     console.error("[olx] Błąd:", err.message);
   }
 
-  // Deduplikacja: scal otodom + olx w jedną unikalną listę
-  if (otodom.length > 0 || olx.length > 0) {
-    const { unique, stats } = dedupeCompetitorOffers({ otodom, olx });
+  try {
+    no = await fetchNoSnapshot({ cities });
+    await save("nieruchomosci-online", no);
+  } catch (err) {
+    console.error("[NO] Błąd:", err.message);
+  }
+
+  // Deduplikacja: scal otodom + olx + NO w jedną unikalną listę
+  if (otodom.length > 0 || olx.length > 0 || no.length > 0) {
+    const { unique, stats } = dedupeCompetitorOffers({ otodom, olx, no });
     await save("combined", unique);
     console.log("[dedupe]", JSON.stringify(stats, null, 2));
   }

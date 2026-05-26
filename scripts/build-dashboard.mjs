@@ -240,8 +240,8 @@ const html = `<!DOCTYPE html>
 
     <!-- === Historia konkurencji === -->
     <div class="border-t border-stone-200 pt-8 mb-6">
-      <h2 class="text-xl font-bold mb-1">🌍 Rynek i konkurencja — historia (Otodom + OLX)</h2>
-      <p class="text-sm text-stone-500 mb-4">Te same metryki dla ofert konkurencji w Wągrowcu i Rogoźnie. Listed = data utworzenia oferty na portalu (dateCreated).</p>
+      <h2 class="text-xl font-bold mb-1">🌍 Rynek i konkurencja — historia (Otodom + OLX + Nieruchomosci-Online)</h2>
+      <p class="text-sm text-stone-500 mb-4">Te same metryki dla ofert konkurencji w Wągrowcu i Rogoźnie. Listed = data utworzenia oferty na portalu (dateCreated). Oferty z Nieruchomości-Online nie mają tej daty - używamy daty kiedy je pierwszy raz zobaczyliśmy, co zaniża "czas na rynku" dla tego źródła.</p>
     </div>
 
     <section class="bg-white rounded-2xl shadow-sm p-5 mb-6">
