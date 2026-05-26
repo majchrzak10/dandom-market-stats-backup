@@ -291,6 +291,43 @@ if (bench) {
   });
 }
 
+// === Tab 2: Kto wystawia oferty konkurencji ===
+const CA = A.competitorAgents;
+if (CA && CA.total > 0) {
+  // Pie: prywatne | top10 biur | reszta biur | nieznane
+  const top10Count = CA.byAgency.slice(0, 10).reduce((s, a) => s + a.count, 0);
+  const restAgenciesCount = CA.knownAgent - top10Count;
+  new Chart(document.getElementById("competitor-agents-pie"), {
+    type: "doughnut",
+    data: {
+      labels: ["Prywatne", "Top 10 biur", "Pozostałe biura", "Nieznane (NO)"],
+      datasets: [
+        {
+          data: [CA.private, top10Count, restAgenciesCount, CA.unknown],
+          backgroundColor: ["#5d7e3f", "#800020", "#b8860b", "#a8a29e"],
+        },
+      ],
+    },
+    options: {
+      plugins: {
+        legend: { position: "bottom", labels: { boxWidth: 12, font: { size: 11 } } },
+        tooltip: { callbacks: { label: (ctx) => ctx.label + ": " + ctx.parsed + " (" + Math.round((ctx.parsed / CA.total) * 100) + "%)" } },
+      },
+    },
+  });
+
+  // Bar: top 10 biur
+  const top10 = CA.byAgency.slice(0, 10);
+  new Chart(document.getElementById("competitor-top-agencies"), {
+    type: "bar",
+    data: {
+      labels: top10.map((a) => (a.name.length > 35 ? a.name.slice(0, 35) + "…" : a.name)),
+      datasets: [{ label: "Oferty", data: top10.map((a) => a.count), backgroundColor: "#800020" }],
+    },
+    options: { indexAxis: "y", plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true, ticks: { precision: 0 } } } },
+  });
+}
+
 // === TAB 3: HISTORIA ===
 const H = A.history;
 if (H && H.months && H.months.length > 0) {
@@ -452,6 +489,37 @@ if (H && H.months && H.months.length > 0) {
   if (CH && CH.months && CH.months.length > 0) {
     const cLabels = CH.months.map((m) => m.key);
     const cCategories = Array.from(new Set(CH.months.flatMap((m) => Object.keys(m.byCategory))));
+
+    // === Top biura konkurencyjne - trend w czasie ===
+    const CAH = A.competitorAgentsHistory;
+    if (CAH && CAH.length > 0) {
+      // Top 5 z ostatniego dnia, narysuj ich trajektorie w czasie
+      const lastDay = CAH[CAH.length - 1];
+      const top5Names = lastDay.topAgencies.slice(0, 5).map((a) => a.name);
+      const cahLabels = CAH.map((d) => d.date);
+      const trendColors = ["#800020", "#b8860b", "#5d7e3f", "#4a6fa5", "#8c4a6a"];
+
+      new Chart(document.getElementById("competitor-agencies-trend"), {
+        type: "line",
+        data: {
+          labels: cahLabels,
+          datasets: top5Names.map((name, i) => ({
+            label: name.length > 30 ? name.slice(0, 30) + "…" : name,
+            data: CAH.map((d) => d.topAgencies.find((a) => a.name === name)?.count ?? 0),
+            borderColor: trendColors[i % trendColors.length],
+            backgroundColor: "transparent",
+            tension: 0.25,
+            fill: false,
+            borderWidth: 1.8,
+          })),
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { position: "bottom", labels: { boxWidth: 12, font: { size: 11 } } } },
+          scales: { y: { beginAtZero: true, ticks: { precision: 0 } } },
+        },
+      });
+    }
 
     // === Nasz udzial w rynku w czasie ===
     // Wspólne klucze (oba muszą mieć dany bucket), inaczej share nie ma sensu.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T13:18:05.655Z",
+  "generatedAt": "2026-05-26T13:41:39.199Z",
   "kpi": {
     "date": "2026-05-26",
     "totalOffers": 58,
@@ -71,18 +71,18 @@
         "key": "2026-05-28",
         "start": "2026-05-15",
         "end": "2026-05-28",
-        "total": 940,
-        "sale": 940,
+        "total": 717,
+        "sale": 717,
         "byCategory": {
-          "MIESZKANIE": 240,
+          "MIESZKANIE": 238,
           "INWESTYCJA": 1,
-          "DOM": 294,
-          "DZIAŁKA": 405
+          "DOM": 207,
+          "DZIAŁKA": 271
         },
-        "medianPrice": 300000,
-        "avgPrice": 537334,
-        "medianPricePerM2": 1954,
-        "avgDaysOnMarket": 34,
+        "medianPrice": 320000,
+        "avgPrice": 595742,
+        "medianPricePerM2": 2557,
+        "avgDaysOnMarket": 44,
         "medianDaysOnMarket": 2,
         "topCities": [
           {
@@ -91,30 +91,30 @@
           },
           {
             "city": "ROGOŹNO",
-            "count": 180
+            "count": 177
           },
           {
-            "city": "ROGÓŹNO",
-            "count": 119
+            "city": "NIENAWISZCZ",
+            "count": 11
           },
           {
-            "city": "TOMASZÓW LUBELSKI",
-            "count": 16
+            "city": "JARACZ",
+            "count": 10
           },
           {
-            "city": "ROGÓŻNO",
-            "count": 13
+            "city": "GARBATKA",
+            "count": 9
           }
         ],
         "beforeTracking": false
       }
     ],
-    "totalOffers": 1002
+    "totalOffers": 780
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 940,
+      "totalCompetitorOffers": 717,
       "comparison": [
         {
           "category": "MIESZKANIE",
@@ -144,7 +144,7 @@
           "category": "DOM",
           "city": "ROGOŹNO",
           "ourCount": 4,
-          "competitorCount": 42,
+          "competitorCount": 40,
           "ourMedianPrice": 464500,
           "competitorMedianPrice": 485000,
           "priceDiffPct": -4.2,
@@ -228,13 +228,13 @@
           "category": "DZIAŁKA",
           "city": "ROGOŹNO",
           "ourCount": 1,
-          "competitorCount": 46,
+          "competitorCount": 45,
           "ourMedianPrice": 142920,
-          "competitorMedianPrice": 140460,
-          "priceDiffPct": 1.8,
+          "competitorMedianPrice": 142920,
+          "priceDiffPct": 0,
           "ourMedianPricePerM2": 120,
-          "competitorMedianPricePerM2": 88,
-          "pricePerM2DiffPct": 36.4
+          "competitorMedianPricePerM2": 90,
+          "pricePerM2DiffPct": 33.3
         },
         {
           "category": "DZIAŁKA",
@@ -347,15 +347,778 @@
       ]
     },
     "sourceCounts": {
-      "otodom": 86,
+      "otodom": 85,
       "nieruchomosci-online+otodom": 72,
-      "olx+otodom": 12,
+      "olx+otodom": 13,
       "nieruchomosci-online+olx+otodom": 7,
       "olx": 35,
       "nieruchomosci-online+olx": 1,
-      "nieruchomosci-online": 727
+      "nieruchomosci-online": 504
     }
   },
+  "competitorAgents": {
+    "total": 717,
+    "private": 61,
+    "unknown": 513,
+    "knownAgent": 143,
+    "byAgency": [
+      {
+        "name": "FWK Nieruchomości",
+        "count": 14,
+        "totalValue": 3295612
+      },
+      {
+        "name": "PRO.DOM NIERUCHOMOŚCI",
+        "count": 13,
+        "totalValue": 15726032
+      },
+      {
+        "name": "SOHO Nieruchomości Katarzyna Wajnert",
+        "count": 13,
+        "totalValue": 3912400
+      },
+      {
+        "name": "Nieruchomości Furman oddz. Wągrowiec",
+        "count": 10,
+        "totalValue": 5222000
+      },
+      {
+        "name": "Phinance S.A.",
+        "count": 10,
+        "totalValue": 2968320
+      },
+      {
+        "name": "Nieruchomości Tectum",
+        "count": 8,
+        "totalValue": 2342720
+      },
+      {
+        "name": "Nieruchomości Apartament Piła",
+        "count": 5,
+        "totalValue": 3579330
+      },
+      {
+        "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+        "count": 5,
+        "totalValue": 9919000
+      },
+      {
+        "name": "Dominum Sp. z o.o.",
+        "count": 4,
+        "totalValue": 2399000
+      },
+      {
+        "name": "Nieruchomości Kaczmarek",
+        "count": 4,
+        "totalValue": 1045610
+      },
+      {
+        "name": "GRACJAN-NIERUCHOMOŚCI",
+        "count": 4,
+        "totalValue": 5160000
+      },
+      {
+        "name": "DomVisio",
+        "count": 3,
+        "totalValue": 580000
+      },
+      {
+        "name": "POLSKA GIEŁDA NIERUCHOMOŚCI",
+        "count": 3,
+        "totalValue": 1093000
+      },
+      {
+        "name": "Senger&Partners Nieruchomosci",
+        "count": 3,
+        "totalValue": 799555
+      },
+      {
+        "name": "Małgorzata Krawczyk Nieruchomości",
+        "count": 2,
+        "totalValue": 398000
+      },
+      {
+        "name": "Kancelaria Prawna Promesa Home",
+        "count": 2,
+        "totalValue": 190000
+      },
+      {
+        "name": "Jack-Bud Polska Sp. z o.o. Sp.k.",
+        "count": 1,
+        "totalValue": 0
+      },
+      {
+        "name": "ARASZKIEWICZ NIERUCHOMOŚCI",
+        "count": 1,
+        "totalValue": 135000
+      },
+      {
+        "name": "Choiński Kroll Nieruchomości",
+        "count": 1,
+        "totalValue": 860000
+      },
+      {
+        "name": "Park Home Sp. z o.o.",
+        "count": 1,
+        "totalValue": 1100000
+      },
+      {
+        "name": "JMK Kosmaczewscy Nieruchomości",
+        "count": 1,
+        "totalValue": 1100000
+      },
+      {
+        "name": "HOME",
+        "count": 1,
+        "totalValue": 1200000
+      },
+      {
+        "name": "LIDER  NIERUCHOMOSCI POZNAŃ",
+        "count": 1,
+        "totalValue": 200000
+      },
+      {
+        "name": "EASY-HOME Agencja Nieruchomości",
+        "count": 1,
+        "totalValue": 105000
+      },
+      {
+        "name": "Intrum Spółka z ograniczoną odpowiedzialnością",
+        "count": 1,
+        "totalValue": 5920000
+      },
+      {
+        "name": "Movinest - Biuro Nieruchomości",
+        "count": 1,
+        "totalValue": 103740
+      },
+      {
+        "name": "Invest Realty",
+        "count": 1,
+        "totalValue": 85900
+      },
+      {
+        "name": "Aptacy Nieruchomości",
+        "count": 1,
+        "totalValue": 95000
+      },
+      {
+        "name": "Nieruchomości Furman oddział Czarnków i Chodzież",
+        "count": 1,
+        "totalValue": 165550
+      },
+      {
+        "name": "MySpot",
+        "count": 1,
+        "totalValue": 219000
+      },
+      {
+        "name": "Nieruchomości FORMA",
+        "count": 1,
+        "totalValue": 170000
+      },
+      {
+        "name": "Kuśnierska Nieruchomości",
+        "count": 1,
+        "totalValue": 188000
+      },
+      {
+        "name": "Handom Nieruchomości",
+        "count": 1,
+        "totalValue": 117900
+      }
+    ]
+  },
+  "competitorAgentsHistory": [
+    {
+      "date": "2026-05-15",
+      "total": 194,
+      "private": 55,
+      "unknown": 9,
+      "knownAgent": 130,
+      "topAgencies": [
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10
+        },
+        {
+          "name": "FWK Nieruchomości",
+          "count": 9
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 6
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "GRACJAN-NIERUCHOMOŚCI",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "total": 194,
+      "private": 57,
+      "unknown": 9,
+      "knownAgent": 128,
+      "topAgencies": [
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10
+        },
+        {
+          "name": "FWK Nieruchomości",
+          "count": 8
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 6
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "total": 189,
+      "private": 56,
+      "unknown": 9,
+      "knownAgent": 124,
+      "topAgencies": [
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "FWK Nieruchomości",
+          "count": 9
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 9
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 4
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "total": 194,
+      "private": 61,
+      "unknown": 8,
+      "knownAgent": 125,
+      "topAgencies": [
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "FWK Nieruchomości",
+          "count": 10
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 9
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 4
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "total": 202,
+      "private": 63,
+      "unknown": 9,
+      "knownAgent": 130,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 17
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 9
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 7
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "total": 211,
+      "private": 61,
+      "unknown": 9,
+      "knownAgent": 141,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 18
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 9
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 7
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 7
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "total": 215,
+      "private": 67,
+      "unknown": 8,
+      "knownAgent": 140,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 17
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 9
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 7
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 7
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "total": 217,
+      "private": 67,
+      "unknown": 8,
+      "knownAgent": 142,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 16
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 13
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 9
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 7
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 7
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "total": 222,
+      "private": 66,
+      "unknown": 9,
+      "knownAgent": 147,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 14
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 10
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 10
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "total": 219,
+      "private": 63,
+      "unknown": 9,
+      "knownAgent": 147,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 14
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 13
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 10
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 10
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "total": 216,
+      "private": 61,
+      "unknown": 9,
+      "knownAgent": 146,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 14
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 13
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 9
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 8
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "total": 717,
+      "private": 61,
+      "unknown": 513,
+      "knownAgent": 143,
+      "topAgencies": [
+        {
+          "name": "FWK Nieruchomości",
+          "count": 14
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 13
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 13
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 10
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 8
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
+          "count": 4
+        }
+      ]
+    }
+  ],
   "timeSeries": [
     {
       "date": "2026-05-15",

@@ -350,6 +350,66 @@ function loadAllCompetitorSnapshots(source) {
 const competitorSnapshots = loadAllCompetitorSnapshots("combined");
 const competitorHistory = buildCompetitorHistory({ snapshots: competitorSnapshots });
 
+// Nasze biuro - zeby wykluczyc nasze oferty z rankingu "kto wystawia konkurencyjnie".
+// Asari uzywa nazwy agenta ("Danuta Majchrzak"), portale uzywaja nazwy firmy
+// ("DAN-DOM Biuro Obrotu Nieruchomosciami Danuta Majchrzak"). Dopasowanie po
+// substring zamiast equality.
+const OUR_AGENCY_FRAGMENTS = ["DAN-DOM", "Dan-Dom", "dan-dom"];
+function isOurAgency(name) {
+  if (!name) return false;
+  return OUR_AGENCY_FRAGMENTS.some((frag) => name.includes(frag));
+}
+
+/**
+ * Buduje breakdown: kto wystawia oferty konkurencji w naszym regionie.
+ * Klasyfikacja: prywatne | znana agencja (otodom/olx ma agencyName) | nieznane (NO bez detail).
+ * Pomija nasze wlasne biuro z listy agencji.
+ */
+function buildCompetitorAgents(competitorOffers) {
+  let privateCount = 0;
+  let unknownCount = 0;
+  const byAgency = new Map();
+
+  for (const o of competitorOffers) {
+    if (o.isPrivate) {
+      privateCount++;
+    } else if (o.agencyName) {
+      if (isOurAgency(o.agencyName)) continue; // skip nasze
+      const cur = byAgency.get(o.agencyName) || { name: o.agencyName, count: 0, totalValue: 0 };
+      cur.count++;
+      if (o.pricePln) cur.totalValue += o.pricePln;
+      byAgency.set(o.agencyName, cur);
+    } else {
+      unknownCount++;
+    }
+  }
+
+  return {
+    total: competitorOffers.length,
+    private: privateCount,
+    unknown: unknownCount,
+    knownAgent: competitorOffers.length - privateCount - unknownCount,
+    byAgency: Array.from(byAgency.values()).sort((a, b) => b.count - a.count),
+  };
+}
+
+const competitorAgents = combinedSnapshot
+  ? buildCompetitorAgents(combinedSnapshot.offers)
+  : null;
+
+// Historyczny breakdown agencji - per dzien (uzywamy daily snapshots, bez bucketow)
+const competitorAgentsHistory = competitorSnapshots.map((snap) => {
+  const stats = buildCompetitorAgents(snap.offers);
+  return {
+    date: snap.date,
+    total: stats.total,
+    private: stats.private,
+    unknown: stats.unknown,
+    knownAgent: stats.knownAgent,
+    topAgencies: stats.byAgency.slice(0, 10).map((a) => ({ name: a.name, count: a.count })),
+  };
+});
+
 const analytics = {
   generatedAt: new Date().toISOString(),
   kpi,
@@ -359,6 +419,8 @@ const analytics = {
     competitor: benchmarkCombined,
     sourceCounts,
   },
+  competitorAgents,
+  competitorAgentsHistory,
   timeSeries,
   segmentation: {
     byCategory: bucketBy(sale, (o) => o.category),
