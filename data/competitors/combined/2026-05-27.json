@@ -1,8 +1,8 @@
 {
   "source": "combined",
   "date": "2026-05-27",
-  "generatedAt": "2026-05-27T08:08:47.288Z",
-  "offerCount": 670,
+  "generatedAt": "2026-05-27T08:46:33.499Z",
+  "offerCount": 667,
   "offers": [
     {
       "source": "otodom",
@@ -47,8 +47,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/calkowicie-wyposazone-mieszkanie-z-winda-wegnera-ID4BulJ",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26701967"
     },
@@ -95,8 +95,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/3-pokojowe-mieszkanie-na-sprzedaz-w-wagrowcu-ID4BsNY",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26669967"
     },
@@ -120,8 +120,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/przyjemna-kawalerka-lipowa-wagrowiec-ID4BrLi",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26693848"
     },
@@ -145,8 +145,8 @@
       "pushedUpAt": "2026-05-17T08:01:14+02:00",
       "href": "https://www.otodom.pl/pl/ad/dwupoziomowe-mieszkanie-w-centrum-wagrowca-ID4AwO9",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1073968503",
       "lat": 52.808422,
@@ -172,8 +172,8 @@
       "pushedUpAt": "2026-05-09T14:51:18+02:00",
       "href": "https://www.otodom.pl/pl/ad/przestronne-mieszkanie-na-sprzedaz-ID4lodv",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1072196762",
       "lat": 52.80789,
@@ -199,14 +199,41 @@
       "pushedUpAt": "2026-05-09T13:08:11+02:00",
       "href": "https://www.otodom.pl/pl/ad/2-pokoje-na-ii-pietrze-w-bezczynszowym-bloku-ID4AP1W",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "1066826710",
       "lat": 52.80093,
       "lon": 17.225811,
       "nieruchomosciOnlineId": "26578519"
+    },
+    {
+      "source": "otodom",
+      "externalId": "67970608",
+      "title": "Komfortowe Mieszkanie Na Sprzedaż",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 340000,
+      "pricePerM2": 7158,
+      "areaM2": 47.5,
+      "rooms": 2,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": "Dominum Sp. z o.o.",
+      "dateCreated": "2026-05-04 21:11:48",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.pl/pl/ad/komfortowe-mieszkanie-na-sprzedaz-ID4Bcg8",
+      "sources": [
+        "otodom",
+        "olx"
+      ],
+      "olxId": "1074933278",
+      "lat": 52.80789,
+      "lon": 17.1971
     },
     {
       "source": "otodom",
@@ -233,33 +260,6 @@
     },
     {
       "source": "otodom",
-      "externalId": "67970608",
-      "title": "Komfortowe Mieszkanie Na Sprzedaż",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 340000,
-      "pricePerM2": 7158,
-      "areaM2": 47.5,
-      "rooms": 2,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Dominum Sp. z o.o.",
-      "dateCreated": "2026-05-04 21:11:48",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/komfortowe-mieszkanie-na-sprzedaz-ID4Bcg8",
-      "sources": [
-        "olx",
-        "otodom"
-      ],
-      "olxId": "1074933278",
-      "lat": 52.80789,
-      "lon": 17.1971
-    },
-    {
-      "source": "otodom",
       "externalId": "67968247",
       "title": "Mieszkanie 3 pokoje, odrębna kuchnia, parter, balkon, piwnica",
       "estate": "FLAT",
@@ -278,8 +278,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-3-pokoje-odrebna-kuchnia-parter-balkon-piwnica-ID4BbE3",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26612725"
     },
@@ -303,8 +303,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/bez-czynszu-48-7-m-duza-loggia-zielen-wysoki-parter-wagrowiec-ID4B4vJ",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1069767665",
       "lat": 52.80789,
@@ -330,9 +330,9 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/3-pokojowe-mieszkanie-bezczynszowe-na-sprzedaz-w-wagrowcu-ID4AZ8D",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "1067822587",
       "lat": 52.799118,
@@ -359,8 +359,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/lokal-mieszkalny-z-ogrodkiem-wagrowiec-ID4AViL",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26668919"
     },
@@ -407,9 +407,9 @@
       "pushedUpAt": "2026-03-08T14:42:44+01:00",
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-3-pokojowe-wagrowiec-ul-klasztorna-ID4zM8L",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "1050723689",
       "lat": 52.80213,
@@ -436,8 +436,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-69-2-m-kw-3-pok-parter-2-ogrodki-komorka-hala-garaz-ID4Afn0",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26443541"
     },
@@ -461,8 +461,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/przytulne-2-pokoje-na-osadzie-ID4A1pN",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26437467"
     },
@@ -486,8 +486,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/3-pokojowe-mieszkanie-na-parterze-w-bloku-w-wagrowcu-na-sprzedaz-ID4zEgG",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26184150",
       "noAliases": [
@@ -514,8 +514,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-59-54-m-wagrowiec-ID4z7ln",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26227460"
     },
@@ -539,8 +539,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/poranna-kawa-na-wlasnym-tarasie-3-pokoje-czekaja-ID4yGO9",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26209090"
     },
@@ -564,8 +564,8 @@
       "pushedUpAt": "2025-08-27T11:06:26+02:00",
       "href": "https://www.otodom.pl/pl/ad/nowe-mieszkanie-nad-nielba-wagrowiec-iii-etap-ID4dUIy",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26531486"
     },
@@ -589,8 +589,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-3-pokoje-wagrowiec-ulica-srednia-ID4xBFm",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26116418"
     },
@@ -614,8 +614,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/centrum-wagrowca-2-pokoje-z-potencjalem-ID4vjnk",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25804062"
     },
@@ -639,8 +639,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/idealne-na-wynajem-parking-w-cenie-podlogowka-ID4v9N7",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25777600"
     },
@@ -664,8 +664,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/przestronne-mieszkanie-z-podworkiem-wagrowiec-ID4v10p",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25636701"
     },
@@ -689,8 +689,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/winda-parking-podlogowka-nowa-inwestycja-ID4uAk7",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25512613",
       "noAliases": [
@@ -722,31 +722,6 @@
     },
     {
       "source": "otodom",
-      "externalId": "66394814",
-      "title": "nowe osiedle❗️ rolety❗️ podłogówka❗️ winda",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 288990,
-      "pricePerM2": 7410,
-      "areaM2": 39,
-      "rooms": 2,
-      "floor": 3,
-      "city": "Wągrowiec",
-      "street": "Grunwaldzka",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Phinance S.A.",
-      "dateCreated": "2025-01-24 18:35:07",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/nowe-osiedle-rolety-podlogowka-winda-ID4uAk6",
-      "sources": [
-        "nieruchomosci-online",
-        "otodom"
-      ],
-      "nieruchomosciOnlineId": "25512612"
-    },
-    {
-      "source": "otodom",
       "externalId": "66394812",
       "title": "Nowa inwestycja, wygodne układy, wysoki standard",
       "estate": "FLAT",
@@ -765,10 +740,35 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/nowa-inwestycja-wygodne-uklady-wysoki-standard-ID4uAk4",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25512610"
+    },
+    {
+      "source": "otodom",
+      "externalId": "66394814",
+      "title": "nowe osiedle❗️ rolety❗️ podłogówka❗️ winda",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 288990,
+      "pricePerM2": 7410,
+      "areaM2": 39,
+      "rooms": 2,
+      "floor": 3,
+      "city": "Wągrowiec",
+      "street": "Grunwaldzka",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": "Phinance S.A.",
+      "dateCreated": "2025-01-24 18:35:07",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.pl/pl/ad/nowe-osiedle-rolety-podlogowka-winda-ID4uAk6",
+      "sources": [
+        "otodom",
+        "nieruchomosci-online"
+      ],
+      "nieruchomosciOnlineId": "25512612"
     },
     {
       "source": "otodom",
@@ -790,8 +790,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/nowa-inwestycja-wygodne-uklady-wysoki-standard-ID4uoXb",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25484392"
     },
@@ -815,8 +815,8 @@
       "pushedUpAt": "2026-05-26T10:06:12+02:00",
       "href": "https://www.otodom.plhpr//pl/ad/2-pokoje-z-balkonem-47-5-m-centrum-wagrowca-duzy-potencjal-ID4Aqqk",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1059607696",
       "lat": 52.815826,
@@ -842,35 +842,10 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/2-wygodne-pokoje-balkon-parking-ID4u3F1",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25447861"
-    },
-    {
-      "source": "otodom",
-      "externalId": "66269255",
-      "title": "2 wygodne pokoje, balkon, parking",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 301673,
-      "pricePerM2": 7125,
-      "areaM2": 42.34,
-      "rooms": 2,
-      "floor": 1,
-      "city": "Wągrowiec",
-      "street": "Grunwaldzka",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Phinance S.A.",
-      "dateCreated": "2024-12-30 15:37:28",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/2-wygodne-pokoje-balkon-parking-ID4u3EX",
-      "sources": [
-        "nieruchomosci-online",
-        "otodom"
-      ],
-      "nieruchomosciOnlineId": "25447858"
     },
     {
       "source": "otodom",
@@ -892,14 +867,39 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/2-wygodne-pokoje-balkon-parking-ID4u3EZ",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25447860",
       "noAliases": [
         "25423823",
         "23940920"
       ]
+    },
+    {
+      "source": "otodom",
+      "externalId": "66269255",
+      "title": "2 wygodne pokoje, balkon, parking",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 301673,
+      "pricePerM2": 7125,
+      "areaM2": 42.34,
+      "rooms": 2,
+      "floor": 1,
+      "city": "Wągrowiec",
+      "street": "Grunwaldzka",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": "Phinance S.A.",
+      "dateCreated": "2024-12-30 15:37:28",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.pl/pl/ad/2-wygodne-pokoje-balkon-parking-ID4u3EX",
+      "sources": [
+        "otodom",
+        "nieruchomosci-online"
+      ],
+      "nieruchomosciOnlineId": "25447858"
     },
     {
       "source": "otodom",
@@ -967,8 +967,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/zaprojektuj-od-zera-dom-z-potencjalem-wagrowiec-ID4Bv26",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26706612"
     },
@@ -992,8 +992,8 @@
       "pushedUpAt": "2026-05-25T12:48:48+02:00",
       "href": "https://www.otodom.pl/pl/ad/komfortowy-dom-z-basenem-i-ogrodem-zimowym-ID4AyTG",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1061569187",
       "lat": 52.804855,
@@ -1042,8 +1042,8 @@
       "pushedUpAt": "2026-05-20T20:45:41+02:00",
       "href": "https://www.otodom.pl/pl/ad/dom-88-m-wagrowiec-ID4ASGN",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1066294424",
       "lat": 52.80789,
@@ -1092,8 +1092,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/blizniak-z-garazem-i-ogrodem-199m2-ID4BmID",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1074932850",
       "lat": 52.80789,
@@ -1119,9 +1119,9 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dom-w-pieknej-okolicy-jeziora-las-rzeka-0-ID4BlKd",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "1073745347",
       "lat": 52.813393,
@@ -1148,8 +1148,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/kamienica-w-srodku-miasta-nad-rzeka-ID4Bgwi",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1072089776",
       "lat": 52.80419,
@@ -1175,8 +1175,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dom-144-m-wagrowiec-ID4B8m8",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26636035"
     },
@@ -1223,8 +1223,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/nowy-dom-parterowy-wagrowiec-ul-leszczynowa-ID4B4Eg",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26572069"
     },
@@ -1248,9 +1248,9 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/parterowy-dom-w-miescie-ID4AXXg",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "1067593705",
       "lat": 52.8134,
@@ -1300,8 +1300,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dom-w-prestizowej-i-spokojnej-dzielnicy-wagrowca-ID4AMMb",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26572124"
     },
@@ -1325,8 +1325,8 @@
       "pushedUpAt": "2026-03-30T13:56:27+02:00",
       "href": "https://www.otodom.pl/pl/ad/dom-w-wagrowcu-ID4xHgY",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26118551"
     },
@@ -1350,9 +1350,9 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/obnizka-ceny-komfortowy-dom-w-wagrowcu-ID4sQP6",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "950524132",
       "lat": 52.81372,
@@ -1425,8 +1425,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dom-mieszkalny-z-lokalem-na-parterze-wagrowiec-ID4xjJm",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "24735928"
     },
@@ -1473,8 +1473,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/kamienica-na-sprzedaz-ul-kolejowa-ID4sArd",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25733804"
     },
@@ -1521,8 +1521,8 @@
       "pushedUpAt": "2026-05-26T15:20:21+02:00",
       "href": "https://www.otodom.pl/pl/ad/dzialka-inwestycyjna-mpzp-wagrowiec-ID4AEC5",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26570857"
     },
@@ -1569,8 +1569,8 @@
       "pushedUpAt": "2026-05-13T09:07:16+02:00",
       "href": "https://www.otodom.pl/pl/ad/syndyk-sprzeda-26-45-udzialu-w-nieruchomosci-drogowej-ID4AMXl",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1065426193",
       "lat": 52.80789,
@@ -1596,8 +1596,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-budowlana-w-wagrowcu-ID4AOaA",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1069850376",
       "lat": 52.80789,
@@ -1623,8 +1623,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-uslugowa-nad-rzeka-wagrowiec-berdychowo-ID4B4Hf",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26625379"
     },
@@ -1717,8 +1717,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/atrakcyjna-dzialka-budowlana-pod-inwestcje-wagrowiec-ID4zfMn",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26431657"
     },
@@ -1765,8 +1765,8 @@
       "pushedUpAt": "2026-05-26T15:20:21+02:00",
       "href": "https://www.otodom.plhpr//pl/ad/dzialka-inwestycyjna-mpzp-wagrowiec-ID4AEC5",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1062884319",
       "lat": 52.816895,
@@ -1792,8 +1792,8 @@
       "pushedUpAt": "2026-05-21T18:44:17+02:00",
       "href": "https://www.otodom.pl/pl/ad/wyjatkowe-mieszkanie-w-rogoznie-blisko-jeziora-ID4rxLH",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25084054",
       "noAliases": [
@@ -1820,8 +1820,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-2-pokojowe-na-parterze-z-klimatyzacja-ID4BqND",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26691275"
     },
@@ -1914,8 +1914,8 @@
       "pushedUpAt": "2026-05-09T13:09:04+02:00",
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-na-parterze-z-balkonem-ID4Agt0",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26478068"
     },
@@ -1962,9 +1962,9 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/nowoczesne-i-w-pelni-wyposazone-nowe-rogozno-ID4Bg3s",
       "sources": [
-        "nieruchomosci-online",
+        "otodom",
         "olx",
-        "otodom"
+        "nieruchomosci-online"
       ],
       "olxId": "1075753110",
       "lat": 52.74855,
@@ -1991,8 +1991,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/atrakcyjne-mieszkanie-2-pokojowe-z-balkonem-i-winda-ID4Bb8v",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26643943"
     },
@@ -2039,8 +2039,8 @@
       "pushedUpAt": "2026-04-10T10:13:47+02:00",
       "href": "https://www.otodom.pl/pl/ad/3-pokojowe-bezczynszowe-mieszkanie-z-garazem-na-sprzedaz-w-rogoznie-ID4zlX8",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25906808"
     },
@@ -2110,8 +2110,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/rogozno-duze-mieszkanie-na-sprzedaz-ID4AM5o",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26496973"
     },
@@ -2135,8 +2135,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-35-30-m-rogozno-ID4Arxm",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26509355"
     },
@@ -2160,8 +2160,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-w-bloku-na-parterze-ID4Aihv",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26483177"
     },
@@ -2208,8 +2208,8 @@
       "pushedUpAt": "2026-01-26T12:43:23+01:00",
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-41-27-m-rogozno-ID4ztcp",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26348709"
     },
@@ -2233,8 +2233,8 @@
       "pushedUpAt": "2026-01-24T11:52:51+01:00",
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-48-m-rogozno-ID4zaS4",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26294535"
     },
@@ -2258,8 +2258,8 @@
       "pushedUpAt": "2025-11-17T22:04:03+01:00",
       "href": "https://www.otodom.pl/pl/ad/mieszkanie-40-m-rogozno-ID4tvVt",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25366449"
     },
@@ -2306,8 +2306,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/stylowe-mieszkanie-po-remoncie-ID4ypjf",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26160364"
     },
@@ -2331,8 +2331,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/3-pokoje-po-remoncie-bezczynszowe-gotowe-do-zamieszkania-ID4vu1M",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25837202"
     },
@@ -2356,8 +2356,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/3-pokoje-rogozno-ID4tUhE",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25886180"
     },
@@ -2565,8 +2565,8 @@
       "pushedUpAt": "2026-05-09T13:09:39+02:00",
       "href": "https://www.otodom.pl/pl/ad/nowoczesny-dom-jednorodzinny-z-garazem-ID4zLZm",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26398926"
     },
@@ -2659,8 +2659,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/segment-z-dzialka-ruda-k-rogozna-ID4B8Cm",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26636913"
     },
@@ -2707,8 +2707,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dom-hale-biuro-idealne-pod-dzialalnosc-ID4AZUA",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26610140"
     },
@@ -2824,8 +2824,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/nowa-inwestycja-domy-dwulokalowe-w-jaraczu-gmin-ID4AJO4",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26562977"
     },
@@ -2849,8 +2849,8 @@
       "pushedUpAt": "2026-03-23T11:53:48+01:00",
       "href": "https://www.otodom.pl/pl/ad/dom-240-m-prusce-ID4zScj",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26416593"
     },
@@ -2874,8 +2874,8 @@
       "pushedUpAt": "2026-01-24T11:53:03+01:00",
       "href": "https://www.otodom.pl/pl/ad/dom-63-m-rogozno-ID4zaXG",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26294734"
     },
@@ -2899,8 +2899,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dom-jednorodzinny-w-rogoznie-ID4xdx8",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25964501"
     },
@@ -2947,8 +2947,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/sprzedam-dzialke-5470-m2-ID4Bwer",
       "sources": [
-        "olx",
-        "otodom"
+        "otodom",
+        "olx"
       ],
       "olxId": "1074425053",
       "lat": 52.75185,
@@ -2997,8 +2997,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-pod-lasem-owczeglowy-5-minut-od-rogozna-ID4BqFT",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26690737"
     },
@@ -3137,8 +3137,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/duze-dzialki-budowlane-w-welnie-ID4BogG",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26428527"
     },
@@ -3300,8 +3300,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-budowlana-rogozno-825-m-media-pozwolenie-planowana-s11-ID4Bh7p",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26662646"
     },
@@ -3417,8 +3417,8 @@
       "pushedUpAt": "2026-04-13T14:46:51+02:00",
       "href": "https://www.otodom.pl/pl/ad/dzialki-budowlane-rogozno-ID4Awkf",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26578838"
     },
@@ -3442,8 +3442,8 @@
       "pushedUpAt": "2026-04-10T21:32:10+02:00",
       "href": "https://www.otodom.pl/pl/ad/dzialka-w-poblizu-jeziora-faktura-vat-ID4AF2R",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26548704"
     },
@@ -3536,8 +3536,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-w-poblizu-jeziora-faktura-vat-ID4AF2Q",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26548703"
     },
@@ -3607,8 +3607,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/okazja-dzialka-z-wydanym-pozwoleniem-na-budowe-ID4Ar26",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26508031"
     },
@@ -3770,8 +3770,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/grudna-dzialka-budowlana-ID4zmbJ",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26326051"
     },
@@ -3887,8 +3887,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialki-budowlane-ID4yH3U",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26209936"
     },
@@ -3935,8 +3935,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-pod-zespol-budynkow-ID4ymzu",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26151793",
       "noAliases": [
@@ -4032,8 +4032,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/atrakcyjna-dzialka-w-centrum-rogozna-z-dostepem-do-ID4xDNX",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26036184"
     },
@@ -4080,8 +4080,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-rolna-ID4vFyi",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25871433"
     },
@@ -4105,8 +4105,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-4-300-m-studzieniec-ID4wBC9",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25676351"
     },
@@ -4130,8 +4130,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-2-600-m-rogozno-ID4wAKr",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25674056"
     },
@@ -4155,8 +4155,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-2-000-m-prusce-ID4wwdz",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25658995"
     },
@@ -4180,8 +4180,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-1-020-m-rogozno-ID4wgUS",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25613513"
     },
@@ -4205,8 +4205,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-11-603-m-garbatka-ID4w96p",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25599970"
     },
@@ -4230,8 +4230,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/grunty-przemyslowe-przy-s-11-mozliwosc-ID4uQbA",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25550551"
     },
@@ -4255,8 +4255,8 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/dzialka-4-368-m-prusce-ID4tiuF",
       "sources": [
-        "nieruchomosci-online",
-        "otodom"
+        "otodom",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25330384"
     },
@@ -4413,8 +4413,8 @@
       "title": "Mieszkania w Wągrowcu na sprzedaż!",
       "estate": "FLAT",
       "transaction": "SELL",
-      "pricePln": 210000,
-      "pricePerM2": 4941,
+      "pricePln": 189000,
+      "pricePerM2": 4447,
       "areaM2": 42.5,
       "rooms": 2,
       "floor": null,
@@ -4430,8 +4430,10 @@
       "lon": 17.1971,
       "externalUrl": null,
       "sources": [
-        "olx"
-      ]
+        "olx",
+        "nieruchomosci-online"
+      ],
+      "nieruchomosciOnlineId": "21932632"
     },
     {
       "source": "olx",
@@ -4456,8 +4458,8 @@
       "lon": 17.1971,
       "externalUrl": null,
       "sources": [
-        "nieruchomosci-online",
-        "olx"
+        "olx",
+        "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "25823527",
       "noAliases": [
@@ -4923,7 +4925,7 @@
       "isPrivate": true,
       "agencyName": null,
       "dateCreated": "2026-05-05T18:13:50+02:00",
-      "pushedUpAt": "2026-05-23T18:19:07+02:00",
+      "pushedUpAt": "2026-05-26T18:19:07+02:00",
       "href": "https://www.olx.pl/d/oferta/mieszkanie-na-sprzedaz-rogozno-CID3-ID1awbk6.html",
       "lat": 52.75185,
       "lon": 16.99472,
@@ -5090,6 +5092,32 @@
     },
     {
       "source": "olx",
+      "externalId": "923060776",
+      "title": "Dzialki  budowlane z  NOWYM PLANEM",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 94999,
+      "pricePerM2": 110,
+      "areaM2": 861,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "",
+      "province": "Wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "2024-06-05T11:59:55+02:00",
+      "pushedUpAt": "2026-05-26T22:33:38+02:00",
+      "href": "https://www.olx.pl/d/oferta/dzialki-budowlane-z-nowym-planem-CID3-ID10t4h2.html",
+      "lat": 52.75185,
+      "lon": 16.99472,
+      "externalUrl": null,
+      "sources": [
+        "olx"
+      ]
+    },
+    {
+      "source": "olx",
       "externalId": "1072808612",
       "title": "Rezerwacja  Obie Działki / Działki Budowlane Międzylesie Warunki Zabudowy",
       "estate": "PLOT",
@@ -5107,32 +5135,6 @@
       "dateCreated": "2026-05-12T17:21:16+02:00",
       "pushedUpAt": "2026-05-12T17:25:46+02:00",
       "href": "https://www.olx.pl/d/oferta/rezerwacja-obie-dzialki-dzialki-budowlane-miedzylesie-warunki-zabudowy-CID3-ID1aBovI.html",
-      "lat": 52.75185,
-      "lon": 16.99472,
-      "externalUrl": null,
-      "sources": [
-        "olx"
-      ]
-    },
-    {
-      "source": "olx",
-      "externalId": "923060776",
-      "title": "Dzialki  budowlane z  NOWYM PLANEM",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 94999,
-      "pricePerM2": 110,
-      "areaM2": 861,
-      "rooms": null,
-      "floor": null,
-      "city": "Rogoźno",
-      "street": "",
-      "province": "Wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2024-06-05T11:59:55+02:00",
-      "pushedUpAt": "2026-05-11T07:38:10+02:00",
-      "href": "https://www.olx.pl/d/oferta/dzialki-budowlane-z-nowym-planem-CID3-ID10t4h2.html",
       "lat": 52.75185,
       "lon": 16.99472,
       "externalUrl": null,
@@ -5220,32 +5222,6 @@
     },
     {
       "source": "olx",
-      "externalId": "1074892839",
-      "title": "Działka ROD w Rogoznie Wielkopolskim",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 30000,
-      "pricePerM2": 86,
-      "areaM2": 350,
-      "rooms": null,
-      "floor": null,
-      "city": "Rogoźno",
-      "street": "",
-      "province": "Wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2026-05-20T22:22:55+02:00",
-      "pushedUpAt": "2026-05-20T22:32:50+02:00",
-      "href": "https://www.olx.pl/d/oferta/dzialka-rod-w-rogoznie-wielkopolskim-CID3-ID1aK8Jh.html",
-      "lat": 52.752186,
-      "lon": 16.991743,
-      "externalUrl": null,
-      "sources": [
-        "olx"
-      ]
-    },
-    {
-      "source": "olx",
       "externalId": "1045120431",
       "title": "Sprzedam działki budowlane",
       "estate": "PLOT",
@@ -5265,6 +5241,32 @@
       "href": "https://www.olx.pl/d/oferta/sprzedam-dzialki-budowlane-CID3-ID18Jdz9.html",
       "lat": 52.75185,
       "lon": 16.99472,
+      "externalUrl": null,
+      "sources": [
+        "olx"
+      ]
+    },
+    {
+      "source": "olx",
+      "externalId": "1074892839",
+      "title": "Działka ROD w Rogoznie Wielkopolskim",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 30000,
+      "pricePerM2": 86,
+      "areaM2": 350,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "",
+      "province": "Wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "2026-05-20T22:22:55+02:00",
+      "pushedUpAt": "2026-05-20T22:32:50+02:00",
+      "href": "https://www.olx.pl/d/oferta/dzialka-rod-w-rogoznie-wielkopolskim-CID3-ID1aK8Jh.html",
+      "lat": 52.752186,
+      "lon": 16.991743,
       "externalUrl": null,
       "sources": [
         "olx"
@@ -5293,6 +5295,101 @@
       ],
       "noAliases": [
         "25953207"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26116364",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 64,60 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 330000,
+      "pricePerM2": 5108,
+      "areaM2": 64.6,
+      "rooms": 3,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Libelta",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26116364.html",
+      "sources": [
+        "nieruchomosci-online"
+      ],
+      "noAliases": [
+        "23800573",
+        "23375754"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25265012",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 51,75 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 410000,
+      "pricePerM2": 7923,
+      "areaM2": 51.75,
+      "rooms": 2,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Średnia",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nowe-wykonczone,nad-jeziorem/25265012.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25512609",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 41,06 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 300354,
+      "pricePerM2": 7315,
+      "areaM2": 41.06,
+      "rooms": 2,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Grunwaldzka",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/25512609.html",
+      "sources": [
+        "nieruchomosci-online"
+      ],
+      "noAliases": [
+        "25484390"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26211766",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 48,17 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 279000,
+      "pricePerM2": 5917,
+      "areaM2": 48.17,
+      "rooms": 3,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Reja",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,przy-lesie/26211766.html",
+      "sources": [
+        "nieruchomosci-online"
       ]
     },
     {
@@ -5454,28 +5551,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26629865",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 45,88 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 349000,
-      "pricePerM2": 7607,
-      "areaM2": 45.88,
-      "rooms": 2,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-oddzielna-kuchnia/26629865.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "26139322",
       "title": "Sprzedam Mieszkanie Wągrowiec - 63 m²",
       "estate": "FLAT",
@@ -5492,75 +5567,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-oddzielna-kuchnia/26139322.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26211766",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 48,17 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 279000,
-      "pricePerM2": 5917,
-      "areaM2": 48.17,
-      "rooms": 3,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Reja",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,przy-lesie/26211766.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25512609",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 41,06 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 300354,
-      "pricePerM2": 7315,
-      "areaM2": 41.06,
-      "rooms": 2,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Grunwaldzka",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/25512609.html",
-      "sources": [
-        "nieruchomosci-online"
-      ],
-      "noAliases": [
-        "25484390"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25265012",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 51,75 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 410000,
-      "pricePerM2": 7923,
-      "areaM2": 51.75,
-      "rooms": 2,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Średnia",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nowe-wykonczone,nad-jeziorem/25265012.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -5589,28 +5595,24 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26116364",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 64,60 m²",
+      "externalId": "26629865",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 46 m²",
       "estate": "FLAT",
       "transaction": "SELL",
-      "pricePln": 330000,
-      "pricePerM2": 5108,
-      "areaM2": 64.6,
-      "rooms": 3,
+      "pricePln": 349000,
+      "pricePerM2": 7607,
+      "areaM2": 45.88,
+      "rooms": 2,
       "floor": null,
       "city": "Wągrowiec",
-      "street": "Libelta",
+      "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26116364.html",
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-oddzielna-kuchnia/26629865.html",
       "sources": [
         "nieruchomosci-online"
-      ],
-      "noAliases": [
-        "23800573",
-        "23375754"
       ]
     },
     {
@@ -7340,14 +7342,14 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "21932632",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 43 m²",
-      "estate": "FLAT",
+      "externalId": "25395636",
+      "title": "Sprzedam Dom Wągrowiec - 128,54 m²",
+      "estate": "HOUSE",
       "transaction": "SELL",
-      "pricePln": 191000,
-      "pricePerM2": 4486,
-      "areaM2": 42.58,
-      "rooms": 2,
+      "pricePln": 565000,
+      "pricePerM2": 4396,
+      "areaM2": 128.54,
+      "rooms": 4,
       "floor": null,
       "city": "Wągrowiec",
       "street": "",
@@ -7355,29 +7357,7 @@
       "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/21932632.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "21932634",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 55 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 226000,
-      "pricePerM2": 4074,
-      "areaM2": 55.47,
-      "rooms": 3,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/21932634.html",
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/25395636.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7400,6 +7380,28 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26623422.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26170325",
+      "title": "Sprzedam Dom Wągrowiec - 234 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 740000,
+      "pricePerM2": 3162,
+      "areaM2": 234,
+      "rooms": 6,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Konwaliowa",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26170325.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7450,6 +7452,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26368795",
+      "title": "Sprzedam Dom Wągrowiec - 140 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 699000,
+      "pricePerM2": 4993,
+      "areaM2": 140,
+      "rooms": 4,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Ustronie",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/26368795.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "25838528",
       "title": "Sprzedam Dom Wągrowiec - 207 m²",
       "estate": "HOUSE",
@@ -7494,6 +7518,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "25976371",
+      "title": "Sprzedam Dom Wągrowiec - 120 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 690000,
+      "pricePerM2": 5750,
+      "areaM2": 120,
+      "rooms": 6,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Kalinowa",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/25976371.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "26691762",
       "title": "Sprzedam Dom Wągrowiec - 214 m²",
       "estate": "HOUSE",
@@ -7532,28 +7578,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/25594767.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26368795",
-      "title": "Sprzedam Dom Wągrowiec - 140 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 699000,
-      "pricePerM2": 4993,
-      "areaM2": 140,
-      "rooms": 4,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Ustronie",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/26368795.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7670,50 +7694,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26553824",
-      "title": "Sprzedam Dom Wągrowiec - 107,45 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 890000,
-      "pricePerM2": 8283,
-      "areaM2": 107.45,
-      "rooms": 4,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Marcinkowo",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-balkonem/26553824.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25395636",
-      "title": "Sprzedam Dom Wągrowiec - 128,54 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 565000,
-      "pricePerM2": 4396,
-      "areaM2": 128.54,
-      "rooms": 4,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/25395636.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "25718898",
       "title": "Sprzedam Dom Wągrowiec - 286,30 m²",
       "estate": "HOUSE",
@@ -7736,28 +7716,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "25976371",
-      "title": "Sprzedam Dom Wągrowiec - 120 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 690000,
-      "pricePerM2": 5750,
-      "areaM2": 120,
-      "rooms": 6,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Kalinowa",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/25976371.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "23733502",
       "title": "Sprzedam Dom Wągrowiec - 226 m²",
       "estate": "HOUSE",
@@ -7774,28 +7732,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/23733502.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26170325",
-      "title": "Sprzedam Dom Wągrowiec - 234 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 740000,
-      "pricePerM2": 3162,
-      "areaM2": 234,
-      "rooms": 6,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Konwaliowa",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26170325.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7906,6 +7842,50 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://micharzewo.nieruchomosci-online.pl/dom-wolnostojacy,deweloperski/26149275.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26322740",
+      "title": "Sprzedam Dom Bartodzieje - 139,20 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 899000,
+      "pricePerM2": 6458,
+      "areaM2": 139.2,
+      "rooms": 4,
+      "floor": null,
+      "city": "Bartodzieje",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://bartodzieje.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26322740.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26561887",
+      "title": "Sprzedam Dom Kobylec - 157 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 950000,
+      "pricePerM2": 6051,
+      "areaM2": 157,
+      "rooms": 4,
+      "floor": null,
+      "city": "Kobylec",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://kobylec.nieruchomosci-online.pl/dom-wolnostojacy,wysoki-standard/26561887.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -8132,44 +8112,22 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26561887",
-      "title": "Sprzedam Dom Kobylec - 157 m²",
+      "externalId": "26553824",
+      "title": "Sprzedam Dom Wągrowiec - 107 m²",
       "estate": "HOUSE",
       "transaction": "SELL",
-      "pricePln": 950000,
-      "pricePerM2": 6051,
-      "areaM2": 157,
+      "pricePln": 890000,
+      "pricePerM2": 8283,
+      "areaM2": 107.45,
       "rooms": 4,
       "floor": null,
-      "city": "Kobylec",
-      "street": "",
+      "city": "Wągrowiec",
+      "street": "Marcinkowo",
       "province": "wielkopolskie",
       "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://kobylec.nieruchomosci-online.pl/dom-wolnostojacy,wysoki-standard/26561887.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26322740",
-      "title": "Sprzedam Dom Bartodzieje - 139,20 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 899000,
-      "pricePerM2": 6458,
-      "areaM2": 139.2,
-      "rooms": 4,
-      "floor": null,
-      "city": "Bartodzieje",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://bartodzieje.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26322740.html",
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-balkonem/26553824.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10096,6 +10054,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26385807",
+      "title": "Sprzedam działkę Wągrowiec - 975 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 260000,
+      "pricePerM2": 267,
+      "areaM2": 975,
+      "rooms": null,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Wierzbowa",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26385807.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "21620502",
       "title": "Sprzedam działkę Wągrowiec - 4 497 m²",
       "estate": "PLOT",
@@ -10162,28 +10142,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26385807",
-      "title": "Sprzedam działkę Wągrowiec - 975 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 260000,
-      "pricePerM2": 267,
-      "areaM2": 975,
-      "rooms": null,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Wierzbowa",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26385807.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "26395072",
       "title": "Sprzedam działkę Wągrowiec - 3 913 m²",
       "estate": "PLOT",
@@ -10228,6 +10186,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26546473",
+      "title": "Sprzedam działkę Długa Wieś - 935 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 154275,
+      "pricePerM2": 165,
+      "areaM2": 935,
+      "rooms": null,
+      "floor": null,
+      "city": "Długa Wieś",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://dluga-wies.nieruchomosci-online.pl/dzialka,na-sprzedaz/26546473.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "26562972",
       "title": "Sprzedam działkę Przysieczyn - 1 238 m²",
       "estate": "PLOT",
@@ -10266,6 +10246,50 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://przysieczyn.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/26562971.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25861231",
+      "title": "Sprzedam działkę Kaliska - 1 495 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 880000,
+      "pricePerM2": 589,
+      "areaM2": 1495,
+      "rooms": null,
+      "floor": null,
+      "city": "Kaliska",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://kaliska.nieruchomosci-online.pl/dzialka,na-sprzedaz/25861231.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26075085",
+      "title": "Sprzedam działkę Łęgowo - 5 676 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 599000,
+      "pricePerM2": 106,
+      "areaM2": 5676,
+      "rooms": null,
+      "floor": null,
+      "city": "Łęgowo",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://legowo.nieruchomosci-online.pl/dzialka,inwestycyjna,pusta/26075085.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10338,28 +10362,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "25732861",
-      "title": "Sprzedam działkę Rgielsko - 32 530 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 840000,
-      "pricePerM2": 26,
-      "areaM2": 32530,
-      "rooms": null,
-      "floor": null,
-      "city": "Rgielsko",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://rgielsko.nieruchomosci-online.pl/dzialka,uslugowa,nad-jeziorem/25732861.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "24804171",
       "title": "Sprzedam działkę Bartodzieje - 1 023 m²",
       "estate": "PLOT",
@@ -10404,28 +10406,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26546473",
-      "title": "Sprzedam działkę Długa Wieś - 935 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 154275,
-      "pricePerM2": 165,
-      "areaM2": 935,
-      "rooms": null,
-      "floor": null,
-      "city": "Długa Wieś",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://dluga-wies.nieruchomosci-online.pl/dzialka,na-sprzedaz/26546473.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "25655958",
       "title": "Sprzedam działkę Łaziska - 3 128 m²",
       "estate": "PLOT",
@@ -10442,6 +10422,50 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://laziska.nieruchomosci-online.pl/dzialka,na-sprzedaz/25655958.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25797432",
+      "title": "Sprzedam działkę Łaziska - 40 952 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 1597000,
+      "pricePerM2": 39,
+      "areaM2": 40952,
+      "rooms": null,
+      "floor": null,
+      "city": "Łaziska",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://laziska.nieruchomosci-online.pl/dzialka,pusta/25797432.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26264606",
+      "title": "Sprzedam działkę Kaliska - 3 492 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 593640,
+      "pricePerM2": 170,
+      "areaM2": 3492,
+      "rooms": null,
+      "floor": null,
+      "city": "Kaliska",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://kaliska.nieruchomosci-online.pl/dzialka,rekreacyjna,przy-lesie/26264606.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10640,94 +10664,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://bukowiec.nieruchomosci-online.pl/dzialka,nad-jeziorem/25108668.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26264606",
-      "title": "Sprzedam działkę Kaliska - 3 492 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 593640,
-      "pricePerM2": 170,
-      "areaM2": 3492,
-      "rooms": null,
-      "floor": null,
-      "city": "Kaliska",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://kaliska.nieruchomosci-online.pl/dzialka,rekreacyjna,przy-lesie/26264606.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25861231",
-      "title": "Sprzedam działkę Kaliska - 1 495 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 880000,
-      "pricePerM2": 589,
-      "areaM2": 1495,
-      "rooms": null,
-      "floor": null,
-      "city": "Kaliska",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://kaliska.nieruchomosci-online.pl/dzialka,na-sprzedaz/25861231.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25797432",
-      "title": "Sprzedam działkę Łaziska - 40 952 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 1597000,
-      "pricePerM2": 39,
-      "areaM2": 40952,
-      "rooms": null,
-      "floor": null,
-      "city": "Łaziska",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://laziska.nieruchomosci-online.pl/dzialka,pusta/25797432.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26075085",
-      "title": "Sprzedam działkę Łęgowo - 5 676 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 599000,
-      "pricePerM2": 106,
-      "areaM2": 5676,
-      "rooms": null,
-      "floor": null,
-      "city": "Łęgowo",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://legowo.nieruchomosci-online.pl/dzialka,inwestycyjna,pusta/26075085.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -14344,6 +14280,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26432116",
+      "title": "Sprzedam działkę Rogoźno - 768 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 119000,
+      "pricePerM2": 155,
+      "areaM2": 768,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "Za Jeziorem",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://rogozno.nieruchomosci-online.pl/dzialka,budowlana,nad-jeziorem/26432116.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "25716858",
       "title": "Sprzedam działkę Rogoźno - 1 251 m²",
       "estate": "PLOT",
@@ -14454,22 +14412,88 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26432116",
-      "title": "Sprzedam działkę Rogoźno - 768 m²",
+      "externalId": "24826584",
+      "title": "Sprzedam działkę Międzylesie - 18 233 m²",
       "estate": "PLOT",
       "transaction": "SELL",
-      "pricePln": 119000,
-      "pricePerM2": 155,
-      "areaM2": 768,
+      "pricePln": 911650,
+      "pricePerM2": 50,
+      "areaM2": 18233,
       "rooms": null,
       "floor": null,
-      "city": "Rogoźno",
-      "street": "Za Jeziorem",
+      "city": "Międzylesie",
+      "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://rogozno.nieruchomosci-online.pl/dzialka,budowlana,nad-jeziorem/26432116.html",
+      "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826584.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "24826408",
+      "title": "Sprzedam działkę Międzylesie - 248 919 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 4978380,
+      "pricePerM2": 20,
+      "areaM2": 248919,
+      "rooms": null,
+      "floor": null,
+      "city": "Międzylesie",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,na-sprzedaz/24826408.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26648304",
+      "title": "Sprzedam działkę Grudna - 2 250 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 165000,
+      "pricePerM2": 73,
+      "areaM2": 2250,
+      "rooms": null,
+      "floor": null,
+      "city": "Grudna",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://grudna.nieruchomosci-online.pl/dzialka,na-sprzedaz/26648304.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26017021",
+      "title": "Sprzedam działkę Studzieniec - 1 000 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 100000,
+      "pricePerM2": 100,
+      "areaM2": 1000,
+      "rooms": null,
+      "floor": null,
+      "city": "Studzieniec",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://studzieniec.nieruchomosci-online.pl/dzialka,budowlana,nad-jeziorem/26017021.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -14514,28 +14538,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://garbatka.nieruchomosci-online.pl/dzialka,inwestycyjna,ogrodzona/23030356.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "24826584",
-      "title": "Sprzedam działkę Międzylesie - 18 233 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 911650,
-      "pricePerM2": 50,
-      "areaM2": 18233,
-      "rooms": null,
-      "floor": null,
-      "city": "Międzylesie",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826584.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -14652,50 +14654,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26648304",
-      "title": "Sprzedam działkę Grudna - 2 250 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 165000,
-      "pricePerM2": 73,
-      "areaM2": 2250,
-      "rooms": null,
-      "floor": null,
-      "city": "Grudna",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://grudna.nieruchomosci-online.pl/dzialka,na-sprzedaz/26648304.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26017021",
-      "title": "Sprzedam działkę Studzieniec - 1 000 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 100000,
-      "pricePerM2": 100,
-      "areaM2": 1000,
-      "rooms": null,
-      "floor": null,
-      "city": "Studzieniec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://studzieniec.nieruchomosci-online.pl/dzialka,budowlana,nad-jeziorem/26017021.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "24826718",
       "title": "Sprzedam działkę Międzylesie - 34 027 m²",
       "estate": "PLOT",
@@ -14756,28 +14714,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://garbatka.nieruchomosci-online.pl/dzialka,na-sprzedaz/26214146.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "24826408",
-      "title": "Sprzedam działkę Międzylesie - 248 919 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 4978380,
-      "pricePerM2": 20,
-      "areaM2": 248919,
-      "rooms": null,
-      "floor": null,
-      "city": "Międzylesie",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,na-sprzedaz/24826408.html",
       "sources": [
         "nieruchomosci-online"
       ]
