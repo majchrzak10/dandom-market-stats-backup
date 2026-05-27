@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:09:32.862Z",
+  "generatedAt": "2026-05-27T10:25:45.372Z",
   "kpi": {
     "date": "2026-05-27",
     "totalOffers": 59,
@@ -71,23 +71,23 @@
         "key": "2026-05-28",
         "start": "2026-05-15",
         "end": "2026-05-28",
-        "total": 670,
-        "sale": 670,
+        "total": 667,
+        "sale": 667,
         "byCategory": {
-          "MIESZKANIE": 215,
+          "MIESZKANIE": 213,
           "INWESTYCJA": 1,
           "DOM": 196,
-          "DZIAŁKA": 258
+          "DZIAŁKA": 257
         },
         "medianPrice": 320000,
-        "avgPrice": 560899,
-        "medianPricePerM2": 2443,
+        "avgPrice": 561507,
+        "medianPricePerM2": 2441,
         "avgDaysOnMarket": 46,
         "medianDaysOnMarket": 1,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 389
+            "count": 387
           },
           {
             "city": "ROGOŹNO",
@@ -114,19 +114,19 @@
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 670,
+      "totalCompetitorOffers": 667,
       "comparison": [
         {
           "category": "MIESZKANIE",
           "city": "WĄGROWIEC",
           "ourCount": 6,
-          "competitorCount": 138,
+          "competitorCount": 136,
           "ourMedianPrice": 319500,
           "competitorMedianPrice": 315000,
           "priceDiffPct": 1.4,
           "ourMedianPricePerM2": 7498,
-          "competitorMedianPricePerM2": 6016,
-          "pricePerM2DiffPct": 24.6
+          "competitorMedianPricePerM2": 6050,
+          "pricePerM2DiffPct": 23.9
         },
         {
           "category": "MIESZKANIE",
@@ -351,28 +351,32 @@
       "nieruchomosci-online+otodom": 72,
       "olx+otodom": 13,
       "nieruchomosci-online+olx+otodom": 7,
-      "olx": 35,
-      "nieruchomosci-online+olx": 1,
-      "nieruchomosci-online": 457
+      "olx": 34,
+      "nieruchomosci-online+olx": 2,
+      "nieruchomosci-online": 454
     }
   },
   "competitorAgents": {
-    "total": 670,
-    "private": 61,
-    "unknown": 408,
+    "total": 667,
+    "private": 457,
+    "unknown": 9,
     "knownAgent": 201,
     "byAgency": [
+      {
+        "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+        "count": 34,
+        "totalValue": 19931560,
+        "isOurs": true,
+        "variants": [
+          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "DAN - DOM Danuta Majchrzak"
+        ]
+      },
       {
         "name": "Nieruchomości Tectum",
         "count": 26,
         "totalValue": 12670101,
         "isOurs": false
-      },
-      {
-        "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 23,
-        "totalValue": 12952000,
-        "isOurs": true
       },
       {
         "name": "FWK Nieruchomości",
@@ -390,12 +394,6 @@
         "name": "SOHO Nieruchomości Katarzyna Wajnert",
         "count": 13,
         "totalValue": 3912400,
-        "isOurs": false
-      },
-      {
-        "name": "DAN - DOM Danuta Majchrzak",
-        "count": 11,
-        "totalValue": 6979560,
         "isOurs": false
       },
       {
@@ -1321,20 +1319,20 @@
     },
     {
       "date": "2026-05-27",
-      "total": 670,
-      "private": 61,
-      "unknown": 408,
+      "total": 667,
+      "private": 457,
+      "unknown": 9,
       "knownAgent": 201,
       "topAgencies": [
+        {
+          "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "count": 34,
+          "isOurs": true
+        },
         {
           "name": "Nieruchomości Tectum",
           "count": 26,
           "isOurs": false
-        },
-        {
-          "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "count": 23,
-          "isOurs": true
         },
         {
           "name": "FWK Nieruchomości",
@@ -1349,11 +1347,6 @@
         {
           "name": "SOHO Nieruchomości Katarzyna Wajnert",
           "count": 13,
-          "isOurs": false
-        },
-        {
-          "name": "DAN - DOM Danuta Majchrzak",
-          "count": 11,
           "isOurs": false
         },
         {
@@ -1373,6 +1366,11 @@
         },
         {
           "name": "Nieruchomości Apartament Piła",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
           "count": 5,
           "isOurs": false
         }

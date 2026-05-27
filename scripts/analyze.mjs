@@ -354,10 +354,15 @@ const competitorHistory = buildCompetitorHistory({ snapshots: competitorSnapshot
 // Asari uzywa nazwy agenta ("Danuta Majchrzak"), portale uzywaja nazwy firmy
 // ("DAN-DOM Biuro Obrotu Nieruchomosciami Danuta Majchrzak"). Dopasowanie po
 // substring zamiast equality.
-const OUR_AGENCY_FRAGMENTS = ["DAN-DOM", "Dan-Dom", "dan-dom"];
+// Normalizacja: usun whitespace, lowercase, usun znaki specjalne - wtedy
+// "DAN-DOM", "Dan-Dom", "DAN - DOM", "dan dom" pasuja do tego samego "dandom".
+function normalizeAgencyName(name) {
+  return (name || "").toLowerCase().replace(/[\s\-_.,]/g, "");
+}
+const OUR_AGENCY_NORMALIZED = "dandom";
 function isOurAgency(name) {
   if (!name) return false;
-  return OUR_AGENCY_FRAGMENTS.some((frag) => name.includes(frag));
+  return normalizeAgencyName(name).includes(OUR_AGENCY_NORMALIZED);
 }
 
 /**
@@ -374,10 +379,16 @@ function buildCompetitorAgents(competitorOffers) {
     if (o.isPrivate) {
       privateCount++;
     } else if (o.agencyName) {
-      const cur = byAgency.get(o.agencyName) || { name: o.agencyName, count: 0, totalValue: 0, isOurs: isOurAgency(o.agencyName) };
+      // Agreguj warianty tej samej nazwy. Wszystkie warianty Dan-Dom (otodom uzywa
+      // "DAN-DOM Biuro Obrotu Nieruchomosciami...", NO "DAN - DOM Danuta Majchrzak")
+      // ladnie w jeden bucket przez specjalny kanonical key.
+      const isOurs = isOurAgency(o.agencyName);
+      const normKey = isOurs ? "__OUR_AGENCY__" : normalizeAgencyName(o.agencyName);
+      const cur = byAgency.get(normKey) || { name: o.agencyName, count: 0, totalValue: 0, isOurs, variants: new Set() };
       cur.count++;
+      cur.variants.add(o.agencyName);
       if (o.pricePln) cur.totalValue += o.pricePln;
-      byAgency.set(o.agencyName, cur);
+      byAgency.set(normKey, cur);
     } else {
       unknownCount++;
     }
@@ -388,7 +399,9 @@ function buildCompetitorAgents(competitorOffers) {
     private: privateCount,
     unknown: unknownCount,
     knownAgent: competitorOffers.length - privateCount - unknownCount,
-    byAgency: Array.from(byAgency.values()).sort((a, b) => b.count - a.count),
+    byAgency: Array.from(byAgency.values())
+      .map((a) => ({ name: a.name, count: a.count, totalValue: a.totalValue, isOurs: a.isOurs, variants: a.variants.size > 1 ? Array.from(a.variants) : undefined }))
+      .sort((a, b) => b.count - a.count),
   };
 }
 

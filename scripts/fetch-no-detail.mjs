@@ -102,8 +102,10 @@ async function getAgencyForOffer(externalId, hrefOriginal, offersCache, agentsCa
 
   const agentSlug = extractAgentSlug(html);
   if (!agentSlug) {
-    offersCache[externalId] = { agentSlug: null, agencyName: null, fetchedAt: nowIso(), reason: "no-agent-link" };
-    return { agencyName: null, agentSlug: null, cached: false };
+    // Brak linka do /agenci/ w detail page = oferta prywatna (tylko imie sprzedajacego,
+    // brak biura). Sprawdzilismy probkami i to konsekwentnie sa oferty od wlascicieli.
+    offersCache[externalId] = { agentSlug: null, agencyName: null, isPrivate: true, fetchedAt: nowIso(), reason: "no-agent-link" };
+    return { agencyName: null, agentSlug: null, isPrivate: true, cached: false };
   }
 
   // Sprawdz cache agentow zanim fetch
@@ -162,6 +164,9 @@ async function main() {
     // Wzbogac obiekt w snapshocie
     if (result.agencyName) {
       o.agencyName = result.agencyName;
+    }
+    if (result.isPrivate) {
+      o.isPrivate = true;
     }
 
     // Progress co 50
