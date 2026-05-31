@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T07:50:28.403Z",
+  "generatedAt": "2026-05-31T09:28:09.238Z",
   "kpi": {
     "date": "2026-05-31",
     "totalOffers": 62,
@@ -153,17 +153,17 @@
         "key": "2026-06-11",
         "start": "2026-05-29",
         "end": "2026-06-11",
-        "total": 679,
-        "sale": 679,
+        "total": 678,
+        "sale": 678,
         "byCategory": {
-          "MIESZKANIE": 219,
+          "MIESZKANIE": 218,
           "INWESTYCJA": 1,
           "DOM": 197,
           "DZIAŁKA": 262
         },
         "medianPrice": 315000,
-        "avgPrice": 554815,
-        "medianPricePerM2": 2441,
+        "avgPrice": 554985,
+        "medianPricePerM2": 2443,
         "avgDaysOnMarket": 56,
         "medianDaysOnMarket": 11,
         "topCities": [
@@ -191,24 +191,24 @@
         "beforeTracking": false
       }
     ],
-    "totalOffers": 805
+    "totalOffers": 808
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 679,
+      "totalCompetitorOffers": 678,
       "comparison": [
         {
           "category": "MIESZKANIE",
           "city": "WĄGROWIEC",
           "ourCount": 7,
-          "competitorCount": 138,
+          "competitorCount": 137,
           "ourMedianPrice": 330000,
           "competitorMedianPrice": 315000,
           "priceDiffPct": 4.8,
           "ourMedianPricePerM2": 7932,
-          "competitorMedianPricePerM2": 6050,
-          "pricePerM2DiffPct": 31.1
+          "competitorMedianPricePerM2": 6046,
+          "pricePerM2DiffPct": 31.2
         },
         {
           "category": "MIESZKANIE",
@@ -238,13 +238,13 @@
           "category": "DOM",
           "city": "ROGOŹNO",
           "ourCount": 4,
-          "competitorCount": 38,
+          "competitorCount": 39,
           "ourMedianPrice": 439500,
-          "competitorMedianPrice": 489500,
-          "priceDiffPct": -10.2,
+          "competitorMedianPrice": 480000,
+          "priceDiffPct": -8.4,
           "ourMedianPricePerM2": 4205,
-          "competitorMedianPricePerM2": 3900,
-          "pricePerM2DiffPct": 7.8
+          "competitorMedianPricePerM2": 3898,
+          "pricePerM2DiffPct": 7.9
         },
         {
           "category": "DZIAŁKA",
@@ -429,9 +429,9 @@
       ]
     },
     "sourceCounts": {
-      "otodom": 91,
+      "otodom": 89,
       "nieruchomosci-online+otodom": 70,
-      "olx+otodom": 12,
+      "olx+otodom": 13,
       "nieruchomosci-online+olx+otodom": 9,
       "olx": 34,
       "nieruchomosci-online+olx": 1,
@@ -439,43 +439,33 @@
     }
   },
   "competitorAgents": {
-    "total": 679,
-    "private": 72,
-    "unknown": 405,
-    "knownAgent": 202,
+    "total": 678,
+    "private": 63,
+    "unknown": 472,
+    "knownAgent": 143,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 36,
-        "totalValue": 20778560,
-        "isOurs": true,
-        "variants": [
-          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "DAN - DOM Danuta Majchrzak"
-        ]
-      },
-      {
-        "name": "Nieruchomości Tectum",
-        "count": 26,
-        "totalValue": 12670101,
-        "isOurs": false
+        "count": 25,
+        "totalValue": 13799000,
+        "isOurs": true
       },
       {
         "name": "FWK Nieruchomości",
-        "count": 20,
-        "totalValue": 5895737,
+        "count": 13,
+        "totalValue": 2985512,
+        "isOurs": false
+      },
+      {
+        "name": "SOHO Nieruchomości Katarzyna Wajnert",
+        "count": 13,
+        "totalValue": 3912400,
         "isOurs": false
       },
       {
         "name": "PRO.DOM NIERUCHOMOŚCI",
         "count": 12,
         "totalValue": 12946032,
-        "isOurs": false
-      },
-      {
-        "name": "SOHO Nieruchomości Katarzyna Wajnert",
-        "count": 12,
-        "totalValue": 3763400,
         "isOurs": false
       },
       {
@@ -491,21 +481,15 @@
         "isOurs": false
       },
       {
-        "name": "Nieruchomości - FURMAN",
-        "count": 9,
-        "totalValue": 3976900,
+        "name": "Nieruchomości Tectum",
+        "count": 8,
+        "totalValue": 2342720,
         "isOurs": false
       },
       {
         "name": "Dominum Sp. z o.o.",
         "count": 5,
         "totalValue": 3739000,
-        "isOurs": false
-      },
-      {
-        "name": "Nieruchomości Kaczmarek",
-        "count": 5,
-        "totalValue": 1182220,
         "isOurs": false
       },
       {
@@ -521,27 +505,15 @@
         "isOurs": false
       },
       {
+        "name": "Nieruchomości Kaczmarek",
+        "count": 4,
+        "totalValue": 1045610,
+        "isOurs": false
+      },
+      {
         "name": "GRACJAN-NIERUCHOMOŚCI",
         "count": 4,
         "totalValue": 5160000,
-        "isOurs": false
-      },
-      {
-        "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-        "count": 4,
-        "totalValue": 680300,
-        "isOurs": false
-      },
-      {
-        "name": "FREEDOM NIERUCHOMOŚCI",
-        "count": 4,
-        "totalValue": 2099130,
-        "isOurs": false
-      },
-      {
-        "name": "Metrohouse Poznań",
-        "count": 4,
-        "totalValue": 8040810,
         "isOurs": false
       },
       {
@@ -680,18 +652,6 @@
         "name": "Handom Nieruchomości",
         "count": 1,
         "totalValue": 117900,
-        "isOurs": false
-      },
-      {
-        "name": "Phinance Nieruchomości",
-        "count": 1,
-        "totalValue": 300354,
-        "isOurs": false
-      },
-      {
-        "name": "BON WINOGRADY",
-        "count": 1,
-        "totalValue": 225000,
         "isOurs": false
       }
     ]
@@ -1643,33 +1603,28 @@
     },
     {
       "date": "2026-05-31",
-      "total": 679,
-      "private": 72,
-      "unknown": 405,
-      "knownAgent": 202,
+      "total": 678,
+      "private": 63,
+      "unknown": 472,
+      "knownAgent": 143,
       "topAgencies": [
         {
           "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "count": 36,
+          "count": 25,
           "isOurs": true
         },
         {
-          "name": "Nieruchomości Tectum",
-          "count": 26,
-          "isOurs": false
-        },
-        {
           "name": "FWK Nieruchomości",
-          "count": 20,
-          "isOurs": false
-        },
-        {
-          "name": "PRO.DOM NIERUCHOMOŚCI",
-          "count": 12,
+          "count": 13,
           "isOurs": false
         },
         {
           "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 13,
+          "isOurs": false
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
           "count": 12,
           "isOurs": false
         },
@@ -1684,8 +1639,8 @@
           "isOurs": false
         },
         {
-          "name": "Nieruchomości - FURMAN",
-          "count": 9,
+          "name": "Nieruchomości Tectum",
+          "count": 8,
           "isOurs": false
         },
         {
@@ -1694,8 +1649,13 @@
           "isOurs": false
         },
         {
-          "name": "Nieruchomości Kaczmarek",
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
           "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 4,
           "isOurs": false
         }
       ]
