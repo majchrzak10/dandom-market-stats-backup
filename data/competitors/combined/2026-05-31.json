@@ -1,8 +1,8 @@
 {
   "source": "combined",
   "date": "2026-05-31",
-  "generatedAt": "2026-05-31T07:50:28.287Z",
-  "offerCount": 679,
+  "generatedAt": "2026-05-31T08:25:25.722Z",
+  "offerCount": 678,
   "offers": [
     {
       "source": "otodom",
@@ -235,6 +235,29 @@
     },
     {
       "source": "otodom",
+      "externalId": "67970609",
+      "title": "Mieszkanie 3 pokojowe 48m2- idealne dla par",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 220000,
+      "pricePerM2": 4583,
+      "areaM2": 48,
+      "rooms": 3,
+      "floor": 4,
+      "city": "Wągrowiec",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": "Dominum Sp. z o.o.",
+      "dateCreated": "2026-05-04 21:11:48",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.pl/pl/ad/mieszkanie-3-pokojowe-48m2-idealne-dla-par-ID4Bcg9",
+      "sources": [
+        "otodom"
+      ]
+    },
+    {
+      "source": "otodom",
       "externalId": "67970608",
       "title": "Komfortowe Mieszkanie Na Sprzedaż",
       "estate": "FLAT",
@@ -259,29 +282,6 @@
       "olxId": "1074933278",
       "lat": 52.80789,
       "lon": 17.1971
-    },
-    {
-      "source": "otodom",
-      "externalId": "67970609",
-      "title": "Mieszkanie 3 pokojowe 48m2- idealne dla par",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 220000,
-      "pricePerM2": 4583,
-      "areaM2": 48,
-      "rooms": 3,
-      "floor": 4,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Dominum Sp. z o.o.",
-      "dateCreated": "2026-05-04 21:11:48",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/mieszkanie-3-pokojowe-48m2-idealne-dla-par-ID4Bcg9",
-      "sources": [
-        "otodom"
-      ]
     },
     {
       "source": "otodom",
@@ -720,13 +720,13 @@
     },
     {
       "source": "otodom",
-      "externalId": "66394812",
-      "title": "Nowa inwestycja, wygodne układy, wysoki standard",
+      "externalId": "66394814",
+      "title": "nowe osiedle❗️ rolety❗️ podłogówka❗️ winda",
       "estate": "FLAT",
       "transaction": "SELL",
-      "pricePln": 334442,
-      "pricePerM2": 7315,
-      "areaM2": 45.72,
+      "pricePln": 288990,
+      "pricePerM2": 7410,
+      "areaM2": 39,
       "rooms": 2,
       "floor": 3,
       "city": "Wągrowiec",
@@ -736,12 +736,12 @@
       "agencyName": "Phinance S.A.",
       "dateCreated": "2025-01-24 18:35:07",
       "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/nowa-inwestycja-wygodne-uklady-wysoki-standard-ID4uAk4",
+      "href": "https://www.otodom.pl/pl/ad/nowe-osiedle-rolety-podlogowka-winda-ID4uAk6",
       "sources": [
         "otodom",
         "nieruchomosci-online"
       ],
-      "nieruchomosciOnlineId": "25512610"
+      "nieruchomosciOnlineId": "25512612"
     },
     {
       "source": "otodom",
@@ -768,13 +768,13 @@
     },
     {
       "source": "otodom",
-      "externalId": "66394814",
-      "title": "nowe osiedle❗️ rolety❗️ podłogówka❗️ winda",
+      "externalId": "66394812",
+      "title": "Nowa inwestycja, wygodne układy, wysoki standard",
       "estate": "FLAT",
       "transaction": "SELL",
-      "pricePln": 288990,
-      "pricePerM2": 7410,
-      "areaM2": 39,
+      "pricePln": 334442,
+      "pricePerM2": 7315,
+      "areaM2": 45.72,
       "rooms": 2,
       "floor": 3,
       "city": "Wągrowiec",
@@ -784,12 +784,12 @@
       "agencyName": "Phinance S.A.",
       "dateCreated": "2025-01-24 18:35:07",
       "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/nowe-osiedle-rolety-podlogowka-winda-ID4uAk6",
+      "href": "https://www.otodom.pl/pl/ad/nowa-inwestycja-wygodne-uklady-wysoki-standard-ID4uAk4",
       "sources": [
         "otodom",
         "nieruchomosci-online"
       ],
-      "nieruchomosciOnlineId": "25512612"
+      "nieruchomosciOnlineId": "25512610"
     },
     {
       "source": "otodom",
@@ -870,6 +870,31 @@
     },
     {
       "source": "otodom",
+      "externalId": "66269255",
+      "title": "2 wygodne pokoje, balkon, parking",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 301673,
+      "pricePerM2": 7125,
+      "areaM2": 42.34,
+      "rooms": 2,
+      "floor": 1,
+      "city": "Wągrowiec",
+      "street": "Grunwaldzka",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": "Phinance S.A.",
+      "dateCreated": "2024-12-30 15:37:28",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.pl/pl/ad/2-wygodne-pokoje-balkon-parking-ID4u3EX",
+      "sources": [
+        "otodom",
+        "nieruchomosci-online"
+      ],
+      "nieruchomosciOnlineId": "25447858"
+    },
+    {
+      "source": "otodom",
       "externalId": "66269257",
       "title": "2 wygodne pokoje, balkon, parking",
       "estate": "FLAT",
@@ -896,31 +921,6 @@
         "25423823",
         "23940920"
       ]
-    },
-    {
-      "source": "otodom",
-      "externalId": "66269255",
-      "title": "2 wygodne pokoje, balkon, parking",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 301673,
-      "pricePerM2": 7125,
-      "areaM2": 42.34,
-      "rooms": 2,
-      "floor": 1,
-      "city": "Wągrowiec",
-      "street": "Grunwaldzka",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Phinance S.A.",
-      "dateCreated": "2024-12-30 15:37:28",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/2-wygodne-pokoje-balkon-parking-ID4u3EX",
-      "sources": [
-        "otodom",
-        "nieruchomosci-online"
-      ],
-      "nieruchomosciOnlineId": "25447858"
     },
     {
       "source": "otodom",
@@ -1550,6 +1550,29 @@
     },
     {
       "source": "otodom",
+      "externalId": "68043244",
+      "title": "Duża działka z potencjałem - Wągrowiec - Taszarowo",
+      "estate": "TERRAIN",
+      "transaction": "SELL",
+      "pricePln": 300999,
+      "pricePerM2": 295,
+      "areaM2": 1020,
+      "rooms": null,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "ul. Taszarowska",
+      "province": "wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "2026-05-30 14:56:50",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.pl/pl/ad/duza-dzialka-z-potencjalem-wagrowiec-taszarowo-ID4Bw9G",
+      "sources": [
+        "otodom"
+      ]
+    },
+    {
+      "source": "otodom",
       "externalId": "68059136",
       "title": "Atrakcyjny grunt inwestycyjny w centrum miejscowości",
       "estate": "TERRAIN",
@@ -1568,8 +1591,12 @@
       "pushedUpAt": null,
       "href": "https://www.otodom.pl/pl/ad/atrakcyjny-grunt-inwestycyjny-w-centrum-miejscowosci-ID4Bzi0",
       "sources": [
-        "otodom"
-      ]
+        "otodom",
+        "olx"
+      ],
+      "olxId": "1076645130",
+      "lat": 52.804905,
+      "lon": 17.174467
     },
     {
       "source": "otodom",
@@ -1823,30 +1850,30 @@
     },
     {
       "source": "otodom",
-      "externalId": "96805913600067",
-      "title": "Atrakcyjny grunt inwestycyjny w centrum miejscowości",
+      "externalId": "96804324400067",
+      "title": "Duża działka z potencjałem - Wągrowiec - Taszarowo",
       "estate": "TERRAIN",
       "transaction": "SELL",
-      "pricePln": 680000,
-      "pricePerM2": 66,
-      "areaM2": 10240,
+      "pricePln": 300999,
+      "pricePerM2": 295,
+      "areaM2": 1020,
       "rooms": null,
       "floor": null,
       "city": "Wągrowiec",
-      "street": "ul. Rogozińska",
+      "street": "ul. Taszarowska",
       "province": "wielkopolskie",
       "isPrivate": true,
       "agencyName": null,
       "dateCreated": "1999-02-29 00:00:01",
       "pushedUpAt": null,
-      "href": "https://www.otodom.plhpr//pl/ad/atrakcyjny-grunt-inwestycyjny-w-centrum-miejscowosci-ID4Bzi0",
+      "href": "https://www.otodom.plhpr//pl/ad/duza-dzialka-z-potencjalem-wagrowiec-taszarowo-ID4Bw9G",
       "sources": [
         "otodom",
         "olx"
       ],
-      "olxId": "1076645130",
-      "lat": 52.804905,
-      "lon": 17.174467
+      "olxId": "1076785383",
+      "lat": 52.79721,
+      "lon": 17.193335
     },
     {
       "source": "otodom",
@@ -2715,29 +2742,6 @@
     },
     {
       "source": "otodom",
-      "externalId": "67959393",
-      "title": "Grzybowo, Skoki - Dom SSO 5-pokojowy w leśnej oazie",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 399999,
-      "pricePerM2": 2439,
-      "areaM2": 164,
-      "rooms": 5,
-      "floor": null,
-      "city": "Grzybowo",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2026-04-30 11:51:59",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/grzybowo-skoki-dom-sso-5-pokojowy-w-lesnej-oazie-ID4B9lf",
-      "sources": [
-        "otodom"
-      ]
-    },
-    {
-      "source": "otodom",
       "externalId": "67956610",
       "title": "Segment z działką Ruda k. Rogoźna",
       "estate": "HOUSE",
@@ -3000,9 +3004,9 @@
         "olx",
         "nieruchomosci-online"
       ],
-      "olxId": "1076635338",
-      "lat": 52.75361,
-      "lon": 16.979145,
+      "olxId": "1076753965",
+      "lat": 52.75185,
+      "lon": 16.99472,
       "nieruchomosciOnlineId": "25964501"
     },
     {
@@ -3500,29 +3504,6 @@
     },
     {
       "source": "otodom",
-      "externalId": "67961260",
-      "title": "Działka rekreacyjna blisko lasu i jeziora",
-      "estate": "TERRAIN",
-      "transaction": "SELL",
-      "pricePln": 35000,
-      "pricePerM2": 70,
-      "areaM2": 500,
-      "rooms": null,
-      "floor": null,
-      "city": "Rogoźno",
-      "street": "ul. Rolna",
-      "province": "wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2026-04-30 16:57:36",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.pl/pl/ad/dzialka-rekreacyjna-blisko-lasu-i-jeziora-ID4B9Pm",
-      "sources": [
-        "otodom"
-      ]
-    },
-    {
-      "source": "otodom",
       "externalId": "67932710",
       "title": "Grunt możliwe mieszkania i usługi",
       "estate": "TERRAIN",
@@ -3874,29 +3855,6 @@
     },
     {
       "source": "otodom",
-      "externalId": "96806051600067",
-      "title": "Na sprzedaż działka budowlana 833 m² – Budziszewko, powiat obornicki",
-      "estate": "TERRAIN",
-      "transaction": "SELL",
-      "pricePln": 160000,
-      "pricePerM2": 192,
-      "areaM2": 833,
-      "rooms": null,
-      "floor": null,
-      "city": "Budziszewko",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "1999-02-29 00:00:01",
-      "pushedUpAt": null,
-      "href": "https://www.otodom.plhpr//pl/ad/na-sprzedaz-dzialka-budowlana-833-m-budziszewko-powiat-obornicki-ID4BzEg",
-      "sources": [
-        "otodom"
-      ]
-    },
-    {
-      "source": "otodom",
       "externalId": "67532119",
       "title": "Grudna - działka budowlana",
       "estate": "TERRAIN",
@@ -3919,6 +3877,29 @@
         "nieruchomosci-online"
       ],
       "nieruchomosciOnlineId": "26326051"
+    },
+    {
+      "source": "otodom",
+      "externalId": "96806051600067",
+      "title": "Na sprzedaż działka budowlana 833 m² – Budziszewko, powiat obornicki",
+      "estate": "TERRAIN",
+      "transaction": "SELL",
+      "pricePln": 160000,
+      "pricePerM2": 192,
+      "areaM2": 833,
+      "rooms": null,
+      "floor": null,
+      "city": "Budziszewko",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "1999-02-29 00:00:01",
+      "pushedUpAt": null,
+      "href": "https://www.otodom.plhpr//pl/ad/na-sprzedaz-dzialka-budowlana-833-m-budziszewko-powiat-obornicki-ID4BzEg",
+      "sources": [
+        "otodom"
+      ]
     },
     {
       "source": "otodom",
@@ -4430,23 +4411,23 @@
     },
     {
       "source": "otodom",
-      "externalId": "96753211900067",
-      "title": "Grudna - działka budowlana",
+      "externalId": "96741705500067",
+      "title": "Działka, 1 292 m², Parkowo",
       "estate": "TERRAIN",
       "transaction": "SELL",
-      "pricePln": 136610,
-      "pricePerM2": 95,
-      "areaM2": 1438,
+      "pricePln": 149000,
+      "pricePerM2": 115,
+      "areaM2": 1292,
       "rooms": null,
       "floor": null,
-      "city": "Grudna",
+      "city": "Parkowo",
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Kaczmarek",
+      "agencyName": "SOHO Nieruchomości Katarzyna Wajnert",
       "dateCreated": "1999-02-29 00:00:01",
       "pushedUpAt": null,
-      "href": "https://www.otodom.plhpr//pl/ad/grudna-dzialka-budowlana-ID4zmbJ",
+      "href": "https://www.otodom.plhpr//pl/ad/dzialka-1-292-m-parkowo-ID4ySfR",
       "sources": [
         "otodom"
       ]
@@ -4479,6 +4460,32 @@
     },
     {
       "source": "olx",
+      "externalId": "1061057078",
+      "title": "Jasne mieszkanie 49,18 m² | 2 balkony | nowe budownictwo | Wągrowiec",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 385000,
+      "pricePerM2": 7828,
+      "areaM2": 49.18,
+      "rooms": 2,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "",
+      "province": "Wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "2026-03-15T22:15:35+01:00",
+      "pushedUpAt": "2026-05-30T15:13:31+02:00",
+      "href": "https://www.olx.pl/d/oferta/jasne-mieszkanie-49-18-m-2-balkony-nowe-budownictwo-wagrowiec-CID3-ID19O5pQ.html",
+      "lat": 52.80789,
+      "lon": 17.1971,
+      "externalUrl": null,
+      "sources": [
+        "olx"
+      ]
+    },
+    {
+      "source": "olx",
       "externalId": "1074724042",
       "title": "Sprzedam mieszkanie z widokiem na jezioro",
       "estate": "FLAT",
@@ -4496,32 +4503,6 @@
       "dateCreated": "2026-05-20T10:31:07+02:00",
       "pushedUpAt": "2026-05-20T10:34:48+02:00",
       "href": "https://www.olx.pl/d/oferta/sprzedam-mieszkanie-z-widokiem-na-jezioro-CID3-ID1aJqOK.html",
-      "lat": 52.80789,
-      "lon": 17.1971,
-      "externalUrl": null,
-      "sources": [
-        "olx"
-      ]
-    },
-    {
-      "source": "olx",
-      "externalId": "1061057078",
-      "title": "Jasne mieszkanie 49,18 m² | 2 balkony | nowe budownictwo | Wągrowiec",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 385000,
-      "pricePerM2": 7828,
-      "areaM2": 49.18,
-      "rooms": 2,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "Wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2026-03-15T22:15:35+01:00",
-      "pushedUpAt": "2026-05-23T15:13:29+02:00",
-      "href": "https://www.olx.pl/d/oferta/jasne-mieszkanie-49-18-m-2-balkony-nowe-budownictwo-wagrowiec-CID3-ID19O5pQ.html",
       "lat": 52.80789,
       "lon": 17.1971,
       "externalUrl": null,
@@ -4637,23 +4618,23 @@
     },
     {
       "source": "olx",
-      "externalId": "1070438621",
-      "title": "Sprzedaż - mieszkanie, 2 pokoje z balkonem, – 42 m², Wągrowiec",
-      "estate": "FLAT",
+      "externalId": "1064782571",
+      "title": "Sprzedam prawy segment do zamieszkania",
+      "estate": "HOUSE",
       "transaction": "SELL",
-      "pricePln": 420000,
-      "pricePerM2": 10000,
-      "areaM2": 42,
-      "rooms": 2,
+      "pricePln": 569000,
+      "pricePerM2": 7487,
+      "areaM2": 76,
+      "rooms": null,
       "floor": null,
       "city": "Wągrowiec",
       "street": "",
       "province": "Wielkopolskie",
       "isPrivate": true,
       "agencyName": null,
-      "dateCreated": "2026-04-30T17:38:05+02:00",
-      "pushedUpAt": "2026-04-30T17:42:48+02:00",
-      "href": "https://www.olx.pl/d/oferta/sprzedaz-mieszkanie-2-pokoje-z-balkonem-42-m-wagrowiec-CID3-ID1arrZ3.html",
+      "dateCreated": "2026-04-02T20:26:27+02:00",
+      "pushedUpAt": "2026-05-31T00:19:22+02:00",
+      "href": "https://www.olx.pl/d/oferta/sprzedam-prawy-segment-do-zamieszkania-CID3-ID1a3IAr.html",
       "lat": 52.80789,
       "lon": 17.1971,
       "externalUrl": null,
@@ -4689,32 +4670,6 @@
     },
     {
       "source": "olx",
-      "externalId": "1064782571",
-      "title": "Sprzedam prawy segment do zamieszkania",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 569000,
-      "pricePerM2": 7487,
-      "areaM2": 76,
-      "rooms": null,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "Wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2026-04-02T20:26:27+02:00",
-      "pushedUpAt": "2026-05-24T00:19:22+02:00",
-      "href": "https://www.olx.pl/d/oferta/sprzedam-prawy-segment-do-zamieszkania-CID3-ID1a3IAr.html",
-      "lat": 52.80789,
-      "lon": 17.1971,
-      "externalUrl": null,
-      "sources": [
-        "olx"
-      ]
-    },
-    {
-      "source": "olx",
       "externalId": "1028605710",
       "title": "Dom  z  tarasem  w elitarnej dzielnicy na Osadzie w Wągrowcu.",
       "estate": "HOUSE",
@@ -4741,32 +4696,6 @@
     },
     {
       "source": "olx",
-      "externalId": "1038658449",
-      "title": "budynek dzialka bar sklep warsztat dom",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 239000,
-      "pricePerM2": 854,
-      "areaM2": 280,
-      "rooms": null,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "Wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": "2025-11-16T13:25:06+01:00",
-      "pushedUpAt": "2026-05-24T19:50:58+02:00",
-      "href": "https://www.olx.pl/d/oferta/budynek-dzialka-bar-sklep-warsztat-dom-CID3-ID18i6wD.html",
-      "lat": 52.80789,
-      "lon": 17.1971,
-      "externalUrl": null,
-      "sources": [
-        "olx"
-      ]
-    },
-    {
-      "source": "olx",
       "externalId": "1073918487",
       "title": "Dom z halą i dużą wiatą – idealny do zamieszkania i prowadzenia działalności gospodarczej",
       "estate": "HOUSE",
@@ -4784,6 +4713,32 @@
       "dateCreated": "2026-05-16T21:10:02+02:00",
       "pushedUpAt": "2026-05-17T18:42:51+02:00",
       "href": "https://www.olx.pl/d/oferta/dom-z-hala-i-duza-wiata-idealny-do-zamieszkania-i-prowadzenia-dzialalnosci-gospodarczej-CID3-ID1aG3fW.html",
+      "lat": 52.80789,
+      "lon": 17.1971,
+      "externalUrl": null,
+      "sources": [
+        "olx"
+      ]
+    },
+    {
+      "source": "olx",
+      "externalId": "1038658449",
+      "title": "budynek dzialka bar sklep warsztat dom",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 239000,
+      "pricePerM2": 854,
+      "areaM2": 280,
+      "rooms": null,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "",
+      "province": "Wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "2025-11-16T13:25:06+01:00",
+      "pushedUpAt": "2026-05-24T19:50:58+02:00",
+      "href": "https://www.olx.pl/d/oferta/budynek-dzialka-bar-sklep-warsztat-dom-CID3-ID18i6wD.html",
       "lat": 52.80789,
       "lon": 17.1971,
       "externalUrl": null,
@@ -5157,6 +5112,32 @@
     },
     {
       "source": "olx",
+      "externalId": "1076635338",
+      "title": "Dom jednorodzinny w Rogoźnie",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 480000,
+      "pricePerM2": 2595,
+      "areaM2": 185,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "",
+      "province": "Wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": "2026-05-29T15:23:32+02:00",
+      "pushedUpAt": "2026-05-29T15:23:32+02:00",
+      "href": "https://www.olx.pl/d/oferta/dom-jednorodzinny-w-rogoznie-CID3-ID1aRs26.html",
+      "lat": 52.75361,
+      "lon": 16.979145,
+      "externalUrl": "https://www.otodom.pl/pl/oferta/dom-jednorodzinny-w-rogoznie-ID4xdx8",
+      "sources": [
+        "olx"
+      ]
+    },
+    {
+      "source": "olx",
       "externalId": "1073591404",
       "title": "Lokal z dwoma mieszkaniami pod klucz w zabudowie bliźniaczej",
       "estate": "HOUSE",
@@ -5235,32 +5216,6 @@
     },
     {
       "source": "olx",
-      "externalId": "1051777136",
-      "title": "Działka budowlana w Rogoźnie",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 138000,
-      "pricePerM2": 148,
-      "areaM2": 932,
-      "rooms": null,
-      "floor": null,
-      "city": "Rogoźno",
-      "street": "",
-      "province": "Wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": "2026-01-27T11:12:55+01:00",
-      "pushedUpAt": "2026-05-11T09:44:31+02:00",
-      "href": "https://www.olx.pl/d/oferta/dzialka-budowlana-w-rogoznie-CID3-ID19b9hm.html",
-      "lat": 52.75185,
-      "lon": 16.99472,
-      "externalUrl": null,
-      "sources": [
-        "olx"
-      ]
-    },
-    {
-      "source": "olx",
       "externalId": "1067218034",
       "title": "Sprzedam działke z rozpoczętym projektem",
       "estate": "PLOT",
@@ -5287,25 +5242,25 @@
     },
     {
       "source": "olx",
-      "externalId": "1074892839",
-      "title": "Działka ROD w Rogoznie Wielkopolskim",
+      "externalId": "1051777136",
+      "title": "Działka budowlana w Rogoźnie",
       "estate": "PLOT",
       "transaction": "SELL",
-      "pricePln": 30000,
-      "pricePerM2": 86,
-      "areaM2": 350,
+      "pricePln": 138000,
+      "pricePerM2": 148,
+      "areaM2": 932,
       "rooms": null,
       "floor": null,
       "city": "Rogoźno",
       "street": "",
       "province": "Wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
-      "dateCreated": "2026-05-20T22:22:55+02:00",
-      "pushedUpAt": "2026-05-20T22:32:50+02:00",
-      "href": "https://www.olx.pl/d/oferta/dzialka-rod-w-rogoznie-wielkopolskim-CID3-ID1aK8Jh.html",
-      "lat": 52.752186,
-      "lon": 16.991743,
+      "dateCreated": "2026-01-27T11:12:55+01:00",
+      "pushedUpAt": "2026-05-11T09:44:31+02:00",
+      "href": "https://www.olx.pl/d/oferta/dzialka-budowlana-w-rogoznie-CID3-ID19b9hm.html",
+      "lat": 52.75185,
+      "lon": 16.99472,
       "externalUrl": null,
       "sources": [
         "olx"
@@ -5332,6 +5287,32 @@
       "href": "https://www.olx.pl/d/oferta/sprzedam-dzialke-rod-w-rogozno-CID3-ID1aGvUI.html",
       "lat": 52.744938,
       "lon": 16.988543,
+      "externalUrl": null,
+      "sources": [
+        "olx"
+      ]
+    },
+    {
+      "source": "olx",
+      "externalId": "1074892839",
+      "title": "Działka ROD w Rogoznie Wielkopolskim",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 30000,
+      "pricePerM2": 86,
+      "areaM2": 350,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "",
+      "province": "Wielkopolskie",
+      "isPrivate": true,
+      "agencyName": null,
+      "dateCreated": "2026-05-20T22:22:55+02:00",
+      "pushedUpAt": "2026-05-20T22:32:50+02:00",
+      "href": "https://www.olx.pl/d/oferta/dzialka-rod-w-rogoznie-wielkopolskim-CID3-ID1aK8Jh.html",
+      "lat": 52.752186,
+      "lon": 16.991743,
       "externalUrl": null,
       "sources": [
         "olx"
@@ -5378,7 +5359,7 @@
       "street": "Wegnera",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26148847.html",
       "sources": [
@@ -5386,6 +5367,72 @@
       ],
       "noAliases": [
         "25953207"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26589851",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 52,50 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 370000,
+      "pricePerM2": 7048,
+      "areaM2": 52.5,
+      "rooms": 3,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Straszewska",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nad-jeziorem/26589851.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26211766",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 48,17 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 279000,
+      "pricePerM2": 5917,
+      "areaM2": 48.17,
+      "rooms": 3,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Reja",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,przy-lesie/26211766.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25265012",
+      "title": "Sprzedam Mieszkanie Wągrowiec - 51,75 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": 410000,
+      "pricePerM2": 7923,
+      "areaM2": 51.75,
+      "rooms": 2,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Średnia",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nowe-wykonczone,nad-jeziorem/25265012.html",
+      "sources": [
+        "nieruchomosci-online"
       ]
     },
     {
@@ -5472,7 +5519,7 @@
       "street": "Opacka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-oddzielna-kuchnia/26139322.html",
       "sources": [
@@ -5516,7 +5563,7 @@
       "street": "Reja",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26504098.html",
       "sources": [
@@ -5538,7 +5585,7 @@
       "street": "Libelta",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26116364.html",
       "sources": [
@@ -5564,31 +5611,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26679152.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25265012",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 51,75 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 410000,
-      "pricePerM2": 7923,
-      "areaM2": 51.75,
-      "rooms": 2,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Średnia",
-      "province": "wielkopolskie",
-      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nowe-wykonczone,nad-jeziorem/25265012.html",
+      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26679152.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -5608,7 +5633,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-kuchnia-z-oknem/26621134.html",
       "sources": [
@@ -5630,7 +5655,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Phinance Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/25512609.html",
       "sources": [
@@ -5663,50 +5688,6 @@
       ],
       "noAliases": [
         "25502908"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26211766",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 48,17 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 279000,
-      "pricePerM2": 5917,
-      "areaM2": 48.17,
-      "rooms": 3,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Reja",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,przy-lesie/26211766.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26589851",
-      "title": "Sprzedam Mieszkanie Wągrowiec - 52,50 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": 370000,
-      "pricePerM2": 7048,
-      "areaM2": 52.5,
-      "rooms": 3,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Straszewska",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "FREEDOM NIERUCHOMOŚCI",
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nad-jeziorem/26589851.html",
-      "sources": [
-        "nieruchomosci-online"
       ]
     },
     {
@@ -7458,6 +7439,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26170325",
+      "title": "Sprzedam Dom Wągrowiec - 234 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 740000,
+      "pricePerM2": 3162,
+      "areaM2": 234,
+      "rooms": 6,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Konwaliowa",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26170325.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "25594767",
       "title": "Sprzedam Dom Wągrowiec - 152 m²",
       "estate": "HOUSE",
@@ -7471,7 +7474,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/25594767.html",
       "sources": [
@@ -7493,7 +7496,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/26495692.html",
       "sources": [
@@ -7524,6 +7527,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "25976371",
+      "title": "Sprzedam Dom Wągrowiec - 120 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 690000,
+      "pricePerM2": 5750,
+      "areaM2": 120,
+      "rooms": 6,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Kalinowa",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/25976371.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "26698151",
       "title": "Sprzedam Dom Wągrowiec - 166 m²",
       "estate": "HOUSE",
@@ -7546,6 +7571,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "25791468",
+      "title": "Sprzedam Dom Wągrowiec - 220 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 890000,
+      "pricePerM2": 4045,
+      "areaM2": 220,
+      "rooms": 6,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Przybyszewskiego",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-balkonem/25791468.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "25838528",
       "title": "Sprzedam Dom Wągrowiec - 207 m²",
       "estate": "HOUSE",
@@ -7559,7 +7606,7 @@
       "street": "Kcyńska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/25838528.html",
       "sources": [
@@ -7584,6 +7631,28 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26401566.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26623422",
+      "title": "Sprzedam Dom Wągrowiec - 180 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 499000,
+      "pricePerM2": 2772,
+      "areaM2": 180,
+      "rooms": 6,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Wierzbowa",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26623422.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7625,7 +7694,7 @@
       "street": "Kraszewskiego",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26493578.html",
       "sources": [
@@ -7647,7 +7716,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/25395636.html",
       "sources": [
@@ -7700,28 +7769,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26623422",
-      "title": "Sprzedam Dom Wągrowiec - 180 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 499000,
-      "pricePerM2": 2772,
-      "areaM2": 180,
-      "rooms": 6,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Wierzbowa",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26623422.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "26116417",
       "title": "Sprzedam Dom Wągrowiec - 199,08 m²",
       "estate": "HOUSE",
@@ -7738,28 +7785,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26116417.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26170325",
-      "title": "Sprzedam Dom Wągrowiec - 234 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 740000,
-      "pricePerM2": 3162,
-      "areaM2": 234,
-      "rooms": 6,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Konwaliowa",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "FREEDOM NIERUCHOMOŚCI",
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26170325.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7801,7 +7826,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26118566.html",
       "sources": [
@@ -7823,7 +7848,7 @@
       "street": "Ustronie",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/26368795.html",
       "sources": [
@@ -7854,44 +7879,22 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "25976371",
-      "title": "Sprzedam Dom Wągrowiec - 120 m²",
+      "externalId": "26505310",
+      "title": "Sprzedam Dom Kobylec - 200 m²",
       "estate": "HOUSE",
       "transaction": "SELL",
-      "pricePln": 690000,
-      "pricePerM2": 5750,
-      "areaM2": 120,
-      "rooms": 6,
+      "pricePln": 879000,
+      "pricePerM2": 4395,
+      "areaM2": 200,
+      "rooms": 7,
       "floor": null,
-      "city": "Wągrowiec",
-      "street": "Kalinowa",
+      "city": "Kobylec",
+      "street": "Dębowa",
       "province": "wielkopolskie",
       "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/25976371.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25791468",
-      "title": "Sprzedam Dom Wągrowiec - 220 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 890000,
-      "pricePerM2": 4045,
-      "areaM2": 220,
-      "rooms": 6,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "Przybyszewskiego",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-balkonem/25791468.html",
+      "href": "https://kobylec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26505310.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -7942,28 +7945,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26505310",
-      "title": "Sprzedam Dom Kobylec - 200 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 879000,
-      "pricePerM2": 4395,
-      "areaM2": 200,
-      "rooms": 7,
-      "floor": null,
-      "city": "Kobylec",
-      "street": "Dębowa",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://kobylec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26505310.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "26149275",
       "title": "Sprzedam Dom Micharzewo - 135 m²",
       "estate": "HOUSE",
@@ -7986,6 +7967,50 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26322740",
+      "title": "Sprzedam Dom Bartodzieje - 139,20 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 899000,
+      "pricePerM2": 6458,
+      "areaM2": 139.2,
+      "rooms": 4,
+      "floor": null,
+      "city": "Bartodzieje",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://bartodzieje.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26322740.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25269006",
+      "title": "Sprzedam Dom Przysieczyn - 106 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 850000,
+      "pricePerM2": 8019,
+      "areaM2": 106,
+      "rooms": 4,
+      "floor": null,
+      "city": "Przysieczyn",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://przysieczyn.nieruchomosci-online.pl/dom,na-sprzedaz/25269006.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "26413263",
       "title": "Sprzedam Dom Rudniczyn - 112 m²",
       "estate": "HOUSE",
@@ -7999,7 +8024,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://rudniczyn.nieruchomosci-online.pl/dom-wolnostojacy,przy-lesie/26413263.html",
       "sources": [
@@ -8021,7 +8046,7 @@
       "street": "Winogronowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://kobylec.nieruchomosci-online.pl/dom,na-sprzedaz/26675608.html",
       "sources": [
@@ -8052,6 +8077,50 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26118558",
+      "title": "Sprzedam Dom Ochodza - 71,79 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 449000,
+      "pricePerM2": 6254,
+      "areaM2": 71.79,
+      "rooms": 3,
+      "floor": null,
+      "city": "Ochodza",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://ochodza.nieruchomosci-online.pl/dom,na-sprzedaz/26118558.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26527103",
+      "title": "Sprzedam Dom Bartodzieje - 103,40 m²",
+      "estate": "HOUSE",
+      "transaction": "SELL",
+      "pricePln": 430000,
+      "pricePerM2": 4159,
+      "areaM2": 103.4,
+      "rooms": 0,
+      "floor": null,
+      "city": "Bartodzieje",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://bartodzieje.nieruchomosci-online.pl/dom-wolnostojacy,do-remontu/26527103.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "26219823",
       "title": "Sprzedam Dom Łaziska - 270 m²",
       "estate": "HOUSE",
@@ -8065,31 +8134,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://laziska.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/26219823.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26322740",
-      "title": "Sprzedam Dom Bartodzieje - 139,20 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 899000,
-      "pricePerM2": 6458,
-      "areaM2": 139.2,
-      "rooms": 4,
-      "floor": null,
-      "city": "Bartodzieje",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
-      "dateCreated": null,
-      "href": "https://bartodzieje.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26322740.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -8153,75 +8200,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://kobylec.nieruchomosci-online.pl/dom,na-sprzedaz/26116438.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25269006",
-      "title": "Sprzedam Dom Przysieczyn - 106 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 850000,
-      "pricePerM2": 8019,
-      "areaM2": 106,
-      "rooms": 4,
-      "floor": null,
-      "city": "Przysieczyn",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://przysieczyn.nieruchomosci-online.pl/dom,na-sprzedaz/25269006.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26527103",
-      "title": "Sprzedam Dom Bartodzieje - 103,40 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 430000,
-      "pricePerM2": 4159,
-      "areaM2": 103.4,
-      "rooms": 0,
-      "floor": null,
-      "city": "Bartodzieje",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://bartodzieje.nieruchomosci-online.pl/dom-wolnostojacy,do-remontu/26527103.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26118558",
-      "title": "Sprzedam Dom Ochodza - 71,79 m²",
-      "estate": "HOUSE",
-      "transaction": "SELL",
-      "pricePln": 449000,
-      "pricePerM2": 6254,
-      "areaM2": 71.79,
-      "rooms": 3,
-      "floor": null,
-      "city": "Ochodza",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
-      "dateCreated": null,
-      "href": "https://ochodza.nieruchomosci-online.pl/dom,na-sprzedaz/26118558.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10078,6 +10059,50 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "25962275",
+      "title": "Sprzedam działkę Wągrowiec - 7 555 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 5999000,
+      "pricePerM2": 794,
+      "areaM2": 7555,
+      "rooms": null,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,na-sprzedaz/25962275.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26242237",
+      "title": "Sprzedam działkę Wągrowiec - 4 845 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 1938000,
+      "pricePerM2": 400,
+      "areaM2": 4845,
+      "rooms": null,
+      "floor": null,
+      "city": "Wągrowiec",
+      "street": "Kukułcza",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,pusta/26242237.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "26024857",
       "title": "Sprzedam działkę Wągrowiec - 6 166 m²",
       "estate": "PLOT",
@@ -10091,7 +10116,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FREEDOM NIERUCHOMOŚCI",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,inwestycyjna,nad-jeziorem/26024857.html",
       "sources": [
@@ -10113,7 +10138,7 @@
       "street": "Berdychowska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,pusta/26403057.html",
       "sources": [
@@ -10157,31 +10182,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
-      "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,budowlana,pusta/26389961.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25962275",
-      "title": "Sprzedam działkę Wągrowiec - 7 555 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 5999000,
-      "pricePerM2": 794,
-      "areaM2": 7555,
-      "rooms": null,
-      "floor": null,
-      "city": "Wągrowiec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,na-sprzedaz/25962275.html",
+      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,budowlana,pusta/26389961.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10223,7 +10226,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FREEDOM NIERUCHOMOŚCI",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,nad-jeziorem/26024858.html",
       "sources": [
@@ -10245,7 +10248,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26395072.html",
       "sources": [
@@ -10276,22 +10279,66 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26242237",
-      "title": "Sprzedam działkę Wągrowiec - 4 845 m²",
+      "externalId": "26682835",
+      "title": "Sprzedam działkę Bartodzieje - 1 250 m²",
       "estate": "PLOT",
       "transaction": "SELL",
-      "pricePln": 1938000,
-      "pricePerM2": 400,
-      "areaM2": 4845,
+      "pricePln": 208000,
+      "pricePerM2": 166,
+      "areaM2": 1250,
       "rooms": null,
       "floor": null,
-      "city": "Wągrowiec",
-      "street": "Kukułcza",
+      "city": "Bartodzieje",
+      "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
-      "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,pusta/26242237.html",
+      "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,na-sprzedaz/26682835.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25989217",
+      "title": "Sprzedam działkę Łaziska - 5 200 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 728000,
+      "pricePerM2": 140,
+      "areaM2": 5200,
+      "rooms": null,
+      "floor": null,
+      "city": "Łaziska",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://laziska.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/25989217.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26075085",
+      "title": "Sprzedam działkę Łęgowo - 5 676 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 599000,
+      "pricePerM2": 106,
+      "areaM2": 5676,
+      "rooms": null,
+      "floor": null,
+      "city": "Łęgowo",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://legowo.nieruchomosci-online.pl/dzialka,inwestycyjna,pusta/26075085.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10311,31 +10358,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://dluga-wies.nieruchomosci-online.pl/dzialka,na-sprzedaz/26546473.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26682835",
-      "title": "Sprzedam działkę Bartodzieje - 1 250 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 208000,
-      "pricePerM2": 166,
-      "areaM2": 1250,
-      "rooms": null,
-      "floor": null,
-      "city": "Bartodzieje",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-      "dateCreated": null,
-      "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,na-sprzedaz/26682835.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10386,6 +10411,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "26264606",
+      "title": "Sprzedam działkę Kaliska - 3 492 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 593640,
+      "pricePerM2": 170,
+      "areaM2": 3492,
+      "rooms": null,
+      "floor": null,
+      "city": "Kaliska",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://kaliska.nieruchomosci-online.pl/dzialka,rekreacyjna,przy-lesie/26264606.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "25985042",
       "title": "Sprzedam działkę Długa Wieś - 1 800 m²",
       "estate": "PLOT",
@@ -10399,9 +10446,53 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://dluga-wies.nieruchomosci-online.pl/dzialka,zabudowana/25985042.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26457410",
+      "title": "Sprzedam działkę Kobylec - 987 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 139000,
+      "pricePerM2": 141,
+      "areaM2": 987,
+      "rooms": null,
+      "floor": null,
+      "city": "Kobylec",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://kobylec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26457410.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "25340474",
+      "title": "Sprzedam działkę Runowo - 800 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 72000,
+      "pricePerM2": 90,
+      "areaM2": 800,
+      "rooms": null,
+      "floor": null,
+      "city": "Runowo",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://runowo.nieruchomosci-online.pl/dzialka,ogrodzona/25340474.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10421,9 +10512,31 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,pusta/25647408.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "24804171",
+      "title": "Sprzedam działkę Bartodzieje - 1 023 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 100000,
+      "pricePerM2": 98,
+      "areaM2": 1023,
+      "rooms": null,
+      "floor": null,
+      "city": "Bartodzieje",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,nad-jeziorem/24804171.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10443,7 +10556,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://laziska.nieruchomosci-online.pl/dzialka,na-sprzedaz/25655958.html",
       "sources": [
@@ -10465,7 +10578,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://kaliska.nieruchomosci-online.pl/dzialka,na-sprzedaz/25861231.html",
       "sources": [
@@ -10518,28 +10631,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26075085",
-      "title": "Sprzedam działkę Łęgowo - 5 676 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 599000,
-      "pricePerM2": 106,
-      "areaM2": 5676,
-      "rooms": null,
-      "floor": null,
-      "city": "Łęgowo",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
-      "dateCreated": null,
-      "href": "https://legowo.nieruchomosci-online.pl/dzialka,inwestycyjna,pusta/26075085.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "26562971",
       "title": "Sprzedam działkę Przysieczyn - 1 344 m²",
       "estate": "PLOT",
@@ -10553,7 +10644,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://przysieczyn.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/26562971.html",
       "sources": [
@@ -10575,7 +10666,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://przysieczyn.nieruchomosci-online.pl/dzialka,budowlana,pusta/26562972.html",
       "sources": [
@@ -10597,31 +10688,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,pusta/26463811.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "24804171",
-      "title": "Sprzedam działkę Bartodzieje - 1 023 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 100000,
-      "pricePerM2": 98,
-      "areaM2": 1023,
-      "rooms": null,
-      "floor": null,
-      "city": "Bartodzieje",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-      "dateCreated": null,
-      "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,nad-jeziorem/24804171.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10663,31 +10732,9 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,nad-jeziorem/25645253.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25989217",
-      "title": "Sprzedam działkę Łaziska - 5 200 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 728000,
-      "pricePerM2": 140,
-      "areaM2": 5200,
-      "rooms": null,
-      "floor": null,
-      "city": "Łaziska",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
-      "dateCreated": null,
-      "href": "https://laziska.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/25989217.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -10710,72 +10757,6 @@
       "agencyName": null,
       "dateCreated": null,
       "href": "https://laziska.nieruchomosci-online.pl/dzialka,pusta/25797432.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26264606",
-      "title": "Sprzedam działkę Kaliska - 3 492 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 593640,
-      "pricePerM2": 170,
-      "areaM2": 3492,
-      "rooms": null,
-      "floor": null,
-      "city": "Kaliska",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://kaliska.nieruchomosci-online.pl/dzialka,rekreacyjna,przy-lesie/26264606.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "25340474",
-      "title": "Sprzedam działkę Runowo - 800 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 72000,
-      "pricePerM2": 90,
-      "areaM2": 800,
-      "rooms": null,
-      "floor": null,
-      "city": "Runowo",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
-      "dateCreated": null,
-      "href": "https://runowo.nieruchomosci-online.pl/dzialka,ogrodzona/25340474.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
-      "externalId": "26457410",
-      "title": "Sprzedam działkę Kobylec - 987 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 139000,
-      "pricePerM2": 141,
-      "areaM2": 987,
-      "rooms": null,
-      "floor": null,
-      "city": "Kobylec",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
-      "dateCreated": null,
-      "href": "https://kobylec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26457410.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -12786,7 +12767,7 @@
       "city": "Wągrowiec",
       "street": "Straszewska",
       "province": "wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/2856209.html",
@@ -12808,7 +12789,7 @@
       "city": "Wągrowiec",
       "street": "",
       "province": "wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,budowlana,pusta/2687139.html",
@@ -12830,7 +12811,7 @@
       "city": "Wągrowiec",
       "street": "",
       "province": "wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,budowlana,w-gorach/2197191.html",
@@ -12852,7 +12833,7 @@
       "city": "Wągrowiec",
       "street": "Marcinkowo",
       "province": "wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialki,sprzedaz/1820411.html",
@@ -12874,10 +12855,32 @@
       "city": "Wągrowiec",
       "street": "Marcinkowo",
       "province": "wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialki,sprzedaz/1820331.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
+      "externalId": "26717143",
+      "title": "Sprzedam Mieszkanie Rogoźno - 52,77 m²",
+      "estate": "FLAT",
+      "transaction": "SELL",
+      "pricePln": null,
+      "pricePerM2": null,
+      "areaM2": null,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "Seminarialna 36",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://rogozno.nieruchomosci-online.pl/nowe-mieszkanie,osiedle-nowe-rogozno/26717143.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -12906,28 +12909,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26717143",
-      "title": "Sprzedam Mieszkanie Rogoźno - 52,77 m²",
-      "estate": "FLAT",
-      "transaction": "SELL",
-      "pricePln": null,
-      "pricePerM2": null,
-      "areaM2": null,
-      "rooms": null,
-      "floor": null,
-      "city": "Rogoźno",
-      "street": "Seminarialna 36",
-      "province": "wielkopolskie",
-      "isPrivate": true,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://rogozno.nieruchomosci-online.pl/nowe-mieszkanie,osiedle-nowe-rogozno/26717143.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "26717263",
       "title": "Sprzedam Mieszkanie Rogoźno - 52,67 m²",
       "estate": "FLAT",
@@ -12940,7 +12921,7 @@
       "city": "Rogoźno",
       "street": "Seminarialna 36",
       "province": "wielkopolskie",
-      "isPrivate": true,
+      "isPrivate": false,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/nowe-mieszkanie,osiedle-nowe-rogozno/26717263.html",
@@ -12985,7 +12966,7 @@
       "street": "Wielka Poznańska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,nad-jeziorem/25837202.html",
       "sources": [
@@ -13956,7 +13937,7 @@
       "street": "Nowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/26691276.html",
       "sources": [
@@ -13978,7 +13959,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://garbatka.nieruchomosci-online.pl/dom-wolnostojacy,przy-lesie/26185219.html",
       "sources": [
@@ -14563,6 +14544,28 @@
     },
     {
       "source": "nieruchomosci-online",
+      "externalId": "22736839",
+      "title": "Sprzedam działkę Rogoźno - 2 049 m²",
+      "estate": "PLOT",
+      "transaction": "SELL",
+      "pricePln": 204900,
+      "pricePerM2": 100,
+      "areaM2": 2049,
+      "rooms": null,
+      "floor": null,
+      "city": "Rogoźno",
+      "street": "",
+      "province": "wielkopolskie",
+      "isPrivate": false,
+      "agencyName": null,
+      "dateCreated": null,
+      "href": "https://rogozno.nieruchomosci-online.pl/dzialka,pusta/22736839.html",
+      "sources": [
+        "nieruchomosci-online"
+      ]
+    },
+    {
+      "source": "nieruchomosci-online",
       "externalId": "25691068",
       "title": "Sprzedam działkę Rogoźno - 1 191 m²",
       "estate": "PLOT",
@@ -14598,7 +14601,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "BON WINOGRADY",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,na-sprzedaz/25716858.html",
       "sources": [
@@ -14620,7 +14623,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,zabudowana/23772763.html",
       "sources": [
@@ -14642,7 +14645,7 @@
       "street": "Łąkowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości Tectum",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,pusta/26643007.html",
       "sources": [
@@ -14673,22 +14676,22 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "22736839",
-      "title": "Sprzedam działkę Rogoźno - 2 049 m²",
+      "externalId": "24826584",
+      "title": "Sprzedam działkę Międzylesie - 18 233 m²",
       "estate": "PLOT",
       "transaction": "SELL",
-      "pricePln": 204900,
-      "pricePerM2": 100,
-      "areaM2": 2049,
+      "pricePln": 911650,
+      "pricePerM2": 50,
+      "areaM2": 18233,
       "rooms": null,
       "floor": null,
-      "city": "Rogoźno",
+      "city": "Międzylesie",
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Nieruchomości - FURMAN",
+      "agencyName": null,
       "dateCreated": null,
-      "href": "https://rogozno.nieruchomosci-online.pl/dzialka,pusta/22736839.html",
+      "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826584.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -14708,7 +14711,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://dziewcza-struga.nieruchomosci-online.pl/dzialka,inwestycyjna,przy-lesie/26277855.html",
       "sources": [
@@ -14752,7 +14755,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Metrohouse Poznań",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,na-sprzedaz/24826718.html",
       "sources": [
@@ -14774,7 +14777,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "DAN - DOM Danuta Majchrzak",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://garbatka.nieruchomosci-online.pl/dzialka,inwestycyjna,ogrodzona/23030356.html",
       "sources": [
@@ -14783,22 +14786,22 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "24826584",
-      "title": "Sprzedam działkę Międzylesie - 18 233 m²",
+      "externalId": "26648304",
+      "title": "Sprzedam działkę Grudna - 2 250 m²",
       "estate": "PLOT",
       "transaction": "SELL",
-      "pricePln": 911650,
-      "pricePerM2": 50,
-      "areaM2": 18233,
+      "pricePln": 165000,
+      "pricePerM2": 73,
+      "areaM2": 2250,
       "rooms": null,
       "floor": null,
-      "city": "Międzylesie",
+      "city": "Grudna",
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Metrohouse Poznań",
+      "agencyName": null,
       "dateCreated": null,
-      "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826584.html",
+      "href": "https://grudna.nieruchomosci-online.pl/dzialka,na-sprzedaz/26648304.html",
       "sources": [
         "nieruchomosci-online"
       ]
@@ -14862,7 +14865,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://gosciejewo.nieruchomosci-online.pl/dzialka,budowlana,przy-lesie/25932785.html",
       "sources": [
@@ -14884,7 +14887,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Metrohouse Poznań",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,na-sprzedaz/24826408.html",
       "sources": [
@@ -14915,28 +14918,6 @@
     },
     {
       "source": "nieruchomosci-online",
-      "externalId": "26648304",
-      "title": "Sprzedam działkę Grudna - 2 250 m²",
-      "estate": "PLOT",
-      "transaction": "SELL",
-      "pricePln": 165000,
-      "pricePerM2": 73,
-      "areaM2": 2250,
-      "rooms": null,
-      "floor": null,
-      "city": "Grudna",
-      "street": "",
-      "province": "wielkopolskie",
-      "isPrivate": false,
-      "agencyName": null,
-      "dateCreated": null,
-      "href": "https://grudna.nieruchomosci-online.pl/dzialka,na-sprzedaz/26648304.html",
-      "sources": [
-        "nieruchomosci-online"
-      ]
-    },
-    {
-      "source": "nieruchomosci-online",
       "externalId": "24826585",
       "title": "Sprzedam działkę Międzylesie - 15 794 m²",
       "estate": "PLOT",
@@ -14950,7 +14931,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "Metrohouse Poznań",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826585.html",
       "sources": [
@@ -14972,7 +14953,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": "FWK Nieruchomości",
+      "agencyName": null,
       "dateCreated": null,
       "href": "https://grudna.nieruchomosci-online.pl/dzialka,przy-lesie/26013531.html",
       "sources": [
