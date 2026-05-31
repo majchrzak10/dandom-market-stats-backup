@@ -111,6 +111,20 @@
     "reason": "no-agent-link",
     "isPrivate": true
   },
+  "1820331": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:40:21.640Z",
+    "reason": "no-agent-link"
+  },
+  "1820411": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:40:15.471Z",
+    "reason": "no-agent-link"
+  },
   "2001346": {
     "agentSlug": null,
     "agencyName": null,
@@ -131,6 +145,13 @@
     "fetchedAt": "2026-05-27T08:40:36.599Z",
     "reason": "no-agent-link",
     "isPrivate": true
+  },
+  "2197191": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:40:08.820Z",
+    "reason": "no-agent-link"
   },
   "2324900": {
     "agentSlug": null,
@@ -160,6 +181,13 @@
     "reason": "no-agent-link",
     "isPrivate": true
   },
+  "2687139": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:40:01.786Z",
+    "reason": "no-agent-link"
+  },
   "2744922": {
     "agentSlug": null,
     "agencyName": null,
@@ -173,6 +201,13 @@
     "fetchedAt": "2026-05-27T09:16:42.912Z",
     "reason": "no-agent-link",
     "isPrivate": true
+  },
+  "2856209": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:39:55.779Z",
+    "reason": "no-agent-link"
   },
   "2969399": {
     "agentSlug": null,
@@ -3884,5 +3919,38 @@
     "fetchedAt": "2026-05-27T08:26:16.239Z",
     "reason": "no-agent-link",
     "isPrivate": true
+  },
+  "26713758": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:39:42.337Z",
+    "reason": "no-agent-link"
+  },
+  "26713759": {
+    "agentSlug": "marta-janusz",
+    "agencyName": "DAN - DOM Danuta Majchrzak",
+    "fetchedAt": "2026-05-31T07:39:50.070Z"
+  },
+  "26713842": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:39:35.332Z",
+    "reason": "no-agent-link"
+  },
+  "26717143": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:40:28.540Z",
+    "reason": "no-agent-link"
+  },
+  "26717263": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-05-31T07:40:35.455Z",
+    "reason": "no-agent-link"
   }
 }

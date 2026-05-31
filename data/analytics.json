@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T08:42:50.619Z",
+  "generatedAt": "2026-05-31T07:40:42.431Z",
   "kpi": {
     "date": "2026-05-30",
     "totalOffers": 62,
@@ -165,7 +165,7 @@
         "avgPrice": 554815,
         "medianPricePerM2": 2441,
         "avgDaysOnMarket": 56,
-        "medianDaysOnMarket": 12,
+        "medianDaysOnMarket": 11,
         "topCities": [
           {
             "city": "WĄGROWIEC",
@@ -440,20 +440,30 @@
   },
   "competitorAgents": {
     "total": 679,
-    "private": 65,
-    "unknown": 471,
-    "knownAgent": 143,
+    "private": 72,
+    "unknown": 405,
+    "knownAgent": 202,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 25,
-        "totalValue": 13799000,
-        "isOurs": true
+        "count": 36,
+        "totalValue": 20778560,
+        "isOurs": true,
+        "variants": [
+          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "DAN - DOM Danuta Majchrzak"
+        ]
+      },
+      {
+        "name": "Nieruchomości Tectum",
+        "count": 26,
+        "totalValue": 12670101,
+        "isOurs": false
       },
       {
         "name": "FWK Nieruchomości",
-        "count": 13,
-        "totalValue": 2985512,
+        "count": 20,
+        "totalValue": 5895737,
         "isOurs": false
       },
       {
@@ -481,9 +491,9 @@
         "isOurs": false
       },
       {
-        "name": "Nieruchomości Tectum",
-        "count": 8,
-        "totalValue": 2342720,
+        "name": "Nieruchomości - FURMAN",
+        "count": 9,
+        "totalValue": 3976900,
         "isOurs": false
       },
       {
@@ -514,6 +524,24 @@
         "name": "GRACJAN-NIERUCHOMOŚCI",
         "count": 4,
         "totalValue": 5160000,
+        "isOurs": false
+      },
+      {
+        "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
+        "count": 4,
+        "totalValue": 680300,
+        "isOurs": false
+      },
+      {
+        "name": "FREEDOM NIERUCHOMOŚCI",
+        "count": 4,
+        "totalValue": 2099130,
+        "isOurs": false
+      },
+      {
+        "name": "Metrohouse Poznań",
+        "count": 4,
+        "totalValue": 8040810,
         "isOurs": false
       },
       {
@@ -652,6 +680,18 @@
         "name": "Handom Nieruchomości",
         "count": 1,
         "totalValue": 117900,
+        "isOurs": false
+      },
+      {
+        "name": "Phinance Nieruchomości",
+        "count": 1,
+        "totalValue": 300354,
+        "isOurs": false
+      },
+      {
+        "name": "BON WINOGRADY",
+        "count": 1,
+        "totalValue": 225000,
         "isOurs": false
       }
     ]
@@ -1596,6 +1636,65 @@
         },
         {
           "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5,
+          "isOurs": false
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "total": 679,
+      "private": 72,
+      "unknown": 405,
+      "knownAgent": 202,
+      "topAgencies": [
+        {
+          "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "count": 36,
+          "isOurs": true
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 26,
+          "isOurs": false
+        },
+        {
+          "name": "FWK Nieruchomości",
+          "count": 20,
+          "isOurs": false
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 12,
+          "isOurs": false
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 10,
+          "isOurs": false
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 10,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości - FURMAN",
+          "count": 9,
+          "isOurs": false
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Kaczmarek",
           "count": 5,
           "isOurs": false
         }
