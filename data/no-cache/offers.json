@@ -13,6 +13,20 @@
     "reason": "no-agent-link",
     "isPrivate": true
   },
+  "377921": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:45.139Z",
+    "reason": "no-agent-link"
+  },
+  "389510": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:38.660Z",
+    "reason": "no-agent-link"
+  },
   "401433": {
     "agentSlug": null,
     "agencyName": null,
@@ -48,6 +62,13 @@
     "reason": "no-agent-link",
     "isPrivate": true
   },
+  "561044": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:31.338Z",
+    "reason": "no-agent-link"
+  },
   "678448": {
     "agentSlug": null,
     "agencyName": null,
@@ -62,12 +83,26 @@
     "reason": "no-agent-link",
     "isPrivate": true
   },
+  "763777": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:24.261Z",
+    "reason": "no-agent-link"
+  },
   "767150": {
     "agentSlug": null,
     "agencyName": null,
     "fetchedAt": "2026-05-27T08:40:50.052Z",
     "reason": "no-agent-link",
     "isPrivate": true
+  },
+  "768143": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:16.909Z",
+    "reason": "no-agent-link"
   },
   "768836": {
     "agentSlug": null,
@@ -110,6 +145,13 @@
     "fetchedAt": "2026-05-27T09:03:50.083Z",
     "reason": "no-agent-link",
     "isPrivate": true
+  },
+  "1803802": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:10.599Z",
+    "reason": "no-agent-link"
   },
   "1820331": {
     "agentSlug": null,
@@ -3979,6 +4021,47 @@
     "agencyName": null,
     "isPrivate": true,
     "fetchedAt": "2026-06-07T07:49:35.722Z",
+    "reason": "no-agent-link"
+  },
+  "26733625": {
+    "agentSlug": "izabela-polcyn",
+    "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
+    "fetchedAt": "2026-06-14T08:10:58.076Z"
+  },
+  "26734892": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:11:17.618Z",
+    "reason": "no-agent-link"
+  },
+  "26736014": {
+    "agentSlug": "jacek-hauke",
+    "agencyName": "Best Life Nieruchomości",
+    "fetchedAt": "2026-06-14T08:11:10.200Z"
+  },
+  "26741171": {
+    "agentSlug": "adam-kisiel",
+    "agencyName": "Phinance Nieruchomości",
+    "fetchedAt": "2026-06-14T08:09:54.984Z"
+  },
+  "26741218": {
+    "agentSlug": "agnieszka-mysiak",
+    "agencyName": "Nieruchomości Tectum",
+    "fetchedAt": "2026-06-14T08:10:02.737Z"
+  },
+  "26742644": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:10:51.315Z",
+    "reason": "no-agent-link"
+  },
+  "26748128": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-14T08:09:48.724Z",
     "reason": "no-agent-link"
   }
 }
