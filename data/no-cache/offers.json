@@ -2,16 +2,16 @@
   "156734": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:08:15.485Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:48.073Z",
+    "reason": "no-agent-link"
   },
   "377903": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:38.248Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:35.116Z",
+    "reason": "no-agent-link"
   },
   "377921": {
     "agentSlug": null,
@@ -30,37 +30,37 @@
   "401433": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:31.852Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:29.166Z",
+    "reason": "no-agent-link"
   },
   "401471": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:24.820Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:23.522Z",
+    "reason": "no-agent-link"
   },
   "406359": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:17.088Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:16.759Z",
+    "reason": "no-agent-link"
   },
   "475532": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:09.768Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:10.045Z",
+    "reason": "no-agent-link"
   },
   "489655": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:08:08.939Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:42.432Z",
+    "reason": "no-agent-link"
   },
   "561044": {
     "agentSlug": null,
@@ -72,16 +72,16 @@
   "678448": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:56.178Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:57.343Z",
+    "reason": "no-agent-link"
   },
   "699580": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:03.460Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:03.175Z",
+    "reason": "no-agent-link"
   },
   "763777": {
     "agentSlug": null,
@@ -93,9 +93,9 @@
   "767150": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:50.052Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:51.023Z",
+    "reason": "no-agent-link"
   },
   "768143": {
     "agentSlug": null,
@@ -107,44 +107,44 @@
   "768836": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:57.109Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:58.593Z",
+    "reason": "no-agent-link"
   },
   "956495": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:39.700Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:14.931Z",
+    "reason": "no-agent-link"
   },
   "987890": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:43.858Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:45.323Z",
+    "reason": "no-agent-link"
   },
   "1229983": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:29.720Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:32.428Z",
+    "reason": "no-agent-link"
   },
   "1408704": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:08:01.257Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:35.460Z",
+    "reason": "no-agent-link"
   },
   "1497472": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:50.083Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:50.884Z",
+    "reason": "no-agent-link"
   },
   "1803802": {
     "agentSlug": null,
@@ -170,23 +170,23 @@
   "2001346": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:54.102Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:28.184Z",
+    "reason": "no-agent-link"
   },
   "2095857": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:46.432Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:21.864Z",
+    "reason": "no-agent-link"
   },
   "2117581": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:36.599Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:38.810Z",
+    "reason": "no-agent-link"
   },
   "2197191": {
     "agentSlug": null,
@@ -198,30 +198,30 @@
   "2324900": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:26.258Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:01.179Z",
+    "reason": "no-agent-link"
   },
   "2433992": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:33.723Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:08.124Z",
+    "reason": "no-agent-link"
   },
   "2497072": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:43.423Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:43.781Z",
+    "reason": "no-agent-link"
   },
   "2536293": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:22.366Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:26.573Z",
+    "reason": "no-agent-link"
   },
   "2687139": {
     "agentSlug": null,
@@ -233,9 +233,9 @@
   "2744922": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:10.290Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:14.068Z",
+    "reason": "no-agent-link"
   },
   "2761287": {
     "agentSlug": null,
@@ -254,30 +254,30 @@
   "2969399": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:48.377Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:18.606Z",
+    "reason": "no-agent-link"
   },
   "2978453": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:16.550Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:20.468Z",
+    "reason": "no-agent-link"
   },
   "2998506": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:41.507Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:11.560Z",
+    "reason": "no-agent-link"
   },
   "3034997": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:33.925Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:05.149Z",
+    "reason": "no-agent-link"
   },
   "3125567": {
     "agentSlug": null,
@@ -289,1059 +289,1059 @@
   "3130821": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:20.486Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:51.851Z",
+    "reason": "no-agent-link"
   },
   "3142693": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:27.379Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:57.707Z",
+    "reason": "no-agent-link"
   },
   "3919784": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:14.850Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:44.515Z",
+    "reason": "no-agent-link"
   },
   "4059914": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:08.783Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:37.595Z",
+    "reason": "no-agent-link"
   },
   "4349136": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:40:03.569Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:07.719Z",
+    "reason": "no-agent-link"
   },
   "4387960": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:49.393Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:55.024Z",
+    "reason": "no-agent-link"
   },
   "4499292": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:49.689Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:18.940Z",
+    "reason": "no-agent-link"
   },
   "4499293": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:56.323Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:25.833Z",
+    "reason": "no-agent-link"
   },
   "4500226": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:02.073Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:31.936Z",
+    "reason": "no-agent-link"
   },
   "4737260": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:36.593Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:36.296Z",
+    "reason": "no-agent-link"
   },
   "4814307": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:56.410Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:22:00.987Z",
+    "reason": "no-agent-link"
   },
   "5123628": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:42.382Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:12.763Z",
+    "reason": "no-agent-link"
   },
   "5475063": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:41.973Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:48.066Z",
+    "reason": "no-agent-link"
   },
   "5705684": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:29.168Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:30.564Z",
+    "reason": "no-agent-link"
   },
   "7526556": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:35.727Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:40.959Z",
+    "reason": "no-agent-link"
   },
   "7764274": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:16:30.129Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:56:15.915Z",
+    "reason": "no-agent-link"
   },
   "7764277": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:16:23.754Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:56:09.049Z",
+    "reason": "no-agent-link"
   },
   "8076208": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:16:17.157Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:56:01.541Z",
+    "reason": "no-agent-link"
   },
   "8990077": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:18.822Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:55.486Z",
+    "reason": "no-agent-link"
   },
   "8990078": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:16:02.789Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:48.941Z",
+    "reason": "no-agent-link"
   },
   "9527202": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:16:09.682Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:55.091Z",
+    "reason": "no-agent-link"
   },
   "9767560": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:28.735Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:32.931Z",
+    "reason": "no-agent-link"
   },
   "10378769": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:36.405Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:06.696Z",
+    "reason": "no-agent-link"
   },
   "10529856": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:41.918Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:43.693Z",
+    "reason": "no-agent-link"
   },
   "10529874": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:37.886Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:14.579Z",
+    "reason": "no-agent-link"
   },
   "10529875": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:41.371Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:43.455Z",
+    "reason": "no-agent-link"
   },
   "10529879": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:34.409Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:36.031Z",
+    "reason": "no-agent-link"
   },
   "10738301": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:28.362Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:29.601Z",
+    "reason": "no-agent-link"
   },
   "10738303": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:49.030Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:49.643Z",
+    "reason": "no-agent-link"
   },
   "12043380": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:11.480Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:49.752Z",
+    "reason": "no-agent-link"
   },
   "12376757": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:56.878Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:42.198Z",
+    "reason": "no-agent-link"
   },
   "12471237": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:29.514Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:36:00.755Z",
+    "reason": "no-agent-link"
   },
   "12502329": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:56.520Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:57.415Z",
+    "reason": "no-agent-link"
   },
   "12502370": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:21.224Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:25.343Z",
+    "reason": "no-agent-link"
   },
   "13150163": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:14.554Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:18.023Z",
+    "reason": "no-agent-link"
   },
   "14129988": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:08.027Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:11.167Z",
+    "reason": "no-agent-link"
   },
   "14282570": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:51.148Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:35.502Z",
+    "reason": "no-agent-link"
   },
   "14797345": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:39:02.247Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:21:03.725Z",
+    "reason": "no-agent-link"
   },
   "15018791": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:15.252Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:17.512Z",
+    "reason": "no-agent-link"
   },
   "15083518": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:22.008Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:24.726Z",
+    "reason": "no-agent-link"
   },
   "15083520": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:07.969Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:10.180Z",
+    "reason": "no-agent-link"
   },
   "15087719": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:50.536Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:50.625Z",
+    "reason": "no-agent-link"
   },
   "15367996": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:35.159Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:36.597Z",
+    "reason": "no-agent-link"
   },
   "15469678": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:25.652Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:07.890Z",
+    "reason": "no-agent-link"
   },
   "15469679": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:39.340Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:22.612Z",
+    "reason": "no-agent-link"
   },
   "15469683": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:16.020Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:49.979Z",
+    "reason": "no-agent-link"
   },
   "15469691": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:17.919Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:19.140Z",
+    "reason": "no-agent-link"
   },
   "15469695": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:46.689Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:43.285Z",
+    "reason": "no-agent-link"
   },
   "15469699": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:25.371Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:21.247Z",
+    "reason": "no-agent-link"
   },
   "15469714": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:06.056Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:01.612Z",
+    "reason": "no-agent-link"
   },
   "15469722": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:34.094Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:28.214Z",
+    "reason": "no-agent-link"
   },
   "15469723": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:44.686Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:40.706Z",
+    "reason": "no-agent-link"
   },
   "15469724": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:25.347Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:25.592Z",
+    "reason": "no-agent-link"
   },
   "15469725": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:30.092Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:01.466Z",
+    "reason": "no-agent-link"
   },
   "15469726": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:34.960Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:10.690Z",
+    "reason": "no-agent-link"
   },
   "15469729": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:28.413Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:01.499Z",
+    "reason": "no-agent-link"
   },
   "15469731": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:05.602Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:05.079Z",
+    "reason": "no-agent-link"
   },
   "15469736": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:31.458Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:28.739Z",
+    "reason": "no-agent-link"
   },
   "15469747": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:15.264Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:49.861Z",
+    "reason": "no-agent-link"
   },
   "15469748": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:32.322Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:32.189Z",
+    "reason": "no-agent-link"
   },
   "15469749": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:42.918Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:15.250Z",
+    "reason": "no-agent-link"
   },
   "15469750": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:41.382Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:16.537Z",
+    "reason": "no-agent-link"
   },
   "15469752": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:10.999Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:08.682Z",
+    "reason": "no-agent-link"
   },
   "15469755": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:45.458Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:29.490Z",
+    "reason": "no-agent-link"
   },
   "15469756": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:01.432Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:35.510Z",
+    "reason": "no-agent-link"
   },
   "15469758": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:49.223Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:23.298Z",
+    "reason": "no-agent-link"
   },
   "15469801": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:42.880Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:16.207Z",
+    "reason": "no-agent-link"
   },
   "15469802": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:23.011Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:55.314Z",
+    "reason": "no-agent-link"
   },
   "15469803": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:22.321Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:53.972Z",
+    "reason": "no-agent-link"
   },
   "15469805": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:29.077Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:02.561Z",
+    "reason": "no-agent-link"
   },
   "15469816": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:48.968Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:22.613Z",
+    "reason": "no-agent-link"
   },
   "15469838": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:15.267Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:47.846Z",
+    "reason": "no-agent-link"
   },
   "15469845": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:23.006Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:56.306Z",
+    "reason": "no-agent-link"
   },
   "15469853": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:07:05.163Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:44.066Z",
+    "reason": "no-agent-link"
   },
   "15469856": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:58.785Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:54.939Z",
+    "reason": "no-agent-link"
   },
   "15469857": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:22.980Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:57.650Z",
+    "reason": "no-agent-link"
   },
   "15469859": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:12.051Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:11.608Z",
+    "reason": "no-agent-link"
   },
   "15469868": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:08.935Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:41.968Z",
+    "reason": "no-agent-link"
   },
   "15469884": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:38.205Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:38.127Z",
+    "reason": "no-agent-link"
   },
   "15469923": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:03:02.075Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:43:03.343Z",
+    "reason": "no-agent-link"
   },
   "15469926": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:50.297Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:28.821Z",
+    "reason": "no-agent-link"
   },
   "15470007": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:55.630Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:57.649Z",
+    "reason": "no-agent-link"
   },
   "15470102": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:44.279Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:21.644Z",
+    "reason": "no-agent-link"
   },
   "15470884": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:21.381Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:55.851Z",
+    "reason": "no-agent-link"
   },
   "15470903": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:57.559Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:36.522Z",
+    "reason": "no-agent-link"
   },
   "15470906": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:42.638Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:17.717Z",
+    "reason": "no-agent-link"
   },
   "15470907": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:50.058Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:23.959Z",
+    "reason": "no-agent-link"
   },
   "15470910": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:54.635Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:28.211Z",
+    "reason": "no-agent-link"
   },
   "15470917": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:58.993Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:57.884Z",
+    "reason": "no-agent-link"
   },
   "15470933": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:02.857Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:36.407Z",
+    "reason": "no-agent-link"
   },
   "15470935": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:09.460Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:43.532Z",
+    "reason": "no-agent-link"
   },
   "15470938": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:38.426Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:34.568Z",
+    "reason": "no-agent-link"
   },
   "15470939": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:13.295Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:08.806Z",
+    "reason": "no-agent-link"
   },
   "15470941": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:19.065Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:16.435Z",
+    "reason": "no-agent-link"
   },
   "15470943": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:55.483Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:29.161Z",
+    "reason": "no-agent-link"
   },
   "15470948": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:38:44.596Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:20:44.462Z",
+    "reason": "no-agent-link"
   },
   "15470950": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:08.032Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:42.995Z",
+    "reason": "no-agent-link"
   },
   "15470951": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:09.231Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:41.369Z",
+    "reason": "no-agent-link"
   },
   "15470952": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:55.191Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:29.140Z",
+    "reason": "no-agent-link"
   },
   "15470960": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:32.588Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:15.060Z",
+    "reason": "no-agent-link"
   },
   "15470963": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:55:02.314Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:35.785Z",
+    "reason": "no-agent-link"
   },
   "15470968": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:56.084Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:29.909Z",
+    "reason": "no-agent-link"
   },
   "15470969": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:49.012Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:22.247Z",
+    "reason": "no-agent-link"
   },
   "15775286": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:52:35.261Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:10.031Z",
+    "reason": "no-agent-link"
   },
   "15870096": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:52.409Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:50.356Z",
+    "reason": "no-agent-link"
   },
   "15948800": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:27.040Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:22.287Z",
+    "reason": "no-agent-link"
   },
   "16100737": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:02.176Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:35.423Z",
+    "reason": "no-agent-link"
   },
   "16135091": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:19.635Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:55:01.313Z",
+    "reason": "no-agent-link"
   },
   "16135093": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:32.130Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:08.371Z",
+    "reason": "no-agent-link"
   },
   "16141332": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:54:34.816Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:35:08.989Z",
+    "reason": "no-agent-link"
   },
   "16171565": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:15.286Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:33:48.513Z",
+    "reason": "no-agent-link"
   },
   "16171566": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:53:36.222Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:34:08.734Z",
+    "reason": "no-agent-link"
   },
   "16171572": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:28.859Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:32:04.792Z",
+    "reason": "no-agent-link"
   },
   "16171574": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:37:40.984Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:19:35.851Z",
+    "reason": "no-agent-link"
   },
   "16235100": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:17.840Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:14.426Z",
+    "reason": "no-agent-link"
   },
   "16295917": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:52.411Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:47.474Z",
+    "reason": "no-agent-link"
   },
   "16297516": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:48.891Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:49.785Z",
+    "reason": "no-agent-link"
   },
   "16353860": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:16.026Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:52.009Z",
+    "reason": "no-agent-link"
   },
   "16557338": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:56.444Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:55.865Z",
+    "reason": "no-agent-link"
   },
   "17310402": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:09.885Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:44.259Z",
+    "reason": "no-agent-link"
   },
   "17465769": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:36:04.090Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:18:02.919Z",
+    "reason": "no-agent-link"
   },
   "17656169": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:51:03.238Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:37.982Z",
+    "reason": "no-agent-link"
   },
   "17827873": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:22.573Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:21.898Z",
+    "reason": "no-agent-link"
   },
   "17971386": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:14.700Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:14.921Z",
+    "reason": "no-agent-link"
   },
   "18005251": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:08.305Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:09.184Z",
+    "reason": "no-agent-link"
   },
   "18062786": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:40.121Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:43.436Z",
+    "reason": "no-agent-link"
   },
   "18144927": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:55.931Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:30.963Z",
+    "reason": "no-agent-link"
   },
   "18378757": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:35:00.994Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:17:02.455Z",
+    "reason": "no-agent-link"
   },
   "18560717": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:49.985Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:34.230Z",
+    "reason": "no-agent-link"
   },
   "18610515": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:53.714Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:56.611Z",
+    "reason": "no-agent-link"
   },
   "18653636": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:26.142Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:47:02.072Z",
+    "reason": "no-agent-link"
   },
   "18679249": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:47.702Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:50.445Z",
+    "reason": "no-agent-link"
   },
   "19579465": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:16.463Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:49.395Z",
+    "reason": "no-agent-link"
   },
   "19579481": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:43.084Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:16.320Z",
+    "reason": "no-agent-link"
   },
   "19580577": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:49.305Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:23.740Z",
+    "reason": "no-agent-link"
   },
   "19748430": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:57.000Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:40.314Z",
+    "reason": "no-agent-link"
   },
   "19801489": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:25.749Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:30.410Z",
+    "reason": "no-agent-link"
   },
   "19914619": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:12.252Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:54.085Z",
+    "reason": "no-agent-link"
   },
   "19914620": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:15:04.569Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:47.713Z",
+    "reason": "no-agent-link"
   },
   "19941292": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:27.607Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:30.141Z",
+    "reason": "no-agent-link"
   },
   "20425105": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:19.953Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:23.149Z",
+    "reason": "no-agent-link"
   },
   "20540716": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:00.650Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:02.960Z",
+    "reason": "no-agent-link"
   },
   "20844718": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:32.633Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:36.708Z",
+    "reason": "no-agent-link"
   },
   "20925564": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:07.457Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:09.345Z",
+    "reason": "no-agent-link"
   },
   "21132922": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:34:13.814Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:16:15.725Z",
+    "reason": "no-agent-link"
   },
   "21188487": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:37.334Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:08.805Z",
+    "reason": "no-agent-link"
   },
   "21288003": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:29.976Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:31:02.953Z",
+    "reason": "no-agent-link"
   },
   "21439085": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:09.542Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:42.946Z",
+    "reason": "no-agent-link"
   },
   "21484524": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:53.504Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:56.599Z",
+    "reason": "no-agent-link"
   },
   "21561029": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:22.656Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:56.282Z",
+    "reason": "no-agent-link"
   },
   "21620502": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:42:10.472Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:24:29.387Z",
+    "reason": "no-agent-link"
   },
   "21932632": {
     "agentSlug": null,
@@ -1360,30 +1360,30 @@
   "21932636": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:25:29.639Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:57.332Z",
+    "reason": "no-agent-link"
   },
   "22036275": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:36.173Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:21.288Z",
+    "reason": "no-agent-link"
   },
   "22036277": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:29.785Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:14.897Z",
+    "reason": "no-agent-link"
   },
   "22036279": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:43.396Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:28.356Z",
+    "reason": "no-agent-link"
   },
   "22126005": {
     "agentSlug": null,
@@ -1395,23 +1395,23 @@
   "22146285": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:47.674Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:50.165Z",
+    "reason": "no-agent-link"
   },
   "22146286": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:49:03.139Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:15.762Z",
+    "reason": "no-agent-link"
   },
   "22173478": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:21.596Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:24.430Z",
+    "reason": "no-agent-link"
   },
   "22183798": {
     "agentSlug": null,
@@ -1423,180 +1423,180 @@
   "22237051": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:25:14.709Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:43.583Z",
+    "reason": "no-agent-link"
   },
   "22240698": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:25:22.167Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:50.639Z",
+    "reason": "no-agent-link"
   },
   "22736839": {
     "agentSlug": "katarzyna-jankowska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T09:09:01.830Z"
+    "fetchedAt": "2026-06-28T08:49:26.101Z"
   },
   "22895221": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:33.105Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:37.718Z",
+    "reason": "no-agent-link"
   },
   "23030356": {
     "agentSlug": "joanna-szewczak",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T09:10:51.080Z"
+    "fetchedAt": "2026-06-28T08:50:33.554Z"
   },
   "23162099": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:48.966Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:01.364Z",
+    "reason": "no-agent-link"
   },
   "23167439": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:35.789Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:47.789Z",
+    "reason": "no-agent-link"
   },
   "23167857": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:56.403Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:08.308Z",
+    "reason": "no-agent-link"
   },
   "23167880": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:42.585Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:54.215Z",
+    "reason": "no-agent-link"
   },
   "23168166": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:11.267Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:43.153Z",
+    "reason": "no-agent-link"
   },
   "23168167": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:30.590Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:03.012Z",
+    "reason": "no-agent-link"
   },
   "23168169": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:23.805Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:56.288Z",
+    "reason": "no-agent-link"
   },
   "23168178": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:17.164Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:49.480Z",
+    "reason": "no-agent-link"
   },
   "23187066": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:12.970Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:18.296Z",
+    "reason": "no-agent-link"
   },
   "23187067": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:49:09.358Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:22.271Z",
+    "reason": "no-agent-link"
   },
   "23230944": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:25:07.688Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:36.321Z",
+    "reason": "no-agent-link"
   },
   "23269867": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:40.740Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:44.061Z",
+    "reason": "no-agent-link"
   },
   "23357693": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:20.848Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:24.299Z",
+    "reason": "no-agent-link"
   },
   "23375754": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:25:01.138Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:29.366Z",
+    "reason": "no-agent-link"
   },
   "23384216": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:54.967Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:23.470Z",
+    "reason": "no-agent-link"
   },
   "23443103": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:03.836Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:16.568Z",
+    "reason": "no-agent-link"
   },
   "23448957": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:14.841Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:18.695Z",
+    "reason": "no-agent-link"
   },
   "23575071": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:45.993Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:49.868Z",
+    "reason": "no-agent-link"
   },
   "23598330": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:49:15.941Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:28.889Z",
+    "reason": "no-agent-link"
   },
   "23639813": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:50:01.888Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:30:35.767Z",
+    "reason": "no-agent-link"
   },
   "23733502": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:29:11.458Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:10:55.390Z",
+    "reason": "no-agent-link"
   },
   "23744184": {
     "agentSlug": null,
@@ -1636,9 +1636,9 @@
   "23760066": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:22.808Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:07.218Z",
+    "reason": "no-agent-link"
   },
   "23762734": {
     "agentSlug": null,
@@ -1655,854 +1655,854 @@
   "23774852": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:45:54.342Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:27:35.250Z",
+    "reason": "no-agent-link"
   },
   "23777721": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:08.047Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:12.580Z",
+    "reason": "no-agent-link"
   },
   "23790355": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:40.083Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:25.165Z",
+    "reason": "no-agent-link"
   },
   "23800573": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:48.946Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:17.896Z",
+    "reason": "no-agent-link"
   },
   "23812876": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:52.492Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:57.191Z",
+    "reason": "no-agent-link"
   },
   "23812877": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:26.904Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:31.631Z",
+    "reason": "no-agent-link"
   },
   "23812882": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:39.900Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:43.669Z",
+    "reason": "no-agent-link"
   },
   "23813328": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:52.987Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:57.201Z",
+    "reason": "no-agent-link"
   },
   "23813335": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:35.754Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:03.288Z",
+    "reason": "no-agent-link"
   },
   "23813357": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:42.318Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:08:10.625Z",
+    "reason": "no-agent-link"
   },
   "23813358": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:29.702Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:02.134Z",
+    "reason": "no-agent-link"
   },
   "23815717": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:44.875Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:15.784Z",
+    "reason": "no-agent-link"
   },
   "23860896": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:19.963Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:25.761Z",
+    "reason": "no-agent-link"
   },
   "23876772": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:22.714Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:51.846Z",
+    "reason": "no-agent-link"
   },
   "23913082": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:01.030Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:31.203Z",
+    "reason": "no-agent-link"
   },
   "23940920": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:29.647Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:57.650Z",
+    "reason": "no-agent-link"
   },
   "23962131": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:33:06.219Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:11.032Z",
+    "reason": "no-agent-link"
   },
   "23977569": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:16.623Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:44.704Z",
+    "reason": "no-agent-link"
   },
   "23987589": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:54.412Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:58.295Z",
+    "reason": "no-agent-link"
   },
   "23995875": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:44.254Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:16.045Z",
+    "reason": "no-agent-link"
   },
   "24018426": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:34.393Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:01.868Z",
+    "reason": "no-agent-link"
   },
   "24024519": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:10.421Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:37.470Z",
+    "reason": "no-agent-link"
   },
   "24067103": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:51.010Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:17.958Z",
+    "reason": "no-agent-link"
   },
   "24077748": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:24:04.677Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:31.285Z",
+    "reason": "no-agent-link"
   },
   "24106716": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:58.250Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:23.898Z",
+    "reason": "no-agent-link"
   },
   "24108965": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:02:00.631Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:42:05.821Z",
+    "reason": "no-agent-link"
   },
   "24113190": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:33.688Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:37.371Z",
+    "reason": "no-agent-link"
   },
   "24113463": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:29.485Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:59.038Z",
+    "reason": "no-agent-link"
   },
   "24113466": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:36.542Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:04.909Z",
+    "reason": "no-agent-link"
   },
   "24115518": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:59.105Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:15:04.160Z",
+    "reason": "no-agent-link"
   },
   "24119316": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:43.319Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:07:11.413Z",
+    "reason": "no-agent-link"
   },
   "24128881": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:22.006Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:51.765Z",
+    "reason": "no-agent-link"
   },
   "24136855": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:47.909Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:52.250Z",
+    "reason": "no-agent-link"
   },
   "24148331": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:47.801Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:22.478Z",
+    "reason": "no-agent-link"
   },
   "24171434": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:59.490Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:04.865Z",
+    "reason": "no-agent-link"
   },
   "24182949": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:40.329Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:45.462Z",
+    "reason": "no-agent-link"
   },
   "24218736": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:47.861Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:16.919Z",
+    "reason": "no-agent-link"
   },
   "24247447": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:08.362Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:37.505Z",
+    "reason": "no-agent-link"
   },
   "24266924": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:06.728Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:36.458Z",
+    "reason": "no-agent-link"
   },
   "24270702": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:19.372Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:56.134Z",
+    "reason": "no-agent-link"
   },
   "24285204": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:54.103Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:24.708Z",
+    "reason": "no-agent-link"
   },
   "24287063": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:23:14.272Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:44.476Z",
+    "reason": "no-agent-link"
   },
   "24288015": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:13.526Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:43.064Z",
+    "reason": "no-agent-link"
   },
   "24289359": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:15.379Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:54:00.014Z",
+    "reason": "no-agent-link"
   },
   "24299064": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:41.220Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:06:09.284Z",
+    "reason": "no-agent-link"
   },
   "24300422": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:38.279Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:09.285Z",
+    "reason": "no-agent-link"
   },
   "24305295": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:26.369Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:32.427Z",
+    "reason": "no-agent-link"
   },
   "24306355": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:32.993Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:39.454Z",
+    "reason": "no-agent-link"
   },
   "24312541": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:19.420Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:48.729Z",
+    "reason": "no-agent-link"
   },
   "24321699": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:22.815Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:55.450Z",
+    "reason": "no-agent-link"
   },
   "24343746": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:22:27.066Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:54.379Z",
+    "reason": "no-agent-link"
   },
   "24350433": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:52.313Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:23.110Z",
+    "reason": "no-agent-link"
   },
   "24354176": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:19.675Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:25.575Z",
+    "reason": "no-agent-link"
   },
   "24368451": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:47:57.888Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:10.824Z",
+    "reason": "no-agent-link"
   },
   "24390724": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:51.053Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:22.298Z",
+    "reason": "no-agent-link"
   },
   "24392615": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:45.688Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:21.866Z",
+    "reason": "no-agent-link"
   },
   "24394417": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:12.657Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:18.932Z",
+    "reason": "no-agent-link"
   },
   "24420240": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:59.441Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:05:29.456Z",
+    "reason": "no-agent-link"
   },
   "24422938": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:21:04.018Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:35.851Z",
+    "reason": "no-agent-link"
   },
   "24422939": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:57.198Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:29.799Z",
+    "reason": "no-agent-link"
   },
   "24435152": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:36.832Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:04:08.411Z",
+    "reason": "no-agent-link"
   },
   "24438748": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:27.410Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:30.723Z",
+    "reason": "no-agent-link"
   },
   "24455507": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:01:06.074Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:41:11.657Z",
+    "reason": "no-agent-link"
   },
   "24472967": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:16.312Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:48.941Z",
+    "reason": "no-agent-link"
   },
   "24503460": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:29.742Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:41.734Z",
+    "reason": "no-agent-link"
   },
   "24523601": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:23.127Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:35.888Z",
+    "reason": "no-agent-link"
   },
   "24562593": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:13.491Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:48.969Z",
+    "reason": "no-agent-link"
   },
   "24579592": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:59.015Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:03.973Z",
+    "reason": "no-agent-link"
   },
   "24592037": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:47.631Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:30.849Z",
+    "reason": "no-agent-link"
   },
   "24592511": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:16.389Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:29.103Z",
+    "reason": "no-agent-link"
   },
   "24606427": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:01.173Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:35.519Z",
+    "reason": "no-agent-link"
   },
   "24629550": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:42:03.810Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:54.845Z",
+    "reason": "no-agent-link"
   },
   "24672057": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:07.169Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:41.899Z",
+    "reason": "no-agent-link"
   },
   "24693126": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:53.965Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:38.234Z",
+    "reason": "no-agent-link"
   },
   "24700498": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:06:00.460Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:34.457Z",
+    "reason": "no-agent-link"
   },
   "24735928": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:28:13.678Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:11:02.741Z",
+    "reason": "no-agent-link"
   },
   "24752721": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:52.825Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:28.605Z",
+    "reason": "no-agent-link"
   },
   "24761081": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:06.199Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:44.548Z",
+    "reason": "no-agent-link"
   },
   "24804171": {
     "agentSlug": "izabela-polcyn",
     "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-    "fetchedAt": "2026-05-27T08:43:53.028Z"
+    "fetchedAt": "2026-06-28T08:26:20.833Z"
   },
   "24819878": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:20:08.686Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:41.844Z",
+    "reason": "no-agent-link"
   },
   "24826387": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:10.282Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:45:48.185Z",
+    "reason": "no-agent-link"
   },
   "24826408": {
     "agentSlug": "alina-zybala-melosik",
     "agencyName": "Metrohouse Poznań",
-    "fetchedAt": "2026-05-27T09:12:39.910Z"
+    "fetchedAt": "2026-06-28T08:50:48.354Z"
   },
   "24826584": {
     "agentSlug": "alina-zybala-melosik",
     "agencyName": "Metrohouse Poznań",
-    "fetchedAt": "2026-05-27T09:11:10.744Z"
+    "fetchedAt": "2026-06-28T08:50:55.417Z"
   },
   "24826585": {
     "agentSlug": "alina-zybala-melosik",
     "agencyName": "Metrohouse Poznań",
-    "fetchedAt": "2026-05-27T09:10:30.016Z"
+    "fetchedAt": "2026-06-28T08:52:02.363Z"
   },
   "24826718": {
     "agentSlug": "alina-zybala-melosik",
     "agencyName": "Metrohouse Poznań",
-    "fetchedAt": "2026-05-27T09:12:19.604Z"
+    "fetchedAt": "2026-06-28T08:50:06.019Z"
   },
   "24838425": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:48:09.466Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:22.932Z",
+    "reason": "no-agent-link"
   },
   "24923835": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:53.628Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:28.349Z",
+    "reason": "no-agent-link"
   },
   "24948992": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:46.636Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:52.520Z",
+    "reason": "no-agent-link"
   },
   "25047391": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:14:57.674Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:34.563Z",
+    "reason": "no-agent-link"
   },
   "25081619": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:52.574Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:58.622Z",
+    "reason": "no-agent-link"
   },
   "25084054": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:58:30.755Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:38:50.960Z",
+    "reason": "no-agent-link"
   },
   "25094292": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:14.120Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:16.911Z",
+    "reason": "no-agent-link"
   },
   "25108668": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:45:20.614Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:26:07.811Z",
+    "reason": "no-agent-link"
   },
   "25115890": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:40.068Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:15.901Z",
+    "reason": "no-agent-link"
   },
   "25156676": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:32.576Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:09.678Z",
+    "reason": "no-agent-link"
   },
   "25166236": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:40.116Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:46.071Z",
+    "reason": "no-agent-link"
   },
   "25178367": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:47:51.500Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:29:03.398Z",
+    "reason": "no-agent-link"
   },
   "25197852": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:47:04.585Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:36.600Z",
+    "reason": "no-agent-link"
   },
   "25206658": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:32:06.204Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:14:10.943Z",
+    "reason": "no-agent-link"
   },
   "25218570": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:53.878Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:31.709Z",
+    "reason": "no-agent-link"
   },
   "25253385": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:26.347Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:03:02.866Z",
+    "reason": "no-agent-link"
   },
   "25264828": {
     "agentSlug": "renata-wegrzynowska",
     "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
-    "fetchedAt": "2026-05-27T08:27:52.523Z"
+    "fetchedAt": "2026-06-28T08:12:02.015Z"
   },
   "25265012": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:14:13.235Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:54:32.616Z",
+    "reason": "no-agent-link"
   },
   "25269006": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:30:12.498Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:12.369Z",
+    "reason": "no-agent-link"
   },
   "25273143": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:33.140Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:37.256Z",
+    "reason": "no-agent-link"
   },
   "25302854": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:08.642Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:12.490Z",
+    "reason": "no-agent-link"
   },
   "25316126": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:47:44.434Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:56.975Z",
+    "reason": "no-agent-link"
   },
   "25330384": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:10:15.842Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:29.708Z",
+    "reason": "no-agent-link"
   },
   "25340474": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:44:18.074Z"
+    "fetchedAt": "2026-06-28T08:27:14.677Z"
   },
   "25341665": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:39.348Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:18.719Z",
+    "reason": "no-agent-link"
   },
   "25341671": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:46.914Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:25.774Z",
+    "reason": "no-agent-link"
   },
   "25355656": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:17.118Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:45:54.617Z",
+    "reason": "no-agent-link"
   },
   "25358650": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:27.395Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:32.686Z",
+    "reason": "no-agent-link"
   },
   "25366449": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:58:24.782Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:38:58.201Z",
+    "reason": "no-agent-link"
   },
   "25371962": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:11.886Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:51.308Z",
+    "reason": "no-agent-link"
   },
   "25375352": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:21.411Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:25.122Z",
+    "reason": "no-agent-link"
   },
   "25377388": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:33.284Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:39.369Z",
+    "reason": "no-agent-link"
   },
   "25378106": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:10.798Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:49.832Z",
+    "reason": "no-agent-link"
   },
   "25388239": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:47:37.993Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:50.300Z",
+    "reason": "no-agent-link"
   },
   "25394608": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:01.765Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:45.472Z",
+    "reason": "no-agent-link"
   },
   "25394616": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:14:08.728Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:52.878Z",
+    "reason": "no-agent-link"
   },
   "25395636": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:28:52.637Z"
+    "fetchedAt": "2026-06-28T08:09:50.191Z"
   },
   "25405858": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:10:55.670Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:55:23.235Z",
+    "reason": "no-agent-link"
   },
   "25406373": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:18.678Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:57.001Z",
+    "reason": "no-agent-link"
   },
   "25409450": {
     "agentSlug": null,
@@ -2514,155 +2514,159 @@
   "25418793": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:04.296Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:44.053Z",
+    "reason": "no-agent-link"
   },
   "25423822": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:17.637Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:56.217Z",
+    "reason": "no-agent-link"
   },
   "25423823": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:50.711Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:30.109Z",
+    "reason": "no-agent-link"
   },
   "25425141": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:11.442Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:51.212Z",
+    "reason": "no-agent-link"
   },
   "25428179": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:35.269Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:38.575Z",
+    "reason": "no-agent-link"
   },
   "25432751": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:03.424Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:42.311Z",
+    "reason": "no-agent-link"
   },
   "25442088": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:15.739Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:55.739Z",
+    "reason": "no-agent-link"
   },
   "25447857": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:50.044Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:30.666Z",
+    "reason": "no-agent-link"
   },
   "25447858": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:14:25.219Z"
+    "fetchedAt": "2026-06-28T07:55:44.547Z"
   },
   "25447859": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:43.623Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:23.521Z",
+    "reason": "no-agent-link"
   },
   "25447860": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:12:44.851Z"
+    "fetchedAt": "2026-06-28T07:55:57.828Z"
   },
   "25447861": {
-    "agentSlug": "adam-kisiel",
-    "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:10:08.681Z"
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:08.699Z",
+    "reason": "no-agent-link"
   },
   "25449392": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:39.160Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:44.687Z",
+    "reason": "no-agent-link"
   },
   "25467912": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:15.295Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:19.371Z",
+    "reason": "no-agent-link"
   },
   "25468245": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:47:31.043Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:43.743Z",
+    "reason": "no-agent-link"
   },
   "25469494": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:44.557Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:23.254Z",
+    "reason": "no-agent-link"
   },
   "25484389": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:21.593Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:03.455Z",
+    "reason": "no-agent-link"
   },
   "25484390": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:30.688Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:08.950Z",
+    "reason": "no-agent-link"
   },
   "25484391": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:11.699Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:48.283Z",
+    "reason": "no-agent-link"
   },
   "25484392": {
-    "agentSlug": "adam-kisiel",
-    "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:11:22.682Z"
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:02.844Z",
+    "reason": "no-agent-link"
   },
   "25484393": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:14:51.179Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:27.545Z",
+    "reason": "no-agent-link"
   },
   "25484394": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:09.918Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:49.386Z",
+    "reason": "no-agent-link"
   },
   "25502908": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:19:00.289Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:38.470Z",
+    "reason": "no-agent-link"
   },
   "25511865": {
     "agentSlug": null,
@@ -2674,152 +2678,152 @@
   "25512609": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:14:06.305Z"
+    "fetchedAt": "2026-06-28T07:54:54.983Z"
   },
   "25512610": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:14:31.676Z"
+    "fetchedAt": "2026-06-28T07:57:10.729Z"
   },
   "25512611": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:17.686Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:55.068Z",
+    "reason": "no-agent-link"
   },
   "25512612": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:13:53.981Z"
+    "fetchedAt": "2026-06-28T07:54:19.564Z"
   },
   "25512613": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:10:48.885Z"
+    "fetchedAt": "2026-06-28T07:54:25.563Z"
   },
   "25514555": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:38.686Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:15.586Z",
+    "reason": "no-agent-link"
   },
   "25521090": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:41.355Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:45.912Z",
+    "reason": "no-agent-link"
   },
   "25534718": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:07.843Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:52:51.527Z",
+    "reason": "no-agent-link"
   },
   "25542051": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:14.314Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:52:57.404Z",
+    "reason": "no-agent-link"
   },
   "25550551": {
     "agentSlug": "agnieszka-krzywonos",
     "agencyName": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
-    "fetchedAt": "2026-05-27T09:08:36.300Z"
+    "fetchedAt": "2026-06-28T08:49:38.348Z"
   },
   "25561324": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:25.997Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:04.255Z",
+    "reason": "no-agent-link"
   },
   "25594767": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:27:10.020Z"
+    "fetchedAt": "2026-06-28T08:11:28.249Z"
   },
   "25599970": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:10:08.925Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:48.004Z",
+    "reason": "no-agent-link"
   },
   "25613513": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:09:56.446Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:49:46.009Z",
+    "reason": "no-agent-link"
   },
   "25622022": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:53.521Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:59.082Z",
+    "reason": "no-agent-link"
   },
   "25627883": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:31.940Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:09.137Z",
+    "reason": "no-agent-link"
   },
   "25636701": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:11:08.194Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:55:37.417Z",
+    "reason": "no-agent-link"
   },
   "25645253": {
     "agentSlug": "izabela-polcyn",
     "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-    "fetchedAt": "2026-05-27T08:45:13.540Z"
+    "fetchedAt": "2026-06-28T08:27:28.340Z"
   },
   "25647408": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:44:58.967Z"
+    "fetchedAt": "2026-06-28T08:26:41.791Z"
   },
   "25655958": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:44:11.756Z"
+    "fetchedAt": "2026-06-28T08:26:14.193Z"
   },
   "25658995": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:10:57.538Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:08.489Z",
+    "reason": "no-agent-link"
   },
   "25674056": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:09:08.154Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:49:20.366Z",
+    "reason": "no-agent-link"
   },
   "25675911": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:33.099Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:02:10.831Z",
+    "reason": "no-agent-link"
   },
   "25676351": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:11:57.361Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:50:12.798Z",
+    "reason": "no-agent-link"
   },
   "25683223": {
     "agentSlug": null,
@@ -2831,28 +2835,28 @@
   "25691068": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:09:21.772Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:59.703Z",
+    "reason": "no-agent-link"
   },
   "25703505": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:33.703Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:18.122Z",
+    "reason": "no-agent-link"
   },
   "25716858": {
     "agentSlug": "mikolaj-rozanski",
     "agencyName": "BON WINOGRADY",
-    "fetchedAt": "2026-05-27T09:08:48.676Z"
+    "fetchedAt": "2026-06-28T08:49:05.797Z"
   },
   "25718898": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:28:58.463Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:09:03.064Z",
+    "reason": "no-agent-link"
   },
   "25732861": {
     "agentSlug": null,
@@ -2864,23 +2868,23 @@
   "25733804": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:28:20.343Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:11:22.456Z",
+    "reason": "no-agent-link"
   },
   "25737259": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:44.814Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:24.914Z",
+    "reason": "no-agent-link"
   },
   "25760906": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:51.039Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:30.684Z",
+    "reason": "no-agent-link"
   },
   "25774086": {
     "agentSlug": null,
@@ -2892,49 +2896,49 @@
   "25776383": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:20.097Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:02.997Z",
+    "reason": "no-agent-link"
   },
   "25777600": {
     "agentSlug": "adam-kisiel",
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:10:01.889Z"
+    "fetchedAt": "2026-06-28T07:56:45.069Z"
   },
   "25780482": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:58.091Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:36.590Z",
+    "reason": "no-agent-link"
   },
   "25791468": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:27:59.231Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:10:12.343Z",
+    "reason": "no-agent-link"
   },
   "25796309": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:03.969Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:44.197Z",
+    "reason": "no-agent-link"
   },
   "25797432": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:45:41.107Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:26:48.430Z",
+    "reason": "no-agent-link"
   },
   "25802781": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:00:01.199Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:40:05.490Z",
+    "reason": "no-agent-link"
   },
   "25804062": {
     "agentSlug": "krystian-kedzia",
@@ -2944,16 +2948,16 @@
   "25818171": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:44:44.754Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:25:10.093Z",
+    "reason": "no-agent-link"
   },
   "25823527": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:10:15.994Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:56:30.955Z",
+    "reason": "no-agent-link"
   },
   "25837202": {
     "agentSlug": "krystian-kedzia",
@@ -2963,7 +2967,7 @@
   "25838528": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:26:44.385Z"
+    "fetchedAt": "2026-06-28T08:11:35.012Z"
   },
   "25859844": {
     "agentSlug": null,
@@ -2975,87 +2979,87 @@
   "25861231": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:45:34.777Z"
+    "fetchedAt": "2026-06-28T08:25:17.641Z"
   },
   "25871433": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:12:47.375Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:50:40.807Z",
+    "reason": "no-agent-link"
   },
   "25883457": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:18:18.864Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:58.233Z",
+    "reason": "no-agent-link"
   },
   "25886180": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:58:54.631Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:38:01.907Z",
+    "reason": "no-agent-link"
   },
   "25886199": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:47.041Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:52.996Z",
+    "reason": "no-agent-link"
   },
   "25906808": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:58:36.496Z"
+    "fetchedAt": "2026-06-28T08:37:46.711Z"
   },
   "25918264": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:05:24.713Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:46:01.703Z",
+    "reason": "no-agent-link"
   },
   "25932785": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T09:11:43.637Z"
+    "fetchedAt": "2026-06-28T08:50:26.751Z"
   },
   "25953207": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:37.162Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:16.145Z",
+    "reason": "no-agent-link"
   },
   "25960672": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:24.042Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:02.818Z",
+    "reason": "no-agent-link"
   },
   "25962275": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:41:50.196Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:24:41.882Z",
+    "reason": "no-agent-link"
   },
   "25964501": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:04:09.998Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:44:07.504Z",
+    "reason": "no-agent-link"
   },
   "25976371": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:29:05.287Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:11:42.110Z",
+    "reason": "no-agent-link"
   },
   "25985042": {
     "agentSlug": "agnieszka-mysiak",
@@ -3065,90 +3069,90 @@
   "25989217": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:43:59.795Z"
+    "fetchedAt": "2026-06-28T08:27:20.752Z"
   },
   "26013531": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T09:12:26.598Z"
+    "fetchedAt": "2026-06-28T08:52:09.928Z"
   },
   "26017021": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:12:11.777Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:15.541Z",
+    "reason": "no-agent-link"
   },
   "26024857": {
     "agentSlug": "piotr-kloska",
     "agencyName": "FREEDOM NIERUCHOMOŚCI",
-    "fetchedAt": "2026-05-27T08:42:31.159Z"
+    "fetchedAt": "2026-06-28T08:24:49.376Z"
   },
   "26024858": {
     "agentSlug": "piotr-kloska",
     "agencyName": "FREEDOM NIERUCHOMOŚCI",
-    "fetchedAt": "2026-05-27T08:41:57.788Z"
+    "fetchedAt": "2026-06-28T08:23:41.606Z"
   },
   "26036184": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:09:35.195Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:49:32.758Z",
+    "reason": "no-agent-link"
   },
   "26046717": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:17:30.412Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:01:08.574Z",
+    "reason": "no-agent-link"
   },
   "26054660": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:32.293Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:17.863Z",
+    "reason": "no-agent-link"
   },
   "26057187": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:50.659Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:29.196Z",
+    "reason": "no-agent-link"
   },
   "26072114": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:10:21.927Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:57:16.791Z",
+    "reason": "no-agent-link"
   },
   "26075085": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:45:47.135Z"
+    "fetchedAt": "2026-06-28T08:27:08.241Z"
   },
   "26083544": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:14.292Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:27:56.608Z",
+    "reason": "no-agent-link"
   },
   "26092159": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:57.703Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:37.401Z",
+    "reason": "no-agent-link"
   },
   "26102453": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:11:43.476Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:57:22.969Z",
+    "reason": "no-agent-link"
   },
   "26109866": {
     "agentSlug": null,
@@ -3160,7 +3164,7 @@
   "26116364": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:14:37.796Z"
+    "fetchedAt": "2026-06-28T07:57:43.790Z"
   },
   "26116417": {
     "agentSlug": null,
@@ -3172,7 +3176,7 @@
   "26116418": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:10:36.087Z"
+    "fetchedAt": "2026-06-28T07:54:40.551Z"
   },
   "26116438": {
     "agentSlug": "iwona-kulczynska",
@@ -3182,17 +3186,17 @@
   "26118551": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:26:50.621Z"
+    "fetchedAt": "2026-06-28T08:10:48.430Z"
   },
   "26118558": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:30:33.088Z"
+    "fetchedAt": "2026-06-28T08:12:51.168Z"
   },
   "26118566": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:29:31.705Z"
+    "fetchedAt": "2026-06-28T08:10:19.080Z"
   },
   "26120320": {
     "agentSlug": null,
@@ -3204,19 +3208,19 @@
   "26127161": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:45.630Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:50.945Z",
+    "reason": "no-agent-link"
   },
   "26139322": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:13:19.492Z"
+    "fetchedAt": "2026-06-28T07:55:51.928Z"
   },
   "26148847": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-26T13:48:02.566Z"
+    "fetchedAt": "2026-06-28T07:54:47.802Z"
   },
   "26149275": {
     "agentSlug": null,
@@ -3228,207 +3232,207 @@
   "26151793": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:20.439Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:04.829Z",
+    "reason": "no-agent-link"
   },
   "26151795": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:13:26.901Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:53:10.828Z",
+    "reason": "no-agent-link"
   },
   "26160364": {
     "agentSlug": "joanna-szewczak",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:58:42.405Z"
+    "fetchedAt": "2026-06-28T08:38:23.194Z"
   },
   "26170325": {
     "agentSlug": "piotr-kloska",
     "agencyName": "FREEDOM NIERUCHOMOŚCI",
-    "fetchedAt": "2026-05-27T08:29:18.692Z"
+    "fetchedAt": "2026-06-28T08:10:05.217Z"
   },
   "26184150": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:12:11.137Z"
+    "fetchedAt": "2026-06-28T07:56:56.857Z"
   },
   "26185219": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T09:04:35.562Z"
+    "fetchedAt": "2026-06-28T08:45:28.898Z"
   },
   "26195876": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:42.395Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:24.451Z",
+    "reason": "no-agent-link"
   },
   "26206146": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:58:10.572Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:38:29.875Z",
+    "reason": "no-agent-link"
   },
   "26209090": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:12:38.719Z"
+    "fetchedAt": "2026-06-28T07:56:05.174Z"
   },
   "26209936": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:10:43.375Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:22.038Z",
+    "reason": "no-agent-link"
   },
   "26211766": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:13:40.331Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:56:24.809Z",
+    "reason": "no-agent-link"
   },
   "26213819": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:56.955Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:35.007Z",
+    "reason": "no-agent-link"
   },
   "26214146": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:12:33.180Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:54.747Z",
+    "reason": "no-agent-link"
   },
   "26219823": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:30:19.614Z"
+    "fetchedAt": "2026-06-28T08:12:29.879Z"
   },
   "26227460": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:12:04.670Z"
+    "fetchedAt": "2026-06-28T07:57:03.780Z"
   },
   "26242237": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:42:17.148Z"
+    "fetchedAt": "2026-06-28T08:25:02.622Z"
   },
   "26247033": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:05.651Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:24.952Z",
+    "reason": "no-agent-link"
   },
   "26264188": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:28.431Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:31.498Z",
+    "reason": "no-agent-link"
   },
   "26264606": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:45:28.291Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:26:34.905Z",
+    "reason": "no-agent-link"
   },
   "26274125": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:22.246Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:25.379Z",
+    "reason": "no-agent-link"
   },
   "26274624": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:26.352Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:28:10.576Z",
+    "reason": "no-agent-link"
   },
   "26277855": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T09:11:51.074Z"
+    "fetchedAt": "2026-06-28T08:51:35.827Z"
   },
   "26279185": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:05.126Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:41.158Z",
+    "reason": "no-agent-link"
   },
   "26294535": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:57:29.015Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:38:16.570Z",
+    "reason": "no-agent-link"
   },
   "26294734": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:04:04.045Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:44:20.854Z",
+    "reason": "no-agent-link"
   },
   "26322740": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T08:31:25.519Z"
+    "fetchedAt": "2026-06-28T08:12:37.340Z"
   },
   "26326051": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:10:37.586Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:41.773Z",
+    "reason": "no-agent-link"
   },
   "26348709": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:57:36.767Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:38:09.453Z",
+    "reason": "no-agent-link"
   },
   "26368795": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T08:27:16.588Z"
+    "fetchedAt": "2026-06-28T08:10:40.951Z"
   },
   "26385807": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:42:37.399Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:23:47.741Z",
+    "reason": "no-agent-link"
   },
   "26389961": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:42:56.938Z"
+    "fetchedAt": "2026-06-28T08:24:09.039Z"
   },
   "26395072": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:42:44.086Z"
+    "fetchedAt": "2026-06-28T08:24:02.178Z"
   },
   "26398218": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:00.931Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:27:42.929Z",
+    "reason": "no-agent-link"
   },
   "26398926": {
     "agentSlug": "joanna-szewczak",
@@ -3438,33 +3442,33 @@
   "26399541": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:13:33.374Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:56:11.613Z",
+    "reason": "no-agent-link"
   },
   "26401566": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:28:26.589Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:09:43.028Z",
+    "reason": "no-agent-link"
   },
   "26403057": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:41:44.000Z"
+    "fetchedAt": "2026-06-28T08:24:35.185Z"
   },
   "26406012": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:36.616Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:17.524Z",
+    "reason": "no-agent-link"
   },
   "26409748": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:13:25.870Z"
+    "fetchedAt": "2026-06-28T07:55:16.016Z"
   },
   "26413263": {
     "agentSlug": "marta-janusz",
@@ -3474,61 +3478,61 @@
   "26416593": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:04:48.638Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:45:19.242Z",
+    "reason": "no-agent-link"
   },
   "26424127": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:27:23.375Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:11:55.935Z",
+    "reason": "no-agent-link"
   },
   "26424372": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:16:29.266Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:00:10.198Z",
+    "reason": "no-agent-link"
   },
   "26428527": {
     "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T09:12:53.540Z"
+    "fetchedAt": "2026-06-28T08:50:19.883Z"
   },
   "26429812": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:44:37.831Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:26:27.314Z",
+    "reason": "no-agent-link"
   },
   "26431657": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:43:04.019Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:24:22.235Z",
+    "reason": "no-agent-link"
   },
   "26432049": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:43:31.477Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:25:38.318Z",
+    "reason": "no-agent-link"
   },
   "26432116": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:09:48.923Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:48:54.012Z",
+    "reason": "no-agent-link"
   },
   "26437467": {
-    "agentSlug": "magdalena-kogut",
+    "agentSlug": "kinga-zaranek",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T08:09:48.939Z"
+    "fetchedAt": "2026-06-28T07:55:08.441Z"
   },
   "26437718": {
     "agentSlug": null,
@@ -3540,24 +3544,24 @@
   "26443541": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:11:02.060Z"
+    "fetchedAt": "2026-06-28T07:56:37.621Z"
   },
   "26446237": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:46:07.724Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:27:50.634Z",
+    "reason": "no-agent-link"
   },
   "26457410": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:44:51.347Z"
+    "fetchedAt": "2026-06-28T08:27:00.612Z"
   },
   "26463811": {
     "agentSlug": "marta-walinska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:44:31.437Z"
+    "fetchedAt": "2026-06-28T08:25:52.988Z"
   },
   "26478068": {
     "agentSlug": "joanna-szewczak",
@@ -3567,9 +3571,9 @@
   "26482199": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:11:36.114Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:51:01.968Z",
+    "reason": "no-agent-link"
   },
   "26483177": {
     "agentSlug": "joanna-szewczak",
@@ -3579,7 +3583,7 @@
   "26493578": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:26:37.093Z"
+    "fetchedAt": "2026-06-28T08:11:16.229Z"
   },
   "26495692": {
     "agentSlug": "marta-janusz",
@@ -3594,21 +3598,21 @@
   "26503755": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:23.728Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:01.433Z",
+    "reason": "no-agent-link"
   },
   "26504098": {
     "agentSlug": "izabela-polcyn",
     "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-    "fetchedAt": "2026-05-27T08:11:37.096Z"
+    "fetchedAt": "2026-06-28T07:56:50.678Z"
   },
   "26505310": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:29:52.330Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:12:14.908Z",
+    "reason": "no-agent-link"
   },
   "26508031": {
     "agentSlug": "renata-wegrzynowska",
@@ -3618,40 +3622,40 @@
   "26509355": {
     "agentSlug": "joanna-szewczak",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:58:48.553Z"
+    "fetchedAt": "2026-06-28T08:38:36.473Z"
   },
   "26516742": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:15:38.218Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:59:16.289Z",
+    "reason": "no-agent-link"
   },
   "26527103": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:30:27.135Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:18.676Z",
+    "reason": "no-agent-link"
   },
   "26527974": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:14:43.929Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:20.478Z",
+    "reason": "no-agent-link"
   },
   "26531486": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:14:00.322Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:57:49.803Z",
+    "reason": "no-agent-link"
   },
   "26546473": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:44:05.805Z"
+    "fetchedAt": "2026-06-28T08:26:00.083Z"
   },
   "26548703": {
     "agentSlug": "agnieszka-krzywonos",
@@ -3666,93 +3670,95 @@
   "26553824": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:28:46.380Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:31.254Z",
+    "reason": "no-agent-link"
   },
   "26561887": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:18.869Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:13:04.851Z",
+    "reason": "no-agent-link"
   },
   "26562971": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:43:16.751Z"
+    "fetchedAt": "2026-06-28T08:26:54.288Z"
   },
   "26562972": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:43:10.648Z"
+    "fetchedAt": "2026-06-28T08:25:45.911Z"
   },
   "26562977": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:04:23.304Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:44:31.098Z",
+    "reason": "no-agent-link"
   },
   "26567895": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:29:44.842Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:09:28.838Z",
+    "reason": "no-agent-link"
   },
   "26570857": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:42:51.024Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:24:55.420Z",
+    "reason": "no-agent-link"
   },
   "26572069": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:28:39.471Z"
+    "fetchedAt": "2026-06-28T08:09:57.779Z"
   },
   "26572124": {
     "agentSlug": "marek-czechowski",
     "agencyName": "Park Home Sp. Z o.o.",
-    "fetchedAt": "2026-05-27T08:27:37.402Z"
+    "fetchedAt": "2026-06-28T08:09:36.002Z"
   },
   "26578519": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-26T13:47:57.176Z"
+    "fetchedAt": "2026-06-28T07:55:29.944Z"
   },
   "26578838": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:09:41.707Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:49:12.661Z",
+    "reason": "no-agent-link"
   },
   "26582042": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:11:29.459Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:52:38.439Z",
+    "reason": "no-agent-link"
   },
   "26582107": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:11:16.880Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:52:32.412Z",
+    "reason": "no-agent-link"
   },
   "26589851": {
     "agentSlug": "piotr-kloska",
     "agencyName": "FREEDOM NIERUCHOMOŚCI",
-    "fetchedAt": "2026-05-27T08:12:24.515Z"
+    "fetchedAt": "2026-06-28T07:54:11.972Z"
   },
   "26610140": {
-    "agentSlug": "maciej-gonigroszek",
-    "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
-    "fetchedAt": "2026-05-27T09:05:02.585Z"
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:45:39.281Z",
+    "reason": "no-agent-link"
   },
   "26612725": {
     "agentSlug": "iwona-kulczynska",
@@ -3762,131 +3768,131 @@
   "26614251": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:30:45.735Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:12:44.731Z",
+    "reason": "no-agent-link"
   },
   "26621134": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:12:50.565Z"
+    "fetchedAt": "2026-06-28T07:56:18.766Z"
   },
   "26623422": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:26:22.835Z"
+    "fetchedAt": "2026-06-28T08:11:49.617Z"
   },
   "26623725": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:08.249Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:11.320Z",
+    "reason": "no-agent-link"
   },
   "26624314": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:15.115Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:18.004Z",
+    "reason": "no-agent-link"
   },
   "26625379": {
     "agentSlug": "iwona-kulczynska",
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:42:23.709Z"
+    "fetchedAt": "2026-06-28T08:24:16.048Z"
   },
   "26629865": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:12:56.653Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:58:14.310Z",
+    "reason": "no-agent-link"
   },
   "26636035": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:29:24.784Z"
+    "fetchedAt": "2026-06-28T08:10:33.912Z"
   },
   "26636913": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:04:29.701Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:44:41.625Z",
+    "reason": "no-agent-link"
   },
   "26643007": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T09:09:14.780Z"
+    "fetchedAt": "2026-06-28T08:49:51.917Z"
   },
   "26643943": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:56:55.354Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:54.252Z",
+    "reason": "no-agent-link"
   },
   "26648304": {
-    "agentSlug": null,
-    "agencyName": null,
-    "fetchedAt": "2026-05-27T09:12:04.730Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "agentSlug": "maciej-dunajski",
+    "agencyName": "VanDer Haus Nieruchomości",
+    "fetchedAt": "2026-06-28T08:52:24.790Z"
   },
   "26656666": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:26:57.038Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:09:22.264Z",
+    "reason": "no-agent-link"
   },
   "26659770": {
-    "agentSlug": "magdalena-kogut",
+    "agentSlug": "krystian-kedzia",
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T08:57:08.479Z"
+    "fetchedAt": "2026-06-28T08:38:43.717Z"
   },
   "26662646": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T09:08:22.117Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:52:44.463Z",
+    "reason": "no-agent-link"
   },
   "26663381": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:31:11.993Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:12:22.301Z",
+    "reason": "no-agent-link"
   },
   "26666890": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:59:02.299Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:39:05.288Z",
+    "reason": "no-agent-link"
   },
   "26668919": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:13:47.574Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:57:37.473Z",
+    "reason": "no-agent-link"
   },
   "26669967": {
-    "agentSlug": "agnieszka-mysiak",
-    "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:11:58.234Z"
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:57:56.984Z",
+    "reason": "no-agent-link"
   },
   "26675608": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:30:39.551Z"
+    "fetchedAt": "2026-06-28T08:12:57.572Z"
   },
   "26676195": {
     "agentSlug": "joanna-gruszka",
     "agencyName": "Choiński Kroll Nieruchomości",
-    "fetchedAt": "2026-05-27T08:26:09.239Z"
+    "fetchedAt": "2026-06-28T08:10:26.304Z"
   },
   "26678935": {
     "agentSlug": null,
@@ -3903,14 +3909,14 @@
   "26679963": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:29:58.352Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:12:08.931Z",
+    "reason": "no-agent-link"
   },
   "26682835": {
     "agentSlug": "izabela-polcyn",
     "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-    "fetchedAt": "2026-05-27T08:43:38.910Z"
+    "fetchedAt": "2026-06-28T08:25:25.127Z"
   },
   "26690737": {
     "agentSlug": null,
@@ -3934,9 +3940,9 @@
   "26691762": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:27:03.705Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:09:15.473Z",
+    "reason": "no-agent-link"
   },
   "26693848": {
     "agentSlug": "marta-janusz",
@@ -3946,21 +3952,21 @@
   "26698151": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:26:30.366Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:11:09.081Z",
+    "reason": "no-agent-link"
   },
   "26701967": {
     "agentSlug": "marta-janusz",
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-26T13:48:08.224Z"
+    "fetchedAt": "2026-06-28T07:57:30.639Z"
   },
   "26706612": {
     "agentSlug": null,
     "agencyName": null,
-    "fetchedAt": "2026-05-27T08:26:16.239Z",
-    "reason": "no-agent-link",
-    "isPrivate": true
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:09:08.697Z",
+    "reason": "no-agent-link"
   },
   "26713758": {
     "agentSlug": null,
@@ -4138,6 +4144,48 @@
     "agencyName": null,
     "isPrivate": true,
     "fetchedAt": "2026-06-21T08:22:16.193Z",
+    "reason": "no-agent-link"
+  },
+  "26770323": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:25:32.409Z",
+    "reason": "no-agent-link"
+  },
+  "26778543": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:25.653Z",
+    "reason": "no-agent-link"
+  },
+  "26781094": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T07:54:06.010Z",
+    "reason": "no-agent-link"
+  },
+  "26783494": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:39.694Z",
+    "reason": "no-agent-link"
+  },
+  "26784500": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:37:32.213Z",
+    "reason": "no-agent-link"
+  },
+  "26784675": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-06-28T08:49:58.302Z",
     "reason": "no-agent-link"
   }
 }
