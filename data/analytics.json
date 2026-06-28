@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T08:56:22.019Z",
+  "generatedAt": "2026-06-28T09:40:44.248Z",
   "kpi": {
     "date": "2026-06-28",
     "totalOffers": 68,
@@ -202,13 +202,13 @@
         "byCategory": {
           "MIESZKANIE": 73,
           "INWESTYCJA": 1,
-          "DOM": 45,
-          "DZIAŁKA": 81
+          "DOM": 44,
+          "DZIAŁKA": 82
         },
-        "medianPrice": 299000,
-        "avgPrice": 552988,
+        "medianPrice": 295000,
+        "avgPrice": 551250,
         "medianPricePerM2": 3864,
-        "avgDaysOnMarket": 157,
+        "avgDaysOnMarket": 158,
         "medianDaysOnMarket": 56,
         "topCities": [
           {
@@ -217,11 +217,11 @@
           },
           {
             "city": "ROGOŹNO",
-            "count": 56
+            "count": 57
           },
           {
             "city": "NIENAWISZCZ",
-            "count": 10
+            "count": 9
           },
           {
             "city": "JARACZ",
@@ -238,27 +238,27 @@
         "key": "2026-06-11",
         "start": "2026-05-29",
         "end": "2026-06-11",
-        "total": 195,
-        "sale": 195,
+        "total": 197,
+        "sale": 197,
         "byCategory": {
           "MIESZKANIE": 65,
           "INWESTYCJA": 1,
           "DOM": 49,
-          "DZIAŁKA": 80
+          "DZIAŁKA": 82
         },
-        "medianPrice": 285500,
-        "avgPrice": 567763,
-        "medianPricePerM2": 3158,
-        "avgDaysOnMarket": 153,
-        "medianDaysOnMarket": 56,
+        "medianPrice": 282500,
+        "avgPrice": 562786,
+        "medianPricePerM2": 2875,
+        "avgDaysOnMarket": 155,
+        "medianDaysOnMarket": 57,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 83
+            "count": 84
           },
           {
             "city": "ROGOŹNO",
-            "count": 56
+            "count": 57
           },
           {
             "city": "JARACZ",
@@ -279,27 +279,27 @@
         "key": "2026-06-25",
         "start": "2026-06-12",
         "end": "2026-06-25",
-        "total": 169,
-        "sale": 169,
+        "total": 171,
+        "sale": 171,
         "byCategory": {
           "MIESZKANIE": 54,
           "INWESTYCJA": 1,
           "DOM": 47,
-          "DZIAŁKA": 67
+          "DZIAŁKA": 69
         },
-        "medianPrice": 334721,
-        "avgPrice": 691912,
-        "medianPricePerM2": 3820,
-        "avgDaysOnMarket": 149,
-        "medianDaysOnMarket": 52,
+        "medianPrice": 327221,
+        "avgPrice": 684713,
+        "medianPricePerM2": 3657,
+        "avgDaysOnMarket": 151,
+        "medianDaysOnMarket": 53,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 75
+            "count": 76
           },
           {
             "city": "ROGOŹNO",
-            "count": 45
+            "count": 46
           },
           {
             "city": "JARACZ",
@@ -320,50 +320,50 @@
         "key": "2026-07-09",
         "start": "2026-06-26",
         "end": "2026-07-09",
-        "total": 637,
-        "sale": 637,
+        "total": 652,
+        "sale": 652,
         "byCategory": {
-          "MIESZKANIE": 202,
+          "MIESZKANIE": 207,
           "INWESTYCJA": 1,
-          "DOM": 189,
-          "DZIAŁKA": 245
+          "DOM": 193,
+          "DZIAŁKA": 251
         },
         "medianPrice": 320000,
-        "avgPrice": 586471,
-        "medianPricePerM2": 2424,
-        "avgDaysOnMarket": 46,
+        "avgPrice": 580807,
+        "medianPricePerM2": 2403,
+        "avgDaysOnMarket": 51,
         "medianDaysOnMarket": 11,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 375
+            "count": 384
           },
           {
             "city": "ROGOŹNO",
-            "count": 160
+            "count": 165
           },
           {
             "city": "JARACZ",
-            "count": 11
+            "count": 10
+          },
+          {
+            "city": "NIENAWISZCZ",
+            "count": 9
           },
           {
             "city": "GARBATKA",
             "count": 8
-          },
-          {
-            "city": "NIENAWISZCZ",
-            "count": 7
           }
         ],
         "beforeTracking": false
       }
     ],
-    "totalOffers": 1041
+    "totalOffers": 1042
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 637,
+      "totalCompetitorOffers": 652,
       "comparison": [
         {
           "category": "MIESZKANIE",
@@ -381,37 +381,37 @@
           "category": "DOM",
           "city": "ROGOŹNO",
           "ourCount": 6,
-          "competitorCount": 42,
+          "competitorCount": 41,
           "ourMedianPrice": 480000,
           "competitorMedianPrice": 480000,
           "priceDiffPct": 0,
           "ourMedianPricePerM2": 3185,
-          "competitorMedianPricePerM2": 3768,
-          "pricePerM2DiffPct": -15.5
+          "competitorMedianPricePerM2": 3832,
+          "pricePerM2DiffPct": -16.9
         },
         {
           "category": "DOM",
           "city": "WĄGROWIEC",
           "ourCount": 6,
-          "competitorCount": 122,
+          "competitorCount": 126,
           "ourMedianPrice": 844500,
-          "competitorMedianPrice": 485000,
-          "priceDiffPct": 74.1,
+          "competitorMedianPrice": 497500,
+          "priceDiffPct": 69.7,
           "ourMedianPricePerM2": 4927,
-          "competitorMedianPricePerM2": 2747,
-          "pricePerM2DiffPct": 79.4
+          "competitorMedianPricePerM2": 2752,
+          "pricePerM2DiffPct": 79
         },
         {
           "category": "MIESZKANIE",
           "city": "ROGOŹNO",
           "ourCount": 3,
-          "competitorCount": 64,
+          "competitorCount": 69,
           "ourMedianPrice": 320000,
           "competitorMedianPrice": 299000,
           "priceDiffPct": 7,
           "ourMedianPricePerM2": 5354,
-          "competitorMedianPricePerM2": 4975,
-          "pricePerM2DiffPct": 7.6
+          "competitorMedianPricePerM2": 5000,
+          "pricePerM2DiffPct": 7.1
         },
         {
           "category": "DZIAŁKA",
@@ -453,13 +453,13 @@
           "category": "DZIAŁKA",
           "city": "WĄGROWIEC",
           "ourCount": 2,
-          "competitorCount": 106,
+          "competitorCount": 111,
           "ourMedianPrice": 163500,
-          "competitorMedianPrice": 248460,
-          "priceDiffPct": -34.2,
+          "competitorMedianPrice": 240000,
+          "priceDiffPct": -31.9,
           "ourMedianPricePerM2": 246,
-          "competitorMedianPricePerM2": 93,
-          "pricePerM2DiffPct": 164.5
+          "competitorMedianPricePerM2": 95,
+          "pricePerM2DiffPct": 158.9
         },
         {
           "category": "DOM",
@@ -477,25 +477,25 @@
           "category": "DOM",
           "city": "NIENAWISZCZ",
           "ourCount": 1,
-          "competitorCount": 1,
+          "competitorCount": 3,
           "ourMedianPrice": 269000,
-          "competitorMedianPrice": 479000,
-          "priceDiffPct": -43.8,
+          "competitorMedianPrice": 449000,
+          "priceDiffPct": -40.1,
           "ourMedianPricePerM2": 4483,
-          "competitorMedianPricePerM2": 7603,
-          "pricePerM2DiffPct": -41
+          "competitorMedianPricePerM2": 1548,
+          "pricePerM2DiffPct": 189.6
         },
         {
           "category": "DZIAŁKA",
           "city": "ROGOŹNO",
           "ourCount": 1,
-          "competitorCount": 39,
+          "competitorCount": 40,
           "ourMedianPrice": 142920,
-          "competitorMedianPrice": 142920,
-          "priceDiffPct": 0,
+          "competitorMedianPrice": 135583,
+          "priceDiffPct": 5.4,
           "ourMedianPricePerM2": 120,
-          "competitorMedianPricePerM2": 72,
-          "pricePerM2DiffPct": 66.7
+          "competitorMedianPricePerM2": 76,
+          "pricePerM2DiffPct": 57.9
         },
         {
           "category": "DZIAŁKA",
@@ -608,46 +608,30 @@
       ]
     },
     "sourceCounts": {
-      "nieruchomosci-online+otodom": 63,
-      "nieruchomosci-online+olx+otodom": 7,
-      "olx+otodom": 8,
-      "otodom": 76,
-      "olx": 12,
+      "nieruchomosci-online+otodom": 62,
+      "nieruchomosci-online+olx+otodom": 8,
+      "olx+otodom": 14,
+      "otodom": 70,
+      "olx": 27,
       "nieruchomosci-online": 471
     }
   },
   "competitorAgents": {
-    "total": 637,
-    "private": 437,
-    "unknown": 19,
-    "knownAgent": 181,
+    "total": 652,
+    "private": 58,
+    "unknown": 477,
+    "knownAgent": 117,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 33,
-        "totalValue": 20630560,
-        "isOurs": true,
-        "variants": [
-          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "DAN - DOM Danuta Majchrzak"
-        ]
-      },
-      {
-        "name": "Nieruchomości Tectum",
-        "count": 24,
-        "totalValue": 11658101,
-        "isOurs": false
+        "count": 23,
+        "totalValue": 14171000,
+        "isOurs": true
       },
       {
         "name": "SOHO Nieruchomości Katarzyna Wajnert",
         "count": 11,
         "totalValue": 3562400,
-        "isOurs": false
-      },
-      {
-        "name": "Nieruchomości - FURMAN",
-        "count": 11,
-        "totalValue": 4712900,
         "isOurs": false
       },
       {
@@ -657,15 +641,15 @@
         "isOurs": false
       },
       {
-        "name": "FWK Nieruchomości",
-        "count": 9,
-        "totalValue": 3927325,
-        "isOurs": false
-      },
-      {
         "name": "Phinance S.A.",
         "count": 8,
         "totalValue": 2517604,
+        "isOurs": false
+      },
+      {
+        "name": "Nieruchomości Tectum",
+        "count": 6,
+        "totalValue": 1613720,
         "isOurs": false
       },
       {
@@ -678,12 +662,6 @@
         "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
         "count": 5,
         "totalValue": 9919000,
-        "isOurs": false
-      },
-      {
-        "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-        "count": 5,
-        "totalValue": 1020300,
         "isOurs": false
       },
       {
@@ -702,18 +680,6 @@
         "name": "Nieruchomości Apartament Piła",
         "count": 4,
         "totalValue": 3444330,
-        "isOurs": false
-      },
-      {
-        "name": "FREEDOM NIERUCHOMOŚCI",
-        "count": 4,
-        "totalValue": 2099130,
-        "isOurs": false
-      },
-      {
-        "name": "Metrohouse Poznań",
-        "count": 4,
-        "totalValue": 8040810,
         "isOurs": false
       },
       {
@@ -876,24 +842,6 @@
         "name": "Handom Nieruchomości",
         "count": 1,
         "totalValue": 117900,
-        "isOurs": false
-      },
-      {
-        "name": "Phinance Nieruchomości",
-        "count": 1,
-        "totalValue": 300354,
-        "isOurs": false
-      },
-      {
-        "name": "BON WINOGRADY",
-        "count": 1,
-        "totalValue": 225000,
-        "isOurs": false
-      },
-      {
-        "name": "VanDer Haus Nieruchomości",
-        "count": 1,
-        "totalValue": 165000,
         "isOurs": false
       }
     ]
@@ -3446,28 +3394,18 @@
     },
     {
       "date": "2026-06-28",
-      "total": 637,
-      "private": 437,
-      "unknown": 19,
-      "knownAgent": 181,
+      "total": 652,
+      "private": 58,
+      "unknown": 477,
+      "knownAgent": 117,
       "topAgencies": [
         {
           "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "count": 33,
+          "count": 23,
           "isOurs": true
         },
         {
-          "name": "Nieruchomości Tectum",
-          "count": 24,
-          "isOurs": false
-        },
-        {
           "name": "SOHO Nieruchomości Katarzyna Wajnert",
-          "count": 11,
-          "isOurs": false
-        },
-        {
-          "name": "Nieruchomości - FURMAN",
           "count": 11,
           "isOurs": false
         },
@@ -3477,13 +3415,13 @@
           "isOurs": false
         },
         {
-          "name": "FWK Nieruchomości",
-          "count": 9,
+          "name": "Phinance S.A.",
+          "count": 8,
           "isOurs": false
         },
         {
-          "name": "Phinance S.A.",
-          "count": 8,
+          "name": "Nieruchomości Tectum",
+          "count": 6,
           "isOurs": false
         },
         {
@@ -3497,8 +3435,18 @@
           "isOurs": false
         },
         {
-          "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-          "count": 5,
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 4,
+          "isOurs": false
+        },
+        {
+          "name": "Dominum Sp. z o.o.",
+          "count": 4,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 4,
           "isOurs": false
         }
       ]
