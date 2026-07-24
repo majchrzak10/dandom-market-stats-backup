@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T09:06:05.367Z",
+  "generatedAt": "2026-07-24T09:02:16.252Z",
   "kpi": {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "totalOffers": 75,
     "sale": 72,
     "rent": 3,
@@ -228,6 +228,48 @@
           }
         ],
         "beforeTracking": false
+      },
+      {
+        "key": "2026-08-06",
+        "start": "2026-07-24",
+        "end": "2026-08-06",
+        "total": 76,
+        "sale": 73,
+        "byCategory": {
+          "DZIAŁKA": 26,
+          "DOM": 25,
+          "MIESZKANIE": 22,
+          "OBIEKT": 1,
+          "LOKAL": 2
+        },
+        "medianPrice": 328440,
+        "avgPrice": 490380,
+        "medianPricePerM2": 3937,
+        "avgDaysOnMarket": 192,
+        "medianDaysOnMarket": 85,
+        "topCities": [
+          {
+            "city": "WĄGROWIEC",
+            "count": 18
+          },
+          {
+            "city": "ROGOŹNO",
+            "count": 14
+          },
+          {
+            "city": "GARBATKA",
+            "count": 3
+          },
+          {
+            "city": "ŁAZISKA",
+            "count": 3
+          },
+          {
+            "city": "RUNOWO",
+            "count": 2
+          }
+        ],
+        "beforeTracking": false
       }
     ]
   },
@@ -403,31 +445,72 @@
         "key": "2026-07-23",
         "start": "2026-07-10",
         "end": "2026-07-23",
+        "total": 186,
+        "sale": 186,
+        "byCategory": {
+          "MIESZKANIE": 66,
+          "INWESTYCJA": 1,
+          "DOM": 43,
+          "DZIAŁKA": 76
+        },
+        "medianPrice": 307230,
+        "avgPrice": 670752,
+        "medianPricePerM2": 3531,
+        "avgDaysOnMarket": 149,
+        "medianDaysOnMarket": 62,
+        "topCities": [
+          {
+            "city": "WĄGROWIEC",
+            "count": 89
+          },
+          {
+            "city": "ROGOŹNO",
+            "count": 46
+          },
+          {
+            "city": "NIENAWISZCZ",
+            "count": 9
+          },
+          {
+            "city": "JARACZ",
+            "count": 8
+          },
+          {
+            "city": "BOGUNIEWO",
+            "count": 5
+          }
+        ],
+        "beforeTracking": false
+      },
+      {
+        "key": "2026-08-06",
+        "start": "2026-07-24",
+        "end": "2026-08-06",
         "total": 674,
         "sale": 674,
         "byCategory": {
           "MIESZKANIE": 218,
           "INWESTYCJA": 1,
-          "DOM": 195,
-          "DZIAŁKA": 260
+          "DOM": 196,
+          "DZIAŁKA": 259
         },
-        "medianPrice": 315000,
-        "avgPrice": 575812,
-        "medianPricePerM2": 2434,
-        "avgDaysOnMarket": 41,
-        "medianDaysOnMarket": 0,
+        "medianPrice": 317000,
+        "avgPrice": 576564,
+        "medianPricePerM2": 2491,
+        "avgDaysOnMarket": 54,
+        "medianDaysOnMarket": 13,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 398
+            "count": 397
           },
           {
             "city": "ROGOŹNO",
-            "count": 165
+            "count": 167
           },
           {
             "city": "NIENAWISZCZ",
-            "count": 10
+            "count": 9
           },
           {
             "city": "JARACZ",
@@ -441,7 +524,7 @@
         "beforeTracking": false
       }
     ],
-    "totalOffers": 1139
+    "totalOffers": 1143
   },
   "benchmark": {
     "competitor": {
@@ -488,13 +571,13 @@
           "category": "DOM",
           "city": "ROGOŹNO",
           "ourCount": 5,
-          "competitorCount": 38,
+          "competitorCount": 40,
           "ourMedianPrice": 480000,
-          "competitorMedianPrice": 489500,
-          "priceDiffPct": -1.9,
+          "competitorMedianPrice": 503000,
+          "priceDiffPct": -4.6,
           "ourMedianPricePerM2": 3545,
-          "competitorMedianPricePerM2": 3426,
-          "pricePerM2DiffPct": 3.5
+          "competitorMedianPricePerM2": 3545,
+          "pricePerM2DiffPct": 0
         },
         {
           "category": "DZIAŁKA",
@@ -548,7 +631,7 @@
           "category": "DOM",
           "city": "NIENAWISZCZ",
           "ourCount": 1,
-          "competitorCount": 2,
+          "competitorCount": 1,
           "ourMedianPrice": 269000,
           "competitorMedianPrice": 449000,
           "priceDiffPct": -40.1,
@@ -667,25 +750,25 @@
       ]
     },
     "sourceCounts": {
-      "otodom": 68,
+      "otodom": 69,
       "nieruchomosci-online+otodom": 67,
       "olx+otodom": 7,
       "nieruchomosci-online+olx+otodom": 7,
-      "olx": 43,
+      "olx": 42,
       "nieruchomosci-online+olx": 3,
       "nieruchomosci-online": 479
     }
   },
   "competitorAgents": {
     "total": 674,
-    "private": 64,
+    "private": 62,
     "unknown": 487,
-    "knownAgent": 123,
+    "knownAgent": 125,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 29,
-        "totalValue": 15605000,
+        "count": 31,
+        "totalValue": 17385000,
         "isOurs": true
       },
       {
@@ -4991,6 +5074,65 @@
           "isOurs": false
         }
       ]
+    },
+    {
+      "date": "2026-07-24",
+      "total": 674,
+      "private": 62,
+      "unknown": 487,
+      "knownAgent": 125,
+      "topAgencies": [
+        {
+          "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "count": 31,
+          "isOurs": true
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 11,
+          "isOurs": false
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 11,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 6,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 6,
+          "isOurs": false
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Renoma",
+          "count": 4,
+          "isOurs": false
+        },
+        {
+          "name": "Senger&Partners Nieruchomosci",
+          "count": 4,
+          "isOurs": false
+        }
+      ]
     }
   ],
   "timeSeries": [
@@ -5406,6 +5548,12 @@
       "date": "2026-07-23",
       "total": 75,
       "added": 2,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-24",
+      "total": 75,
+      "added": 0,
       "removed": 0
     }
   ],
@@ -5955,7 +6103,7 @@
       "listedAt": "2021-10-29",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 1728,
+      "daysOnMarket": 1729,
       "dataSource": "asari"
     },
     {
@@ -5967,7 +6115,7 @@
       "listedAt": "2023-07-05",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 1114,
+      "daysOnMarket": 1115,
       "dataSource": "asari"
     },
     {
@@ -5979,7 +6127,7 @@
       "listedAt": "2024-08-28",
       "lastModifiedAt": "2026-03-05",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 694,
+      "daysOnMarket": 695,
       "dataSource": "asari"
     },
     {
@@ -5991,7 +6139,7 @@
       "listedAt": "2024-09-26",
       "lastModifiedAt": "2026-07-16",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 665,
+      "daysOnMarket": 666,
       "dataSource": "asari"
     },
     {
@@ -6003,7 +6151,7 @@
       "listedAt": "2024-11-05",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 625,
+      "daysOnMarket": 626,
       "dataSource": "asari"
     },
     {
@@ -6015,7 +6163,7 @@
       "listedAt": "2025-01-27",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 542,
+      "daysOnMarket": 543,
       "dataSource": "asari"
     },
     {
@@ -6027,7 +6175,7 @@
       "listedAt": "2025-03-17",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 493,
+      "daysOnMarket": 494,
       "dataSource": "asari"
     },
     {
@@ -6039,7 +6187,7 @@
       "listedAt": "2025-04-22",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 457,
+      "daysOnMarket": 458,
       "dataSource": "asari"
     },
     {
@@ -6051,7 +6199,7 @@
       "listedAt": "2025-05-21",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 428,
+      "daysOnMarket": 429,
       "dataSource": "asari"
     },
     {
@@ -6063,7 +6211,7 @@
       "listedAt": "2025-05-21",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 428,
+      "daysOnMarket": 429,
       "dataSource": "asari"
     },
     {
@@ -6075,7 +6223,7 @@
       "listedAt": "2025-05-27",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 422,
+      "daysOnMarket": 423,
       "dataSource": "asari"
     },
     {
@@ -6087,7 +6235,7 @@
       "listedAt": "2025-07-17",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 371,
+      "daysOnMarket": 372,
       "dataSource": "asari"
     },
     {
@@ -6099,7 +6247,7 @@
       "listedAt": "2025-08-27",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 330,
+      "daysOnMarket": 331,
       "dataSource": "asari"
     },
     {
@@ -6111,7 +6259,7 @@
       "listedAt": "2025-08-27",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 330,
+      "daysOnMarket": 331,
       "dataSource": "asari"
     },
     {
@@ -6123,7 +6271,7 @@
       "listedAt": "2025-10-01",
       "lastModifiedAt": "2026-05-14",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 295,
+      "daysOnMarket": 296,
       "dataSource": "asari"
     },
     {
@@ -6135,7 +6283,7 @@
       "listedAt": "2025-10-03",
       "lastModifiedAt": "2026-04-10",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 293,
+      "daysOnMarket": 294,
       "dataSource": "asari"
     },
     {
@@ -6147,7 +6295,7 @@
       "listedAt": "2025-10-21",
       "lastModifiedAt": "2026-04-08",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 275,
+      "daysOnMarket": 276,
       "dataSource": "asari"
     },
     {
@@ -6159,7 +6307,7 @@
       "listedAt": "2025-10-22",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 274,
+      "daysOnMarket": 275,
       "dataSource": "asari"
     },
     {
@@ -6171,7 +6319,7 @@
       "listedAt": "2025-10-24",
       "lastModifiedAt": "2026-07-16",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 272,
+      "daysOnMarket": 273,
       "dataSource": "asari"
     },
     {
@@ -6183,7 +6331,7 @@
       "listedAt": "2025-11-27",
       "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 238,
+      "daysOnMarket": 239,
       "dataSource": "asari"
     },
     {
@@ -6195,7 +6343,7 @@
       "listedAt": "2026-01-12",
       "lastModifiedAt": "2026-03-06",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 192,
+      "daysOnMarket": 193,
       "dataSource": "asari"
     },
     {
@@ -6207,7 +6355,7 @@
       "listedAt": "2026-02-06",
       "lastModifiedAt": "2026-04-08",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 167,
+      "daysOnMarket": 168,
       "dataSource": "asari"
     },
     {
@@ -6219,7 +6367,7 @@
       "listedAt": "2026-03-10",
       "lastModifiedAt": "2026-03-10",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 135,
+      "daysOnMarket": 136,
       "dataSource": "asari"
     },
     {
@@ -6231,7 +6379,7 @@
       "listedAt": "2026-03-11",
       "lastModifiedAt": "2026-04-22",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 134,
+      "daysOnMarket": 135,
       "dataSource": "asari"
     },
     {
@@ -6243,7 +6391,7 @@
       "listedAt": "2026-03-11",
       "lastModifiedAt": "2026-06-12",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 134,
+      "daysOnMarket": 135,
       "dataSource": "asari"
     },
     {
@@ -6255,7 +6403,7 @@
       "listedAt": "2026-03-30",
       "lastModifiedAt": "2026-07-07",
       "firstSeenAt": "2026-04-01",
-      "daysOnMarket": 115,
+      "daysOnMarket": 116,
       "dataSource": "asari"
     },
     {
@@ -6267,7 +6415,7 @@
       "listedAt": "2026-04-02",
       "lastModifiedAt": "2026-06-16",
       "firstSeenAt": "2026-04-07",
-      "daysOnMarket": 112,
+      "daysOnMarket": 113,
       "dataSource": "asari"
     },
     {
@@ -6279,7 +6427,7 @@
       "listedAt": "2026-04-21",
       "lastModifiedAt": "2026-04-24",
       "firstSeenAt": "2026-04-21",
-      "daysOnMarket": 93,
+      "daysOnMarket": 94,
       "dataSource": "asari"
     },
     {
@@ -6291,7 +6439,7 @@
       "listedAt": "2026-04-23",
       "lastModifiedAt": "2026-05-20",
       "firstSeenAt": "2026-05-20",
-      "daysOnMarket": 91,
+      "daysOnMarket": 92,
       "dataSource": "asari"
     },
     {
@@ -6303,7 +6451,7 @@
       "listedAt": "2026-04-24",
       "lastModifiedAt": "2026-07-15",
       "firstSeenAt": "2026-04-27",
-      "daysOnMarket": 90,
+      "daysOnMarket": 91,
       "dataSource": "asari"
     },
     {
@@ -6315,7 +6463,7 @@
       "listedAt": "2026-04-24",
       "lastModifiedAt": "2026-04-29",
       "firstSeenAt": "2026-04-29",
-      "daysOnMarket": 90,
+      "daysOnMarket": 91,
       "dataSource": "asari"
     },
     {
@@ -6327,7 +6475,7 @@
       "listedAt": "2026-04-28",
       "lastModifiedAt": "2026-06-10",
       "firstSeenAt": "2026-04-28",
-      "daysOnMarket": 86,
+      "daysOnMarket": 87,
       "dataSource": "asari"
     },
     {
@@ -6339,7 +6487,7 @@
       "listedAt": "2026-04-29",
       "lastModifiedAt": "2026-06-08",
       "firstSeenAt": "2026-04-29",
-      "daysOnMarket": 85,
+      "daysOnMarket": 86,
       "dataSource": "asari"
     },
     {
@@ -6351,7 +6499,7 @@
       "listedAt": "2026-05-04",
       "lastModifiedAt": "2026-07-09",
       "firstSeenAt": "2026-05-05",
-      "daysOnMarket": 80,
+      "daysOnMarket": 81,
       "dataSource": "asari"
     },
     {
@@ -6363,7 +6511,7 @@
       "listedAt": "2026-05-04",
       "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-05-11",
-      "daysOnMarket": 80,
+      "daysOnMarket": 81,
       "dataSource": "asari"
     },
     {
@@ -6375,7 +6523,7 @@
       "listedAt": "2026-05-06",
       "lastModifiedAt": "2026-06-17",
       "firstSeenAt": "2026-05-14",
-      "daysOnMarket": 78,
+      "daysOnMarket": 79,
       "dataSource": "asari"
     },
     {
@@ -6387,7 +6535,7 @@
       "listedAt": "2026-05-07",
       "lastModifiedAt": "2026-07-09",
       "firstSeenAt": "2026-05-07",
-      "daysOnMarket": 77,
+      "daysOnMarket": 78,
       "dataSource": "asari"
     },
     {
@@ -6399,7 +6547,7 @@
       "listedAt": "2026-05-20",
       "lastModifiedAt": "2026-07-08",
       "firstSeenAt": "2026-05-22",
-      "daysOnMarket": 64,
+      "daysOnMarket": 65,
       "dataSource": "asari"
     },
     {
@@ -6411,7 +6559,7 @@
       "listedAt": "2026-05-21",
       "lastModifiedAt": "2026-05-27",
       "firstSeenAt": "2026-05-26",
-      "daysOnMarket": 63,
+      "daysOnMarket": 64,
       "dataSource": "asari"
     },
     {
@@ -6423,7 +6571,7 @@
       "listedAt": "2026-05-21",
       "lastModifiedAt": "2026-06-17",
       "firstSeenAt": "2026-05-28",
-      "daysOnMarket": 63,
+      "daysOnMarket": 64,
       "dataSource": "asari"
     },
     {
@@ -6435,7 +6583,7 @@
       "listedAt": "2026-05-26",
       "lastModifiedAt": "2026-06-03",
       "firstSeenAt": "2026-06-03",
-      "daysOnMarket": 58,
+      "daysOnMarket": 59,
       "dataSource": "asari"
     },
     {
@@ -6447,7 +6595,7 @@
       "listedAt": "2026-05-27",
       "lastModifiedAt": "2026-07-10",
       "firstSeenAt": "2026-05-28",
-      "daysOnMarket": 57,
+      "daysOnMarket": 58,
       "dataSource": "asari"
     },
     {
@@ -6459,7 +6607,7 @@
       "listedAt": "2026-05-29",
       "lastModifiedAt": "2026-07-15",
       "firstSeenAt": "2026-06-03",
-      "daysOnMarket": 55,
+      "daysOnMarket": 56,
       "dataSource": "asari"
     },
     {
@@ -6471,7 +6619,7 @@
       "listedAt": "2026-05-29",
       "lastModifiedAt": "2026-07-14",
       "firstSeenAt": "2026-06-17",
-      "daysOnMarket": 55,
+      "daysOnMarket": 56,
       "dataSource": "asari"
     },
     {
@@ -6483,7 +6631,7 @@
       "listedAt": "2026-06-02",
       "lastModifiedAt": "2026-06-10",
       "firstSeenAt": "2026-06-10",
-      "daysOnMarket": 51,
+      "daysOnMarket": 52,
       "dataSource": "asari"
     },
     {
@@ -6495,7 +6643,7 @@
       "listedAt": "2026-06-03",
       "lastModifiedAt": "2026-06-24",
       "firstSeenAt": "2026-06-03",
-      "daysOnMarket": 50,
+      "daysOnMarket": 51,
       "dataSource": "asari"
     },
     {
@@ -6507,7 +6655,7 @@
       "listedAt": "2026-06-09",
       "lastModifiedAt": "2026-06-09",
       "firstSeenAt": "2026-06-09",
-      "daysOnMarket": 44,
+      "daysOnMarket": 45,
       "dataSource": "asari"
     },
     {
@@ -6519,7 +6667,7 @@
       "listedAt": "2026-06-09",
       "lastModifiedAt": "2026-06-11",
       "firstSeenAt": "2026-06-11",
-      "daysOnMarket": 44,
+      "daysOnMarket": 45,
       "dataSource": "asari"
     },
     {
@@ -6531,7 +6679,7 @@
       "listedAt": "2026-06-15",
       "lastModifiedAt": "2026-07-15",
       "firstSeenAt": "2026-06-15",
-      "daysOnMarket": 38,
+      "daysOnMarket": 39,
       "dataSource": "asari"
     },
     {
@@ -6543,7 +6691,7 @@
       "listedAt": "2026-06-16",
       "lastModifiedAt": "2026-06-18",
       "firstSeenAt": "2026-06-16",
-      "daysOnMarket": 37,
+      "daysOnMarket": 38,
       "dataSource": "asari"
     }
   ],
@@ -6565,13 +6713,13 @@
         "label": "31–90 dni",
         "min": 31,
         "max": 90,
-        "count": 31
+        "count": 29
       },
       {
         "label": "91–180 dni",
         "min": 91,
         "max": 180,
-        "count": 8
+        "count": 10
       },
       {
         "label": ">180 dni (zalegają)",
@@ -6580,8 +6728,8 @@
         "count": 21
       }
     ],
-    "avgDaysOnMarket": 178,
-    "medianDaysOnMarket": 64,
+    "avgDaysOnMarket": 179,
+    "medianDaysOnMarket": 65,
     "avgDaysToRemoval": 123,
     "totalRemoved": 30
   },
