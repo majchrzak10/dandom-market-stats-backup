@@ -1,7 +1,7 @@
 {
   "marta-janusz": {
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-26T13:47:57.175Z"
+    "fetchedAt": "2026-08-30T09:53:53.488Z"
   },
   "magdalena-kogut": {
     "agencyName": "FWK Nieruchomości",
@@ -13,23 +13,23 @@
   },
   "iwona-kulczynska": {
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T08:10:36.087Z"
+    "fetchedAt": "2026-08-30T09:52:25.027Z"
   },
   "izabela-polcyn": {
     "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-    "fetchedAt": "2026-05-27T08:11:37.096Z"
+    "fetchedAt": "2026-08-30T09:51:27.017Z"
   },
   "agnieszka-mysiak": {
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-05-27T08:11:58.234Z"
+    "fetchedAt": "2026-08-30T09:51:41.186Z"
   },
   "piotr-kloska": {
     "agencyName": "FREEDOM NIERUCHOMOŚCI",
-    "fetchedAt": "2026-05-27T08:12:24.515Z"
+    "fetchedAt": "2026-08-30T09:53:33.491Z"
   },
   "krystian-kedzia": {
     "agencyName": "FWK Nieruchomości",
-    "fetchedAt": "2026-05-27T08:13:11.897Z"
+    "fetchedAt": "2026-08-30T09:54:47.810Z"
   },
   "joanna-gruszka": {
     "agencyName": "Choiński Kroll Nieruchomości",
@@ -61,7 +61,7 @@
   },
   "agnieszka-krzywonos": {
     "agencyName": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
-    "fetchedAt": "2026-05-27T09:08:36.300Z"
+    "fetchedAt": "2026-08-30T09:55:36.978Z"
   },
   "mikolaj-rozanski": {
     "agencyName": "BON WINOGRADY",
@@ -110,5 +110,13 @@
   "iga-knapkiewicz": {
     "agencyName": "Shark Nieruchomości",
     "fetchedAt": "2026-08-16T04:28:22.715Z"
+  },
+  "malgorzata-frost": {
+    "agencyName": "PGN POLSKA",
+    "fetchedAt": "2026-08-30T09:52:39.524Z"
+  },
+  "anna-bylewska": {
+    "agencyName": "Bylewscy Nieruchomości",
+    "fetchedAt": "2026-08-30T09:55:22.954Z"
   }
 }
