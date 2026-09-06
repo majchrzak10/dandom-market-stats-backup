@@ -9,7 +9,7 @@
   },
   "adam-kisiel": {
     "agencyName": "Phinance Nieruchomości",
-    "fetchedAt": "2026-05-27T08:10:01.889Z"
+    "fetchedAt": "2026-09-06T08:33:53.166Z"
   },
   "iwona-kulczynska": {
     "agencyName": "Nieruchomości - FURMAN",
@@ -33,7 +33,7 @@
   },
   "joanna-gruszka": {
     "agencyName": "Choiński Kroll Nieruchomości",
-    "fetchedAt": "2026-05-27T08:26:09.239Z"
+    "fetchedAt": "2026-09-06T08:49:37.843Z"
   },
   "marek-czechowski": {
     "agencyName": "Park Home Sp. Z o.o.",
@@ -41,7 +41,7 @@
   },
   "renata-wegrzynowska": {
     "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
-    "fetchedAt": "2026-05-27T08:27:52.523Z"
+    "fetchedAt": "2026-09-06T08:52:33.605Z"
   },
   "marta-walinska": {
     "agencyName": "Nieruchomości - FURMAN",
@@ -53,7 +53,7 @@
   },
   "joanna-szewczak": {
     "agencyName": "DAN - DOM Danuta Majchrzak",
-    "fetchedAt": "2026-05-27T08:57:49.403Z"
+    "fetchedAt": "2026-09-06T09:18:46.287Z"
   },
   "maciej-gonigroszek": {
     "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
@@ -65,15 +65,15 @@
   },
   "mikolaj-rozanski": {
     "agencyName": "BON WINOGRADY",
-    "fetchedAt": "2026-05-27T09:08:48.676Z"
+    "fetchedAt": "2026-09-06T09:29:34.297Z"
   },
   "katarzyna-jankowska": {
     "agencyName": "Nieruchomości - FURMAN",
-    "fetchedAt": "2026-05-27T09:09:01.830Z"
+    "fetchedAt": "2026-09-06T09:29:21.088Z"
   },
   "alina-zybala-melosik": {
     "agencyName": "Metrohouse Poznań",
-    "fetchedAt": "2026-05-27T09:10:30.016Z"
+    "fetchedAt": "2026-09-06T09:30:44.760Z"
   },
   "jacek-hauke": {
     "agencyName": "Best Life Nieruchomości",
@@ -118,5 +118,13 @@
   "anna-bylewska": {
     "agencyName": "Bylewscy Nieruchomości",
     "fetchedAt": "2026-08-30T09:41:19.717Z"
+  },
+  "malgorzata-bardadyn": {
+    "agencyName": "MUVON Nieruchomości",
+    "fetchedAt": "2026-09-06T08:37:56.005Z"
+  },
+  "bartosz-kuklinski": {
+    "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
+    "fetchedAt": "2026-09-06T09:25:37.895Z"
   }
 }
