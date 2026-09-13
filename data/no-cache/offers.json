@@ -164,14 +164,14 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:57:58.195Z",
+    "fetchedAt": "2026-09-13T09:22:22.411Z",
     "reason": "no-agent-link"
   },
   "1820411": {
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:57:52.222Z",
+    "fetchedAt": "2026-09-13T09:22:15.811Z",
     "reason": "no-agent-link"
   },
   "2001346": {
@@ -199,7 +199,7 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:57:46.009Z",
+    "fetchedAt": "2026-09-13T09:22:09.362Z",
     "reason": "no-agent-link"
   },
   "2324900": {
@@ -234,7 +234,7 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:57:40.060Z",
+    "fetchedAt": "2026-09-13T09:22:03.016Z",
     "reason": "no-agent-link"
   },
   "2744922": {
@@ -255,7 +255,7 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:57:33.555Z",
+    "fetchedAt": "2026-09-13T09:21:57.099Z",
     "reason": "no-agent-link"
   },
   "2969399": {
@@ -3935,7 +3935,7 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:58:05.390Z",
+    "fetchedAt": "2026-09-13T09:22:36.156Z",
     "reason": "no-agent-link"
   },
   "26679152": {
@@ -4009,7 +4009,7 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:57:11.849Z",
+    "fetchedAt": "2026-09-13T09:21:13.554Z",
     "reason": "no-agent-link"
   },
   "26713759": {
@@ -4035,7 +4035,7 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:58:12.508Z",
+    "fetchedAt": "2026-09-13T09:22:29.638Z",
     "reason": "no-agent-link"
   },
   "26717383": {
@@ -4228,14 +4228,14 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-06-28T08:41:25.571Z",
+    "fetchedAt": "2026-09-13T09:23:09.979Z",
     "reason": "no-agent-link"
   },
   "26790086": {
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:56:56.650Z",
+    "fetchedAt": "2026-09-13T09:20:53.662Z",
     "reason": "no-agent-link"
   },
   "26792202": {
@@ -4254,13 +4254,13 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:58:46.687Z",
+    "fetchedAt": "2026-09-13T09:22:56.689Z",
     "reason": "no-agent-link"
   },
   "26798738": {
     "agentSlug": "agnieszka-mysiak",
     "agencyName": "Nieruchomości Tectum",
-    "fetchedAt": "2026-08-09T04:57:04.251Z"
+    "fetchedAt": "2026-09-13T09:20:47.072Z"
   },
   "26799186": {
     "agentSlug": "marta-janusz",
@@ -4473,14 +4473,14 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:56:50.228Z",
+    "fetchedAt": "2026-09-13T09:20:59.944Z",
     "reason": "no-agent-link"
   },
   "26875262": {
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:58:53.203Z",
+    "fetchedAt": "2026-09-13T09:23:02.650Z",
     "reason": "no-agent-link"
   },
   "26879814": {
@@ -4494,13 +4494,13 @@
     "agentSlug": null,
     "agencyName": null,
     "isPrivate": true,
-    "fetchedAt": "2026-08-09T04:58:38.972Z",
+    "fetchedAt": "2026-09-13T09:22:49.366Z",
     "reason": "no-agent-link"
   },
   "26884720": {
     "agentSlug": "sara-srama",
     "agencyName": "INVEST DOM",
-    "fetchedAt": "2026-08-09T04:58:33.092Z"
+    "fetchedAt": "2026-09-13T09:22:42.551Z"
   },
   "26886714": {
     "agentSlug": "agnieszka-mysiak",
@@ -4843,6 +4843,37 @@
     "agencyName": null,
     "isPrivate": true,
     "fetchedAt": "2026-09-06T08:58:44.997Z",
+    "reason": "no-agent-link"
+  },
+  "26946927": {
+    "agentSlug": "oliwia-lapacz",
+    "agencyName": "CZAS NIERUCHOMOŚCI",
+    "fetchedAt": "2026-09-13T09:21:50.099Z"
+  },
+  "26949480": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-09-13T09:21:35.863Z",
+    "reason": "no-agent-link"
+  },
+  "26950102": {
+    "agentSlug": "alina-krupecka",
+    "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
+    "fetchedAt": "2026-09-13T09:21:29.012Z"
+  },
+  "26955857": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-09-13T09:21:06.089Z",
+    "reason": "no-agent-link"
+  },
+  "26961357": {
+    "agentSlug": null,
+    "agencyName": null,
+    "isPrivate": true,
+    "fetchedAt": "2026-09-13T09:20:39.943Z",
     "reason": "no-agent-link"
   }
 }
