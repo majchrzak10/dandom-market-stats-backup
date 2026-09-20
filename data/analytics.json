@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:14:07.312Z",
+  "generatedAt": "2026-09-20T11:40:19.675Z",
   "kpi": {
     "date": "2026-09-20",
     "totalOffers": 80,
@@ -572,23 +572,23 @@
         "key": "2026-07-09",
         "start": "2026-06-26",
         "end": "2026-07-09",
-        "total": 170,
-        "sale": 170,
+        "total": 169,
+        "sale": 169,
         "byCategory": {
           "MIESZKANIE": 63,
           "INWESTYCJA": 1,
           "DOM": 43,
-          "DZIAŁKA": 63
+          "DZIAŁKA": 62
         },
         "medianPrice": 320000,
-        "avgPrice": 591566,
-        "medianPricePerM2": 4362,
-        "avgDaysOnMarket": 164,
-        "medianDaysOnMarket": 79,
+        "avgPrice": 593498,
+        "medianPricePerM2": 4363,
+        "avgDaysOnMarket": 165,
+        "medianDaysOnMarket": 80,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 80
+            "count": 79
           },
           {
             "city": "ROGOŹNO",
@@ -613,23 +613,23 @@
         "key": "2026-07-23",
         "start": "2026-07-10",
         "end": "2026-07-23",
-        "total": 171,
-        "sale": 171,
+        "total": 170,
+        "sale": 170,
         "byCategory": {
           "MIESZKANIE": 64,
           "INWESTYCJA": 1,
           "DOM": 36,
-          "DZIAŁKA": 70
+          "DZIAŁKA": 69
         },
-        "medianPrice": 294112,
-        "avgPrice": 578480,
-        "medianPricePerM2": 3561,
-        "avgDaysOnMarket": 163,
+        "medianPrice": 298224,
+        "avgPrice": 580322,
+        "medianPricePerM2": 3577,
+        "avgDaysOnMarket": 164,
         "medianDaysOnMarket": 87,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 81
+            "count": 80
           },
           {
             "city": "ROGOŹNO",
@@ -654,23 +654,23 @@
         "key": "2026-08-06",
         "start": "2026-07-24",
         "end": "2026-08-06",
-        "total": 156,
-        "sale": 156,
+        "total": 155,
+        "sale": 155,
         "byCategory": {
           "MIESZKANIE": 55,
           "INWESTYCJA": 1,
           "DOM": 34,
-          "DZIAŁKA": 66
+          "DZIAŁKA": 65
         },
         "medianPrice": 285000,
-        "avgPrice": 608909,
-        "medianPricePerM2": 3390,
+        "avgPrice": 611128,
+        "medianPricePerM2": 3417,
         "avgDaysOnMarket": 163,
-        "medianDaysOnMarket": 89,
+        "medianDaysOnMarket": 93,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 71
+            "count": 70
           },
           {
             "city": "ROGOŹNO",
@@ -695,23 +695,23 @@
         "key": "2026-08-20",
         "start": "2026-08-07",
         "end": "2026-08-20",
-        "total": 163,
-        "sale": 163,
+        "total": 162,
+        "sale": 162,
         "byCategory": {
           "INWESTYCJA": 1,
           "MIESZKANIE": 62,
           "DOM": 34,
-          "DZIAŁKA": 66
+          "DZIAŁKA": 65
         },
-        "medianPrice": 283200,
-        "avgPrice": 526050,
-        "medianPricePerM2": 3396,
+        "medianPrice": 285000,
+        "avgPrice": 527659,
+        "medianPricePerM2": 3402,
         "avgDaysOnMarket": 160,
         "medianDaysOnMarket": 84,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 79
+            "count": 78
           },
           {
             "city": "ROGOŹNO",
@@ -736,23 +736,23 @@
         "key": "2026-09-03",
         "start": "2026-08-21",
         "end": "2026-09-03",
-        "total": 201,
-        "sale": 201,
+        "total": 200,
+        "sale": 200,
         "byCategory": {
           "INWESTYCJA": 1,
           "MIESZKANIE": 87,
           "DOM": 40,
-          "DZIAŁKA": 73
+          "DZIAŁKA": 72
         },
-        "medianPrice": 301188,
-        "avgPrice": 564863,
-        "medianPricePerM2": 4284,
-        "avgDaysOnMarket": 136,
+        "medianPrice": 303375,
+        "avgPrice": 566359,
+        "medianPricePerM2": 4299,
+        "avgDaysOnMarket": 137,
         "medianDaysOnMarket": 52,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 105
+            "count": 104
           },
           {
             "city": "ROGOŹNO",
@@ -777,35 +777,35 @@
         "key": "2026-09-17",
         "start": "2026-09-04",
         "end": "2026-09-17",
-        "total": 177,
-        "sale": 177,
+        "total": 172,
+        "sale": 172,
         "byCategory": {
           "INWESTYCJA": 1,
-          "MIESZKANIE": 69,
-          "DOM": 35,
-          "DZIAŁKA": 72
+          "MIESZKANIE": 66,
+          "DOM": 34,
+          "DZIAŁKA": 71
         },
-        "medianPrice": 302524,
-        "avgPrice": 598803,
-        "medianPricePerM2": 3852,
-        "avgDaysOnMarket": 124,
-        "medianDaysOnMarket": 38,
+        "medianPrice": 301673,
+        "avgPrice": 606762,
+        "medianPricePerM2": 3804,
+        "avgDaysOnMarket": 128,
+        "medianDaysOnMarket": 45,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 73
+            "count": 70
           },
           {
             "city": "ROGOŹNO",
-            "count": 52
-          },
-          {
-            "city": "NIENAWISZCZ",
-            "count": 9
+            "count": 51
           },
           {
             "city": "JARACZ",
             "count": 9
+          },
+          {
+            "city": "NIENAWISZCZ",
+            "count": 8
           },
           {
             "city": "BOGUNIEWO",
@@ -818,17 +818,17 @@
         "key": "2026-10-01",
         "start": "2026-09-18",
         "end": "2026-10-01",
-        "total": 680,
-        "sale": 680,
+        "total": 684,
+        "sale": 684,
         "byCategory": {
-          "MIESZKANIE": 229,
+          "MIESZKANIE": 231,
           "INWESTYCJA": 1,
           "DOM": 191,
-          "DZIAŁKA": 259
+          "DZIAŁKA": 261
         },
-        "medianPrice": 319500,
-        "avgPrice": 556147,
-        "medianPricePerM2": 2550,
+        "medianPrice": 320000,
+        "avgPrice": 555512,
+        "medianPricePerM2": 2559,
         "avgDaysOnMarket": 43,
         "medianDaysOnMarket": 11,
         "topCities": [
@@ -838,11 +838,11 @@
           },
           {
             "city": "ROGOŹNO",
-            "count": 173
+            "count": 174
           },
           {
             "city": "NIENAWISZCZ",
-            "count": 10
+            "count": 11
           },
           {
             "city": "JARACZ",
@@ -856,36 +856,36 @@
         "beforeTracking": false
       }
     ],
-    "totalOffers": 1391
+    "totalOffers": 1400
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 680,
+      "totalCompetitorOffers": 684,
       "comparison": [
         {
           "category": "MIESZKANIE",
           "city": "ROGOŹNO",
           "ourCount": 10,
-          "competitorCount": 79,
+          "competitorCount": 82,
           "ourMedianPrice": 284500,
-          "competitorMedianPrice": 280000,
-          "priceDiffPct": 1.6,
+          "competitorMedianPrice": 284700,
+          "priceDiffPct": -0.1,
           "ourMedianPricePerM2": 5538,
-          "competitorMedianPricePerM2": 5036,
-          "pricePerM2DiffPct": 10
+          "competitorMedianPricePerM2": 5219,
+          "pricePerM2DiffPct": 6.1
         },
         {
           "category": "MIESZKANIE",
           "city": "WĄGROWIEC",
           "ourCount": 10,
-          "competitorCount": 145,
+          "competitorCount": 144,
           "ourMedianPrice": 334500,
           "competitorMedianPrice": 320000,
           "priceDiffPct": 4.5,
           "ourMedianPricePerM2": 7149,
-          "competitorMedianPricePerM2": 6640,
-          "pricePerM2DiffPct": 7.7
+          "competitorMedianPricePerM2": 6531,
+          "pricePerM2DiffPct": 9.5
         },
         {
           "category": "DOM",
@@ -903,13 +903,13 @@
           "category": "DOM",
           "city": "ROGOŹNO",
           "ourCount": 4,
-          "competitorCount": 38,
+          "competitorCount": 37,
           "ourMedianPrice": 439500,
-          "competitorMedianPrice": 419500,
-          "priceDiffPct": 4.8,
+          "competitorMedianPrice": 440000,
+          "priceDiffPct": -0.1,
           "ourMedianPricePerM2": 3185,
-          "competitorMedianPricePerM2": 3143,
-          "pricePerM2DiffPct": 1.3
+          "competitorMedianPricePerM2": 3196,
+          "pricePerM2DiffPct": -0.3
         },
         {
           "category": "DZIAŁKA",
@@ -963,7 +963,7 @@
           "category": "DOM",
           "city": "NIENAWISZCZ",
           "ourCount": 1,
-          "competitorCount": 1,
+          "competitorCount": 2,
           "ourMedianPrice": 269000,
           "competitorMedianPrice": 449000,
           "priceDiffPct": -40.1,
@@ -1082,36 +1082,26 @@
       ]
     },
     "sourceCounts": {
-      "otodom": 74,
-      "nieruchomosci-online+otodom": 80,
+      "otodom": 76,
+      "nieruchomosci-online+otodom": 81,
       "nieruchomosci-online+olx+otodom": 4,
-      "olx+otodom": 8,
-      "olx": 22,
+      "olx+otodom": 9,
+      "olx": 23,
       "nieruchomosci-online+olx": 1,
-      "nieruchomosci-online": 491
+      "nieruchomosci-online": 490
     }
   },
   "competitorAgents": {
-    "total": 680,
-    "private": 54,
-    "unknown": 409,
-    "knownAgent": 217,
+    "total": 684,
+    "private": 50,
+    "unknown": 497,
+    "knownAgent": 137,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 44,
-        "totalValue": 19798411,
-        "isOurs": true,
-        "variants": [
-          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "DAN - DOM Danuta Majchrzak"
-        ]
-      },
-      {
-        "name": "Nieruchomości Tectum",
-        "count": 28,
-        "totalValue": 13731511,
-        "isOurs": false
+        "count": 35,
+        "totalValue": 14970291,
+        "isOurs": true
       },
       {
         "name": "Phinance S.A.",
@@ -1126,18 +1116,6 @@
         "isOurs": false
       },
       {
-        "name": "FWK Nieruchomości",
-        "count": 11,
-        "totalValue": 4046725,
-        "isOurs": false
-      },
-      {
-        "name": "Nieruchomości - FURMAN",
-        "count": 10,
-        "totalValue": 4808900,
-        "isOurs": false
-      },
-      {
         "name": "PRO.DOM NIERUCHOMOŚCI",
         "count": 8,
         "totalValue": 12807000,
@@ -1145,8 +1123,8 @@
       },
       {
         "name": "Nieruchomości Furman oddz. Wągrowiec",
-        "count": 6,
-        "totalValue": 2653000,
+        "count": 5,
+        "totalValue": 2343000,
         "isOurs": false
       },
       {
@@ -1168,39 +1146,15 @@
         "isOurs": false
       },
       {
-        "name": "Metrohouse Poznań",
-        "count": 4,
-        "totalValue": 8040810,
-        "isOurs": false
-      },
-      {
-        "name": "Best Life Jacek Hauke",
-        "count": 3,
-        "totalValue": 639000,
-        "isOurs": false
-      },
-      {
         "name": "Senger&Partners Nieruchomosci",
         "count": 3,
         "totalValue": 799555,
         "isOurs": false
       },
       {
-        "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
+        "name": "Małgorzata Krawczyk Nieruchomości",
         "count": 3,
-        "totalValue": 600300,
-        "isOurs": false
-      },
-      {
-        "name": "Phinance Nieruchomości",
-        "count": 3,
-        "totalValue": 971511,
-        "isOurs": false
-      },
-      {
-        "name": "FREEDOM NIERUCHOMOŚCI",
-        "count": 3,
-        "totalValue": 1471250,
+        "totalValue": 601000,
         "isOurs": false
       },
       {
@@ -1216,15 +1170,21 @@
         "isOurs": false
       },
       {
-        "name": "Heller Nieruchomości",
+        "name": "Nieruchomości Tectum",
         "count": 2,
-        "totalValue": 390000,
+        "totalValue": 184720,
         "isOurs": false
       },
       {
         "name": "Nieruchomości Kaczmarek",
         "count": 2,
         "totalValue": 779000,
+        "isOurs": false
+      },
+      {
+        "name": "Best Life Jacek Hauke",
+        "count": 2,
+        "totalValue": 409000,
         "isOurs": false
       },
       {
@@ -1243,18 +1203,6 @@
         "name": "Makoni Nieruchomości Sp zoo",
         "count": 2,
         "totalValue": 2088990,
-        "isOurs": false
-      },
-      {
-        "name": "Małgorzata Krawczyk Nieruchomości",
-        "count": 2,
-        "totalValue": 391000,
-        "isOurs": false
-      },
-      {
-        "name": "MySpot",
-        "count": 2,
-        "totalValue": 438000,
         "isOurs": false
       },
       {
@@ -1285,6 +1233,12 @@
         "name": "JMK Kosmaczewscy Nieruchomości",
         "count": 1,
         "totalValue": 1100000,
+        "isOurs": false
+      },
+      {
+        "name": "Heller Nieruchomości",
+        "count": 1,
+        "totalValue": 195000,
         "isOurs": false
       },
       {
@@ -1348,6 +1302,12 @@
         "isOurs": false
       },
       {
+        "name": "MySpot",
+        "count": 1,
+        "totalValue": 219000,
+        "isOurs": false
+      },
+      {
         "name": "Kuśnierska Nieruchomości",
         "count": 1,
         "totalValue": 188000,
@@ -1357,54 +1317,6 @@
         "name": "Handom Nieruchomości",
         "count": 1,
         "totalValue": 117900,
-        "isOurs": false
-      },
-      {
-        "name": "MUVON Nieruchomości",
-        "count": 1,
-        "totalValue": 247000,
-        "isOurs": false
-      },
-      {
-        "name": "Partners International",
-        "count": 1,
-        "totalValue": 699000,
-        "isOurs": false
-      },
-      {
-        "name": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
-        "count": 1,
-        "totalValue": 1250000,
-        "isOurs": false
-      },
-      {
-        "name": "CZAS NIERUCHOMOŚCI",
-        "count": 1,
-        "totalValue": 195000,
-        "isOurs": false
-      },
-      {
-        "name": "INVEST DOM",
-        "count": 1,
-        "totalValue": 499000,
-        "isOurs": false
-      },
-      {
-        "name": "BON WINOGRADY",
-        "count": 1,
-        "totalValue": 225000,
-        "isOurs": false
-      },
-      {
-        "name": "VanDer Haus Nieruchomości",
-        "count": 1,
-        "totalValue": 165000,
-        "isOurs": false
-      },
-      {
-        "name": "Bylewscy Nieruchomości",
-        "count": 1,
-        "totalValue": 349000,
         "isOurs": false
       }
     ]
@@ -8913,20 +8825,15 @@
     },
     {
       "date": "2026-09-20",
-      "total": 680,
-      "private": 54,
-      "unknown": 409,
-      "knownAgent": 217,
+      "total": 684,
+      "private": 50,
+      "unknown": 497,
+      "knownAgent": 137,
       "topAgencies": [
         {
           "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "count": 44,
+          "count": 35,
           "isOurs": true
-        },
-        {
-          "name": "Nieruchomości Tectum",
-          "count": 28,
-          "isOurs": false
         },
         {
           "name": "Phinance S.A.",
@@ -8939,23 +8846,13 @@
           "isOurs": false
         },
         {
-          "name": "FWK Nieruchomości",
-          "count": 11,
-          "isOurs": false
-        },
-        {
-          "name": "Nieruchomości - FURMAN",
-          "count": 10,
-          "isOurs": false
-        },
-        {
           "name": "PRO.DOM NIERUCHOMOŚCI",
           "count": 8,
           "isOurs": false
         },
         {
           "name": "Nieruchomości Furman oddz. Wągrowiec",
-          "count": 6,
+          "count": 5,
           "isOurs": false
         },
         {
@@ -8966,6 +8863,21 @@
         {
           "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
           "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "GRACJAN-NIERUCHOMOŚCI",
+          "count": 4,
+          "isOurs": false
+        },
+        {
+          "name": "Senger&Partners Nieruchomosci",
+          "count": 3,
+          "isOurs": false
+        },
+        {
+          "name": "Małgorzata Krawczyk Nieruchomości",
+          "count": 3,
           "isOurs": false
         }
       ]
