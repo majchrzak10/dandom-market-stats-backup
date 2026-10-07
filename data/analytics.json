@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-06T13:29:25.721Z",
+  "generatedAt": "2026-10-07T13:41:43.366Z",
   "kpi": {
-    "date": "2026-10-06",
-    "totalOffers": 82,
-    "sale": 81,
+    "date": "2026-10-07",
+    "totalOffers": 83,
+    "sale": 82,
     "rent": 1,
-    "avgPrice": 425433,
-    "medianPrice": 310000,
-    "avgPricePerM2": 3591,
-    "totalActiveValue": 34462440,
+    "avgPrice": 423537,
+    "medianPrice": 304500,
+    "avgPricePerM2": 3623,
+    "totalActiveValue": 34732440,
     "byCategory": {
       "DZIAŁKA": 29,
       "DOM": 23,
-      "MIESZKANIE": 27,
+      "MIESZKANIE": 28,
       "LOKAL": 2,
       "OBIEKT": 1
     }
@@ -117,7 +117,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 315340,
-        "avgPrice": 445872,
+        "avgPrice": 445601,
         "medianPricePerM2": 3060,
         "avgDaysOnMarket": 186,
         "medianDaysOnMarket": 64,
@@ -159,7 +159,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 324220,
-        "avgPrice": 462049,
+        "avgPrice": 461792,
         "medianPricePerM2": 3551,
         "avgDaysOnMarket": 178,
         "medianDaysOnMarket": 66,
@@ -201,7 +201,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 328440,
-        "avgPrice": 474190,
+        "avgPrice": 473988,
         "medianPricePerM2": 3937,
         "avgDaysOnMarket": 166,
         "medianDaysOnMarket": 63,
@@ -243,7 +243,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 324220,
-        "avgPrice": 473539,
+        "avgPrice": 473334,
         "medianPricePerM2": 3728,
         "avgDaysOnMarket": 180,
         "medianDaysOnMarket": 77,
@@ -285,7 +285,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 320000,
-        "avgPrice": 459761,
+        "avgPrice": 459559,
         "medianPricePerM2": 4089,
         "avgDaysOnMarket": 186,
         "medianDaysOnMarket": 86,
@@ -327,7 +327,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 310000,
-        "avgPrice": 430519,
+        "avgPrice": 430317,
         "medianPricePerM2": 3377,
         "avgDaysOnMarket": 181,
         "medianDaysOnMarket": 86,
@@ -369,7 +369,7 @@
           "OBIEKT": 1
         },
         "medianPrice": 310580,
-        "avgPrice": 429798,
+        "avgPrice": 429595,
         "medianPricePerM2": 3937,
         "avgDaysOnMarket": 185,
         "medianDaysOnMarket": 93,
@@ -401,20 +401,20 @@
         "key": "2026-10-01",
         "start": "2026-09-18",
         "end": "2026-10-01",
-        "total": 82,
-        "sale": 81,
+        "total": 83,
+        "sale": 82,
         "byCategory": {
           "DZIAŁKA": 29,
           "DOM": 23,
-          "MIESZKANIE": 27,
+          "MIESZKANIE": 28,
           "LOKAL": 2,
           "OBIEKT": 1
         },
-        "medianPrice": 310000,
-        "avgPrice": 426198,
-        "medianPricePerM2": 4116,
-        "avgDaysOnMarket": 182,
-        "medianDaysOnMarket": 103,
+        "medianPrice": 304500,
+        "avgPrice": 424452,
+        "medianPricePerM2": 4121,
+        "avgDaysOnMarket": 179,
+        "medianDaysOnMarket": 101,
         "topCities": [
           {
             "city": "ROGOŹNO",
@@ -422,7 +422,7 @@
           },
           {
             "city": "WĄGROWIEC",
-            "count": 19
+            "count": 20
           },
           {
             "city": "GARBATKA",
@@ -443,27 +443,27 @@
         "key": "2026-10-15",
         "start": "2026-10-02",
         "end": "2026-10-15",
-        "total": 83,
-        "sale": 82,
+        "total": 84,
+        "sale": 83,
         "byCategory": {
           "DZIAŁKA": 30,
           "DOM": 23,
-          "MIESZKANIE": 27,
+          "MIESZKANIE": 28,
           "LOKAL": 2,
           "OBIEKT": 1
         },
-        "medianPrice": 304500,
-        "avgPrice": 421818,
-        "medianPricePerM2": 4103,
-        "avgDaysOnMarket": 193,
-        "medianDaysOnMarket": 115,
+        "medianPrice": 299000,
+        "avgPrice": 419988,
+        "medianPricePerM2": 4116,
+        "avgDaysOnMarket": 190,
+        "medianDaysOnMarket": 112,
         "topCities": [
           {
-            "city": "ROGOŹNO",
-            "count": 20
+            "city": "WĄGROWIEC",
+            "count": 21
           },
           {
-            "city": "WĄGROWIEC",
+            "city": "ROGOŹNO",
             "count": 20
           },
           {
@@ -860,22 +860,22 @@
         "key": "2026-10-01",
         "start": "2026-09-18",
         "end": "2026-10-01",
-        "total": 179,
-        "sale": 179,
+        "total": 180,
+        "sale": 180,
         "byCategory": {
-          "MIESZKANIE": 75,
+          "MIESZKANIE": 76,
           "DOM": 35,
           "DZIAŁKA": 69
         },
-        "medianPrice": 308462,
-        "avgPrice": 597640,
-        "medianPricePerM2": 4362,
+        "medianPrice": 307181,
+        "avgPrice": 595314,
+        "medianPricePerM2": 4363,
         "avgDaysOnMarket": 152,
-        "medianDaysOnMarket": 56,
+        "medianDaysOnMarket": 57,
         "topCities": [
           {
             "city": "ROGOŹNO",
-            "count": 20
+            "count": 21
           },
           {
             "city": "WĄGROWIEC",
@@ -892,22 +892,22 @@
         "key": "2026-10-15",
         "start": "2026-10-02",
         "end": "2026-10-15",
-        "total": 774,
-        "sale": 774,
+        "total": 776,
+        "sale": 776,
         "byCategory": {
-          "MIESZKANIE": 278,
-          "DOM": 215,
-          "DZIAŁKA": 281
+          "MIESZKANIE": 281,
+          "DOM": 216,
+          "DZIAŁKA": 279
         },
         "medianPrice": 320000,
-        "avgPrice": 565886,
-        "medianPricePerM2": 2783,
-        "avgDaysOnMarket": 45,
-        "medianDaysOnMarket": 9,
+        "avgPrice": 565285,
+        "medianPricePerM2": 2819,
+        "avgDaysOnMarket": 44,
+        "medianDaysOnMarket": 8,
         "topCities": [
           {
             "city": "WĄGROWIEC",
-            "count": 373
+            "count": 375
           },
           {
             "city": "ROGOŹNO",
@@ -929,48 +929,48 @@
         "beforeTracking": false
       }
     ],
-    "totalOffers": 1528
+    "totalOffers": 1534
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 774,
+      "totalCompetitorOffers": 776,
       "comparison": [
+        {
+          "category": "MIESZKANIE",
+          "city": "WĄGROWIEC",
+          "ourCount": 11,
+          "competitorCount": 135,
+          "ourMedianPrice": 320000,
+          "competitorMedianPrice": 320000,
+          "priceDiffPct": 0,
+          "ourMedianPricePerM2": 7098,
+          "competitorMedianPricePerM2": 6335,
+          "pricePerM2DiffPct": 12
+        },
         {
           "category": "MIESZKANIE",
           "city": "ROGOŹNO",
           "ourCount": 10,
-          "competitorCount": 73,
+          "competitorCount": 74,
           "ourMedianPrice": 277500,
           "competitorMedianPrice": 299000,
           "priceDiffPct": -7.2,
           "ourMedianPricePerM2": 5455,
-          "competitorMedianPricePerM2": 5000,
-          "pricePerM2DiffPct": 9.1
-        },
-        {
-          "category": "MIESZKANIE",
-          "city": "WĄGROWIEC",
-          "ourCount": 10,
-          "competitorCount": 134,
-          "ourMedianPrice": 334500,
-          "competitorMedianPrice": 320249,
-          "priceDiffPct": 4.4,
-          "ourMedianPricePerM2": 7149,
-          "competitorMedianPricePerM2": 6372,
-          "pricePerM2DiffPct": 12.2
+          "competitorMedianPricePerM2": 5036,
+          "pricePerM2DiffPct": 8.3
         },
         {
           "category": "DOM",
           "city": "WĄGROWIEC",
           "ourCount": 7,
-          "competitorCount": 125,
+          "competitorCount": 126,
           "ourMedianPrice": 699000,
-          "competitorMedianPrice": 496000,
-          "priceDiffPct": 40.9,
+          "competitorMedianPrice": 493000,
+          "priceDiffPct": 41.8,
           "ourMedianPricePerM2": 5000,
-          "competitorMedianPricePerM2": 2756,
-          "pricePerM2DiffPct": 81.4
+          "competitorMedianPricePerM2": 2762,
+          "pricePerM2DiffPct": 81
         },
         {
           "category": "DOM",
@@ -1024,10 +1024,10 @@
           "category": "DZIAŁKA",
           "city": "ROGOŹNO",
           "ourCount": 2,
-          "competitorCount": 51,
+          "competitorCount": 50,
           "ourMedianPrice": 144674,
-          "competitorMedianPrice": 149000,
-          "priceDiffPct": -2.9,
+          "competitorMedianPrice": 149500,
+          "priceDiffPct": -3.2,
           "ourMedianPricePerM2": 69,
           "competitorMedianPricePerM2": 90,
           "pricePerM2DiffPct": -23.3
@@ -1135,19 +1135,19 @@
       "olx+otodom": 12,
       "nieruchomosci-online+olx": 2,
       "olx": 24,
-      "nieruchomosci-online": 579
+      "nieruchomosci-online": 581
     }
   },
   "competitorAgents": {
-    "total": 774,
-    "private": 43,
-    "unknown": 589,
-    "knownAgent": 142,
+    "total": 776,
+    "private": 42,
+    "unknown": 591,
+    "knownAgent": 143,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 38,
-        "totalValue": 15552291,
+        "count": 40,
+        "totalValue": 15764291,
         "isOurs": true
       },
       {
@@ -1164,20 +1164,20 @@
       },
       {
         "name": "PRO.DOM NIERUCHOMOŚCI",
-        "count": 9,
-        "totalValue": 12956000,
+        "count": 8,
+        "totalValue": 12807000,
         "isOurs": false
       },
       {
         "name": "Nieruchomości Furman oddz. Wągrowiec",
-        "count": 8,
-        "totalValue": 4405000,
+        "count": 7,
+        "totalValue": 4096000,
         "isOurs": false
       },
       {
         "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
-        "count": 6,
-        "totalValue": 10554000,
+        "count": 7,
+        "totalValue": 10814000,
         "isOurs": false
       },
       {
@@ -9860,6 +9860,65 @@
           "isOurs": false
         }
       ]
+    },
+    {
+      "date": "2026-10-07",
+      "total": 776,
+      "private": 42,
+      "unknown": 591,
+      "knownAgent": 143,
+      "topAgencies": [
+        {
+          "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "count": 40,
+          "isOurs": true
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 24,
+          "isOurs": false
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 12,
+          "isOurs": false
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 8,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 7,
+          "isOurs": false
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 7,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "GRACJAN-NIERUCHOMOŚCI",
+          "count": 4,
+          "isOurs": false
+        },
+        {
+          "name": "Senger&Partners Nieruchomosci",
+          "count": 3,
+          "isOurs": false
+        },
+        {
+          "name": "Heller Nieruchomości",
+          "count": 2,
+          "isOurs": false
+        }
+      ]
     }
   ],
   "timeSeries": [
@@ -10726,6 +10785,12 @@
       "total": 82,
       "added": 0,
       "removed": 0
+    },
+    {
+      "date": "2026-10-07",
+      "total": 83,
+      "added": 2,
+      "removed": 1
     }
   ],
   "segmentation": {
@@ -10739,9 +10804,9 @@
       },
       {
         "key": "MIESZKANIE",
-        "count": 26,
-        "avgPrice": 283366,
-        "medianPrice": 292000,
+        "count": 27,
+        "avgPrice": 282871,
+        "medianPrice": 299000,
         "avgPricePerM2": 6179
       },
       {
@@ -10769,10 +10834,10 @@
     "byCity": [
       {
         "key": "WĄGROWIEC",
-        "count": 20,
-        "avgPrice": 570497,
-        "medianPrice": 397000,
-        "avgPricePerM2": 5858
+        "count": 21,
+        "avgPrice": 557093,
+        "medianPrice": 355000,
+        "avgPricePerM2": 5873
       },
       {
         "key": "ROGOŹNO",
@@ -10924,8 +10989,8 @@
       {
         "key": "SZCZODROCHOWO",
         "count": 1,
-        "avgPrice": 279000,
-        "medianPrice": 279000,
+        "avgPrice": 260000,
+        "medianPrice": 260000,
         "avgPricePerM2": 4824
       },
       {
@@ -11023,9 +11088,9 @@
     "byRooms": [
       {
         "key": "3 pok.",
-        "count": 14,
-        "avgPrice": 341470,
-        "medianPrice": 315290,
+        "count": 15,
+        "avgPrice": 336705,
+        "medianPrice": 310580,
         "avgPricePerM2": 6167
       },
       {
@@ -11192,6 +11257,18 @@
       "diff": -40000,
       "diffPct": -7.5,
       "currentlyActive": false
+    },
+    {
+      "type": "price_changed",
+      "date": "2026-10-07",
+      "signature": "427/6093/OMS",
+      "title": "Mieszkanie 3-pokojowe z budynkiem gospodarczym",
+      "city": "SZCZODROCHOWO",
+      "from": 279000,
+      "to": 260000,
+      "diff": -19000,
+      "diffPct": -6.8,
+      "currentlyActive": true
     },
     {
       "type": "price_changed",
@@ -11491,7 +11568,7 @@
       "to": 549000,
       "diff": -3000,
       "diffPct": -0.5,
-      "currentlyActive": true
+      "currentlyActive": false
     },
     {
       "type": "price_changed",
@@ -11516,7 +11593,7 @@
       "listedAt": "2021-10-29",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 1803,
+      "daysOnMarket": 1804,
       "dataSource": "asari"
     },
     {
@@ -11528,7 +11605,7 @@
       "listedAt": "2023-07-05",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 1189,
+      "daysOnMarket": 1190,
       "dataSource": "asari"
     },
     {
@@ -11540,7 +11617,7 @@
       "listedAt": "2024-08-28",
       "lastModifiedAt": "2026-03-05",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 769,
+      "daysOnMarket": 770,
       "dataSource": "asari"
     },
     {
@@ -11552,7 +11629,7 @@
       "listedAt": "2024-09-26",
       "lastModifiedAt": "2026-09-17",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 740,
+      "daysOnMarket": 741,
       "dataSource": "asari"
     },
     {
@@ -11564,7 +11641,7 @@
       "listedAt": "2025-01-27",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 617,
+      "daysOnMarket": 618,
       "dataSource": "asari"
     },
     {
@@ -11576,7 +11653,7 @@
       "listedAt": "2025-04-22",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 532,
+      "daysOnMarket": 533,
       "dataSource": "asari"
     },
     {
@@ -11588,7 +11665,7 @@
       "listedAt": "2025-05-21",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 503,
+      "daysOnMarket": 504,
       "dataSource": "asari"
     },
     {
@@ -11600,7 +11677,7 @@
       "listedAt": "2025-05-21",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 503,
+      "daysOnMarket": 504,
       "dataSource": "asari"
     },
     {
@@ -11612,7 +11689,7 @@
       "listedAt": "2025-05-27",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 497,
+      "daysOnMarket": 498,
       "dataSource": "asari"
     },
     {
@@ -11624,7 +11701,7 @@
       "listedAt": "2025-07-17",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 446,
+      "daysOnMarket": 447,
       "dataSource": "asari"
     },
     {
@@ -11636,7 +11713,7 @@
       "listedAt": "2025-08-27",
       "lastModifiedAt": "2026-09-01",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 405,
+      "daysOnMarket": 406,
       "dataSource": "asari"
     },
     {
@@ -11648,7 +11725,7 @@
       "listedAt": "2025-10-03",
       "lastModifiedAt": "2026-04-10",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 368,
+      "daysOnMarket": 369,
       "dataSource": "asari"
     },
     {
@@ -11660,7 +11737,7 @@
       "listedAt": "2025-10-22",
       "lastModifiedAt": "2026-01-30",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 349,
+      "daysOnMarket": 350,
       "dataSource": "asari"
     },
     {
@@ -11672,7 +11749,7 @@
       "listedAt": "2025-10-24",
       "lastModifiedAt": "2026-07-16",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 347,
+      "daysOnMarket": 348,
       "dataSource": "asari"
     },
     {
@@ -11684,7 +11761,7 @@
       "listedAt": "2025-11-27",
       "lastModifiedAt": "2026-05-25",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 313,
+      "daysOnMarket": 314,
       "dataSource": "asari"
     },
     {
@@ -11696,7 +11773,7 @@
       "listedAt": "2026-01-12",
       "lastModifiedAt": "2026-03-06",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 267,
+      "daysOnMarket": 268,
       "dataSource": "asari"
     },
     {
@@ -11708,7 +11785,7 @@
       "listedAt": "2026-02-06",
       "lastModifiedAt": "2026-04-08",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 242,
+      "daysOnMarket": 243,
       "dataSource": "asari"
     },
     {
@@ -11720,7 +11797,7 @@
       "listedAt": "2026-03-10",
       "lastModifiedAt": "2026-03-10",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 210,
+      "daysOnMarket": 211,
       "dataSource": "asari"
     },
     {
@@ -11732,7 +11809,7 @@
       "listedAt": "2026-03-11",
       "lastModifiedAt": "2026-09-02",
       "firstSeenAt": "2026-03-24",
-      "daysOnMarket": 209,
+      "daysOnMarket": 210,
       "dataSource": "asari"
     },
     {
@@ -11744,7 +11821,7 @@
       "listedAt": "2026-03-30",
       "lastModifiedAt": "2026-08-28",
       "firstSeenAt": "2026-04-01",
-      "daysOnMarket": 190,
+      "daysOnMarket": 191,
       "dataSource": "asari"
     },
     {
@@ -11756,7 +11833,7 @@
       "listedAt": "2026-04-23",
       "lastModifiedAt": "2026-08-18",
       "firstSeenAt": "2026-05-20",
-      "daysOnMarket": 166,
+      "daysOnMarket": 167,
       "dataSource": "asari"
     },
     {
@@ -11768,7 +11845,7 @@
       "listedAt": "2026-04-24",
       "lastModifiedAt": "2026-08-20",
       "firstSeenAt": "2026-04-29",
-      "daysOnMarket": 165,
+      "daysOnMarket": 166,
       "dataSource": "asari"
     },
     {
@@ -11780,7 +11857,7 @@
       "listedAt": "2026-04-28",
       "lastModifiedAt": "2026-06-10",
       "firstSeenAt": "2026-04-28",
-      "daysOnMarket": 161,
+      "daysOnMarket": 162,
       "dataSource": "asari"
     },
     {
@@ -11792,7 +11869,7 @@
       "listedAt": "2026-04-29",
       "lastModifiedAt": "2026-06-08",
       "firstSeenAt": "2026-04-29",
-      "daysOnMarket": 160,
+      "daysOnMarket": 161,
       "dataSource": "asari"
     },
     {
@@ -11804,7 +11881,7 @@
       "listedAt": "2026-05-04",
       "lastModifiedAt": "2026-07-09",
       "firstSeenAt": "2026-05-05",
-      "daysOnMarket": 155,
+      "daysOnMarket": 156,
       "dataSource": "asari"
     },
     {
@@ -11816,7 +11893,7 @@
       "listedAt": "2026-05-06",
       "lastModifiedAt": "2026-08-31",
       "firstSeenAt": "2026-05-14",
-      "daysOnMarket": 153,
+      "daysOnMarket": 154,
       "dataSource": "asari"
     },
     {
@@ -11828,7 +11905,7 @@
       "listedAt": "2026-05-13",
       "lastModifiedAt": "2026-08-04",
       "firstSeenAt": "2026-08-04",
-      "daysOnMarket": 146,
+      "daysOnMarket": 147,
       "dataSource": "asari"
     },
     {
@@ -11840,7 +11917,7 @@
       "listedAt": "2026-05-20",
       "lastModifiedAt": "2026-07-08",
       "firstSeenAt": "2026-05-22",
-      "daysOnMarket": 139,
+      "daysOnMarket": 140,
       "dataSource": "asari"
     },
     {
@@ -11852,7 +11929,7 @@
       "listedAt": "2026-05-21",
       "lastModifiedAt": "2026-07-29",
       "firstSeenAt": "2026-05-26",
-      "daysOnMarket": 138,
+      "daysOnMarket": 139,
       "dataSource": "asari"
     },
     {
@@ -11864,7 +11941,7 @@
       "listedAt": "2026-05-27",
       "lastModifiedAt": "2026-09-14",
       "firstSeenAt": "2026-05-28",
-      "daysOnMarket": 132,
+      "daysOnMarket": 133,
       "dataSource": "asari"
     },
     {
@@ -11876,7 +11953,7 @@
       "listedAt": "2026-06-02",
       "lastModifiedAt": "2026-06-10",
       "firstSeenAt": "2026-06-10",
-      "daysOnMarket": 126,
+      "daysOnMarket": 127,
       "dataSource": "asari"
     },
     {
@@ -11888,7 +11965,7 @@
       "listedAt": "2026-06-03",
       "lastModifiedAt": "2026-08-07",
       "firstSeenAt": "2026-06-03",
-      "daysOnMarket": 125,
+      "daysOnMarket": 126,
       "dataSource": "asari"
     },
     {
@@ -11900,19 +11977,19 @@
       "listedAt": "2026-06-09",
       "lastModifiedAt": "2026-06-09",
       "firstSeenAt": "2026-06-09",
-      "daysOnMarket": 119,
+      "daysOnMarket": 120,
       "dataSource": "asari"
     },
     {
       "signature": "427/6093/OMS",
       "title": "Mieszkanie 3-pokojowe z budynkiem gospodarczym",
       "city": "SZCZODROCHOWO",
-      "pricePln": 279000,
+      "pricePln": 260000,
       "category": "MIESZKANIE",
       "listedAt": "2026-06-16",
-      "lastModifiedAt": "2026-08-04",
+      "lastModifiedAt": "2026-10-06",
       "firstSeenAt": "2026-06-16",
-      "daysOnMarket": 112,
+      "daysOnMarket": 113,
       "dataSource": "asari"
     },
     {
@@ -11924,7 +12001,7 @@
       "listedAt": "2026-06-17",
       "lastModifiedAt": "2026-06-22",
       "firstSeenAt": "2026-06-22",
-      "daysOnMarket": 111,
+      "daysOnMarket": 112,
       "dataSource": "asari"
     },
     {
@@ -11936,7 +12013,7 @@
       "listedAt": "2026-06-17",
       "lastModifiedAt": "2026-06-22",
       "firstSeenAt": "2026-06-22",
-      "daysOnMarket": 111,
+      "daysOnMarket": 112,
       "dataSource": "asari"
     },
     {
@@ -11948,7 +12025,7 @@
       "listedAt": "2026-06-17",
       "lastModifiedAt": "2026-09-10",
       "firstSeenAt": "2026-06-22",
-      "daysOnMarket": 111,
+      "daysOnMarket": 112,
       "dataSource": "asari"
     },
     {
@@ -11960,7 +12037,7 @@
       "listedAt": "2026-06-17",
       "lastModifiedAt": "2026-06-26",
       "firstSeenAt": "2026-06-26",
-      "daysOnMarket": 111,
+      "daysOnMarket": 112,
       "dataSource": "asari"
     },
     {
@@ -11972,7 +12049,7 @@
       "listedAt": "2026-06-18",
       "lastModifiedAt": "2026-07-15",
       "firstSeenAt": "2026-07-15",
-      "daysOnMarket": 110,
+      "daysOnMarket": 111,
       "dataSource": "asari"
     },
     {
@@ -11984,7 +12061,7 @@
       "listedAt": "2026-06-19",
       "lastModifiedAt": "2026-09-04",
       "firstSeenAt": "2026-06-19",
-      "daysOnMarket": 109,
+      "daysOnMarket": 110,
       "dataSource": "asari"
     },
     {
@@ -11996,7 +12073,7 @@
       "listedAt": "2026-06-22",
       "lastModifiedAt": "2026-07-09",
       "firstSeenAt": "2026-06-26",
-      "daysOnMarket": 106,
+      "daysOnMarket": 107,
       "dataSource": "asari"
     },
     {
@@ -12008,7 +12085,7 @@
       "listedAt": "2026-06-29",
       "lastModifiedAt": "2026-07-07",
       "firstSeenAt": "2026-06-30",
-      "daysOnMarket": 99,
+      "daysOnMarket": 100,
       "dataSource": "asari"
     },
     {
@@ -12020,7 +12097,7 @@
       "listedAt": "2026-07-01",
       "lastModifiedAt": "2026-07-08",
       "firstSeenAt": "2026-07-02",
-      "daysOnMarket": 97,
+      "daysOnMarket": 98,
       "dataSource": "asari"
     },
     {
@@ -12032,7 +12109,7 @@
       "listedAt": "2026-07-02",
       "lastModifiedAt": "2026-10-05",
       "firstSeenAt": "2026-07-02",
-      "daysOnMarket": 96,
+      "daysOnMarket": 97,
       "dataSource": "asari"
     },
     {
@@ -12044,7 +12121,7 @@
       "listedAt": "2026-07-07",
       "lastModifiedAt": "2026-07-11",
       "firstSeenAt": "2026-07-10",
-      "daysOnMarket": 91,
+      "daysOnMarket": 92,
       "dataSource": "asari"
     },
     {
@@ -12056,7 +12133,7 @@
       "listedAt": "2026-07-14",
       "lastModifiedAt": "2026-07-29",
       "firstSeenAt": "2026-07-29",
-      "daysOnMarket": 84,
+      "daysOnMarket": 85,
       "dataSource": "asari"
     },
     {
@@ -12068,7 +12145,7 @@
       "listedAt": "2026-07-15",
       "lastModifiedAt": "2026-08-13",
       "firstSeenAt": "2026-08-13",
-      "daysOnMarket": 83,
+      "daysOnMarket": 84,
       "dataSource": "asari"
     },
     {
@@ -12080,7 +12157,7 @@
       "listedAt": "2026-07-17",
       "lastModifiedAt": "2026-09-08",
       "firstSeenAt": "2026-07-17",
-      "daysOnMarket": 81,
+      "daysOnMarket": 82,
       "dataSource": "asari"
     },
     {
@@ -12092,7 +12169,7 @@
       "listedAt": "2026-07-17",
       "lastModifiedAt": "2026-09-23",
       "firstSeenAt": "2026-07-22",
-      "daysOnMarket": 81,
+      "daysOnMarket": 82,
       "dataSource": "asari"
     },
     {
@@ -12104,7 +12181,7 @@
       "listedAt": "2026-07-22",
       "lastModifiedAt": "2026-07-23",
       "firstSeenAt": "2026-07-22",
-      "daysOnMarket": 76,
+      "daysOnMarket": 77,
       "dataSource": "asari"
     }
   ],
@@ -12120,13 +12197,13 @@
         "label": "8–30 dni",
         "min": 8,
         "max": 30,
-        "count": 11
+        "count": 13
       },
       {
         "label": "31–90 dni",
         "min": 31,
         "max": 90,
-        "count": 23
+        "count": 22
       },
       {
         "label": "91–180 dni",
@@ -12141,30 +12218,30 @@
         "count": 20
       }
     ],
-    "avgDaysOnMarket": 184,
-    "medianDaysOnMarket": 103,
-    "avgDaysToRemoval": 124,
-    "totalRemoved": 66
+    "avgDaysOnMarket": 182,
+    "medianDaysOnMarket": 100,
+    "avgDaysToRemoval": 123,
+    "totalRemoved": 67
   },
   "agents": [
     {
       "name": "Danuta Majchrzak",
-      "activeOffers": 82,
-      "avgActivePrice": 420274,
-      "medianActivePrice": 304500,
-      "totalActiveValue": 34462440,
-      "removedOffers": 66,
-      "avgDaysToRemoval": 124
+      "activeOffers": 83,
+      "avgActivePrice": 418463,
+      "medianActivePrice": 299000,
+      "totalActiveValue": 34732440,
+      "removedOffers": 67,
+      "avgDaysToRemoval": 123
     }
   ],
   "geo": {
     "byCity": [
       {
         "key": "WĄGROWIEC",
-        "count": 20,
-        "avgPrice": 570497,
-        "medianPrice": 397000,
-        "avgPricePerM2": 5858
+        "count": 21,
+        "avgPrice": 557093,
+        "medianPrice": 355000,
+        "avgPricePerM2": 5873
       },
       {
         "key": "ROGOŹNO",
@@ -12316,8 +12393,8 @@
       {
         "key": "SZCZODROCHOWO",
         "count": 1,
-        "avgPrice": 279000,
-        "medianPrice": 279000,
+        "avgPrice": 260000,
+        "medianPrice": 260000,
         "avgPricePerM2": 4824
       },
       {
@@ -12533,13 +12610,6 @@
         "avgPricePerM2": 6600
       },
       {
-        "key": "Nad Nielbą (WĄGROWIEC)",
-        "count": 1,
-        "avgPrice": 549000,
-        "medianPrice": 549000,
-        "avgPricePerM2": 9349
-      },
-      {
         "key": "Taszarowska (WĄGROWIEC)",
         "count": 1,
         "avgPrice": 255000,
@@ -12671,10 +12741,52 @@
         "avgPrice": 215000,
         "medianPrice": 215000,
         "avgPricePerM2": 6324
+      },
+      {
+        "key": "Nad Nielbą (WĄGROWIEC)",
+        "count": 1,
+        "avgPrice": 539000,
+        "medianPrice": 539000,
+        "avgPricePerM2": 9179
+      },
+      {
+        "key": "Libelta (WĄGROWIEC)",
+        "count": 1,
+        "avgPrice": 299000,
+        "medianPrice": 299000,
+        "avgPricePerM2": 6335
       }
     ]
   },
   "recentEvents": [
+    {
+      "type": "price_changed",
+      "date": "2026-10-07",
+      "signature": "427/6093/OMS",
+      "title": "Mieszkanie 3-pokojowe z budynkiem gospodarczym",
+      "city": "SZCZODROCHOWO",
+      "from": 279000,
+      "to": 260000,
+      "diff": -19000,
+      "diffPct": -6.8
+    },
+    {
+      "type": "offer_added",
+      "date": "2026-10-07",
+      "effectiveDate": "2026-10-06",
+      "isBootstrap": false,
+      "signature": "462/6093/OMS",
+      "title": "Wyjątkowe mieszkanie Nad Nielbą w Wągrowcu",
+      "city": "WĄGROWIEC",
+      "category": "MIESZKANIE",
+      "transaction": "SPRZEDAŻ",
+      "pricePln": 539000,
+      "areaM2": 58.72,
+      "rooms": 3,
+      "agentName": "Danuta Majchrzak",
+      "listedAt": "2026-10-06",
+      "firstSeenAt": "2026-10-06"
+    },
     {
       "type": "offer_added",
       "date": "2026-10-05",
@@ -12691,6 +12803,23 @@
       "agentName": "Danuta Majchrzak",
       "listedAt": "2026-10-05",
       "firstSeenAt": "2026-10-05"
+    },
+    {
+      "type": "offer_added",
+      "date": "2026-10-07",
+      "effectiveDate": "2026-10-01",
+      "isBootstrap": false,
+      "signature": "460/6093/OMS",
+      "title": "Przyjemne 3 pokoje na Libelta - II piętro z balkonem",
+      "city": "WĄGROWIEC",
+      "category": "MIESZKANIE",
+      "transaction": "SPRZEDAŻ",
+      "pricePln": 299000,
+      "areaM2": 47.2,
+      "rooms": 3,
+      "agentName": "Danuta Majchrzak",
+      "listedAt": "2026-10-01",
+      "firstSeenAt": "2026-10-06"
     },
     {
       "type": "area_changed",
@@ -13012,6 +13141,6 @@
       "diffPct": -4.6
     }
   ],
-  "totalEventsLogged": 481,
+  "totalEventsLogged": 485,
   "bootstrapEvents": 283
 }
