@@ -85,7 +85,7 @@
   },
   "maciej-dunajski": {
     "agencyName": "VanDer Haus Nieruchomości",
-    "fetchedAt": "2026-06-28T08:43:55.264Z"
+    "fetchedAt": "2026-10-11T11:37:59.836Z"
   },
   "joanna-wojtkowska": {
     "agencyName": "Goldberger Nieruchomości",
@@ -134,5 +134,9 @@
   "oliwia-lapacz": {
     "agencyName": "CZAS NIERUCHOMOŚCI",
     "fetchedAt": "2026-09-13T08:40:59.343Z"
+  },
+  "szymon-mlodzik-2": {
+    "agencyName": "BROKZ Nieruchomości",
+    "fetchedAt": "2026-10-11T10:58:27.525Z"
   }
 }
