@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:51:28.957Z",
+  "generatedAt": "2026-11-08T11:14:18.073Z",
   "kpi": {
     "date": "2026-11-08",
     "totalOffers": 81,
@@ -1051,8 +1051,8 @@
         "medianPrice": 334721,
         "avgPrice": 564591,
         "medianPricePerM2": 3020,
-        "avgDaysOnMarket": 40,
-        "medianDaysOnMarket": 5,
+        "avgDaysOnMarket": 39,
+        "medianDaysOnMarket": 4,
         "topCities": [
           {
             "city": "WĄGROWIEC",
@@ -1289,20 +1289,48 @@
   },
   "competitorAgents": {
     "total": 767,
-    "private": 35,
-    "unknown": 594,
-    "knownAgent": 138,
+    "private": 59,
+    "unknown": 459,
+    "knownAgent": 249,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 38,
-        "totalValue": 16372291,
-        "isOurs": true
+        "count": 57,
+        "totalValue": 24252411,
+        "isOurs": true,
+        "variants": [
+          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "DAN - DOM Danuta Majchrzak"
+        ]
+      },
+      {
+        "name": "Nieruchomości Tectum",
+        "count": 30,
+        "totalValue": 14804311,
+        "isOurs": false
       },
       {
         "name": "Phinance S.A.",
         "count": 22,
         "totalValue": 7336360,
+        "isOurs": false
+      },
+      {
+        "name": "Phinance Nieruchomości",
+        "count": 18,
+        "totalValue": 5964334,
+        "isOurs": false
+      },
+      {
+        "name": "FWK Nieruchomości",
+        "count": 15,
+        "totalValue": 7679725,
+        "isOurs": false
+      },
+      {
+        "name": "Nieruchomości - FURMAN",
+        "count": 11,
+        "totalValue": 4929900,
         "isOurs": false
       },
       {
@@ -1312,15 +1340,15 @@
         "isOurs": false
       },
       {
-        "name": "SOHO Nieruchomości Katarzyna Wajnert",
+        "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
         "count": 8,
-        "totalValue": 2475000,
+        "totalValue": 2213000,
         "isOurs": false
       },
       {
-        "name": "Nieruchomości Tectum",
-        "count": 7,
-        "totalValue": 2812720,
+        "name": "SOHO Nieruchomości Katarzyna Wajnert",
+        "count": 8,
+        "totalValue": 2475000,
         "isOurs": false
       },
       {
@@ -1330,15 +1358,21 @@
         "isOurs": false
       },
       {
-        "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
-        "count": 6,
-        "totalValue": 1953000,
-        "isOurs": false
-      },
-      {
         "name": "Nieruchomości Apartament Piła",
         "count": 5,
         "totalValue": 3662330,
+        "isOurs": false
+      },
+      {
+        "name": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
+        "count": 5,
+        "totalValue": 5739000,
+        "isOurs": false
+      },
+      {
+        "name": "Metrohouse Poznań",
+        "count": 4,
+        "totalValue": 8040810,
         "isOurs": false
       },
       {
@@ -1351,6 +1385,24 @@
         "name": "Senger&Partners Nieruchomosci",
         "count": 3,
         "totalValue": 799555,
+        "isOurs": false
+      },
+      {
+        "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
+        "count": 3,
+        "totalValue": 600300,
+        "isOurs": false
+      },
+      {
+        "name": "MUVON Nieruchomości",
+        "count": 2,
+        "totalValue": 398000,
+        "isOurs": false
+      },
+      {
+        "name": "Shark Nieruchomości",
+        "count": 2,
+        "totalValue": 2240000,
         "isOurs": false
       },
       {
@@ -1384,21 +1436,15 @@
         "isOurs": false
       },
       {
+        "name": "PGN POLSKA",
+        "count": 2,
+        "totalValue": 2244000,
+        "isOurs": false
+      },
+      {
         "name": "Jack-Bud Polska Sp. z o.o. Sp.k.",
         "count": 1,
         "totalValue": 360422,
-        "isOurs": false
-      },
-      {
-        "name": "MUVON Nieruchomości",
-        "count": 1,
-        "totalValue": 199000,
-        "isOurs": false
-      },
-      {
-        "name": "Shark Nieruchomości",
-        "count": 1,
-        "totalValue": 1120000,
         "isOurs": false
       },
       {
@@ -1507,6 +1553,48 @@
         "name": "Handom Nieruchomości",
         "count": 1,
         "totalValue": 117900,
+        "isOurs": false
+      },
+      {
+        "name": "BROKZ Nieruchomości",
+        "count": 1,
+        "totalValue": 780000,
+        "isOurs": false
+      },
+      {
+        "name": "Partners International",
+        "count": 1,
+        "totalValue": 699000,
+        "isOurs": false
+      },
+      {
+        "name": "Choiński Kroll Nieruchomości",
+        "count": 1,
+        "totalValue": 780000,
+        "isOurs": false
+      },
+      {
+        "name": "CZAS NIERUCHOMOŚCI",
+        "count": 1,
+        "totalValue": 170000,
+        "isOurs": false
+      },
+      {
+        "name": "BON WINOGRADY",
+        "count": 1,
+        "totalValue": 225000,
+        "isOurs": false
+      },
+      {
+        "name": "Bylewscy Nieruchomości",
+        "count": 1,
+        "totalValue": 349000,
+        "isOurs": false
+      },
+      {
+        "name": "VanDer Haus Nieruchomości",
+        "count": 1,
+        "totalValue": 165000,
         "isOurs": false
       }
     ]
@@ -11900,6 +11988,65 @@
         {
           "name": "Senger&Partners Nieruchomosci",
           "count": 3,
+          "isOurs": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "total": 767,
+      "private": 59,
+      "unknown": 459,
+      "knownAgent": 249,
+      "topAgencies": [
+        {
+          "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
+          "count": 57,
+          "isOurs": true
+        },
+        {
+          "name": "Nieruchomości Tectum",
+          "count": 30,
+          "isOurs": false
+        },
+        {
+          "name": "Phinance S.A.",
+          "count": 22,
+          "isOurs": false
+        },
+        {
+          "name": "Phinance Nieruchomości",
+          "count": 18,
+          "isOurs": false
+        },
+        {
+          "name": "FWK Nieruchomości",
+          "count": 15,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości - FURMAN",
+          "count": 11,
+          "isOurs": false
+        },
+        {
+          "name": "PRO.DOM NIERUCHOMOŚCI",
+          "count": 9,
+          "isOurs": false
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 8,
+          "isOurs": false
+        },
+        {
+          "name": "SOHO Nieruchomości Katarzyna Wajnert",
+          "count": 8,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Furman oddz. Wągrowiec",
+          "count": 6,
           "isOurs": false
         }
       ]
