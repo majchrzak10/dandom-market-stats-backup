@@ -97,7 +97,7 @@
   },
   "bartosz-borzymowski": {
     "agencyName": "Partners International",
-    "fetchedAt": "2026-08-02T06:45:09.037Z"
+    "fetchedAt": "2026-11-15T12:08:00.034Z"
   },
   "sara-srama": {
     "agencyName": "INVEST DOM",
@@ -138,5 +138,9 @@
   "szymon-mlodzik-2": {
     "agencyName": "BROKZ Nieruchomości",
     "fetchedAt": "2026-10-11T10:44:10.495Z"
+  },
+  "filip-berger-2": {
+    "agencyName": "Goldberger Nieruchomości",
+    "fetchedAt": "2026-11-15T11:54:32.780Z"
   }
 }
