@@ -57,7 +57,7 @@
       "street": "Kościuszki",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/27025799.html"
     },
@@ -76,7 +76,7 @@
       "street": "Jeżyka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-oddzielna-kuchnia/27036639.html"
     },
@@ -95,7 +95,7 @@
       "street": "Powstańców Wlkp.",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,wysoki-standard/26887982.html"
     },
@@ -114,7 +114,7 @@
       "street": "Bydgoska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/26851588.html"
     },
@@ -133,7 +133,7 @@
       "street": "Gnieźnieńska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/26980287.html"
     },
@@ -152,7 +152,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26931999.html"
     },
@@ -208,7 +208,7 @@
       "city": "Wągrowiec",
       "street": "Osiedle Kolejowe",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,nad-jeziorem/27132227.html"
@@ -228,7 +228,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,deweloperski/26932000.html"
     },
@@ -247,7 +247,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/26931988.html"
     },
@@ -266,7 +266,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,deweloperski/26932002.html"
     },
@@ -304,7 +304,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26443541.html"
     },
@@ -323,7 +323,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,deweloperski/26931996.html"
     },
@@ -342,7 +342,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/25447858.html"
     },
@@ -361,7 +361,7 @@
       "street": "Nad Nielbą",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Goldberger Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,wysoki-standard/26781094.html"
     },
@@ -380,7 +380,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26931993.html"
     },
@@ -399,7 +399,7 @@
       "street": "Średnia",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26990926.html"
     },
@@ -418,7 +418,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26924407.html"
     },
@@ -437,7 +437,7 @@
       "street": "Klasztorna",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/27045794.html"
     },
@@ -456,7 +456,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26932003.html"
     },
@@ -475,7 +475,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26931997.html"
     },
@@ -513,7 +513,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/25512613.html"
     },
@@ -551,7 +551,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26931995.html"
     },
@@ -608,7 +608,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-apartamentowcu,deweloperski/26931984.html"
     },
@@ -627,7 +627,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26931991.html"
     },
@@ -665,7 +665,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/26931998.html"
     },
@@ -684,7 +684,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/26931990.html"
     },
@@ -722,7 +722,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26931985.html"
     },
@@ -741,7 +741,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26931983.html"
     },
@@ -760,7 +760,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26931992.html"
     },
@@ -779,7 +779,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26868192.html"
     },
@@ -798,7 +798,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,deweloperski/26931986.html"
     },
@@ -817,7 +817,7 @@
       "street": "Libelta",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26116364.html"
     },
@@ -836,7 +836,7 @@
       "street": "Reja",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "MUVON Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,przy-lesie/26211766.html"
     },
@@ -855,7 +855,7 @@
       "street": "Bobrownicka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-oddzielna-kuchnia/26437467.html"
     },
@@ -874,7 +874,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26931994.html"
     },
@@ -912,7 +912,7 @@
       "street": "Libelta",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-oddzielna-kuchnia/27022550.html"
     },
@@ -931,7 +931,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie-w-apartamentowcu,deweloperski/26932001.html"
     },
@@ -950,7 +950,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m2,z-aneksem-kuchennym/26931987.html"
     },
@@ -988,7 +988,7 @@
       "street": "Grunwaldzka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Phinance Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-aneksem-kuchennym/26931989.html"
     },
@@ -1025,7 +1025,7 @@
       "city": "Wągrowiec",
       "street": "Mikołajczyka",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,z-oddzielna-kuchnia/27034721.html"
@@ -1063,7 +1063,7 @@
       "city": "Wągrowiec",
       "street": "Wegnera",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-aneksem-kuchennym/27044192.html"
@@ -1158,7 +1158,7 @@
       "city": "Wągrowiec",
       "street": "Bobrownicka",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/mieszkanie,m3,z-kuchnia-z-oknem/26798738.html"
@@ -2945,7 +2945,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26853870.html"
     },
@@ -2964,7 +2964,7 @@
       "street": "Wierzbowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-garazem/27137311.html"
     },
@@ -3002,7 +3002,7 @@
       "street": "Kcyńska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/27132372.html"
     },
@@ -3020,7 +3020,7 @@
       "city": "Wągrowiec",
       "street": "Gnieźnieńska",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,wysoki-standard/26955857.html"
@@ -3059,7 +3059,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/25264828.html"
     },
@@ -3097,7 +3097,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Shark Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,wysoki-standard/27013743.html"
     },
@@ -3116,7 +3116,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26942071.html"
     },
@@ -3135,7 +3135,7 @@
       "street": "Skrajna",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26969144.html"
     },
@@ -3154,7 +3154,7 @@
       "street": "Kraszewskiego",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26493578.html"
     },
@@ -3173,7 +3173,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "PGN POLSKA",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26968373.html"
     },
@@ -3230,7 +3230,7 @@
       "street": "Dębińska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/27035509.html"
     },
@@ -3268,7 +3268,7 @@
       "street": "Dębińska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/27035510.html"
     },
@@ -3287,7 +3287,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/25594767.html"
     },
@@ -3325,7 +3325,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26118566.html"
     },
@@ -3363,7 +3363,7 @@
       "street": "Leszczynowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26636035.html"
     },
@@ -3382,7 +3382,7 @@
       "street": "Kraszewskiego",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26926209.html"
     },
@@ -3401,7 +3401,7 @@
       "street": "Straszewska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26118551.html"
     },
@@ -3420,7 +3420,7 @@
       "street": "Kasprowicza",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom,na-sprzedaz/26914132.html"
     },
@@ -3477,7 +3477,7 @@
       "street": "Wierzbowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,do-remontu/27022394.html"
     },
@@ -3515,7 +3515,7 @@
       "street": "Ustronie",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dom-wolnostojacy,nad-jeziorem/26368795.html"
     },
@@ -3572,7 +3572,7 @@
       "street": "Tuwima",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26995451.html"
     },
@@ -3591,7 +3591,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
       "dateCreated": null,
       "href": "https://czekanowo.nieruchomosci-online.pl/dom-wolnostojacy,z-balkonem/26950102.html"
     },
@@ -3629,7 +3629,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://krosno.nieruchomosci-online.pl/dom-wolnostojacy,z-balkonem/27139745.html"
     },
@@ -3666,7 +3666,7 @@
       "city": "Kobylec",
       "street": "",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://kobylec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/27125440.html"
@@ -3724,7 +3724,7 @@
       "street": "Orzechowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Partners International",
       "dateCreated": null,
       "href": "https://kobylec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26867032.html"
     },
@@ -3762,7 +3762,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://ochodza.nieruchomosci-online.pl/dom,na-sprzedaz/26118558.html"
     },
@@ -3781,7 +3781,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
       "dateCreated": null,
       "href": "https://wiatrowiec.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/26997958.html"
     },
@@ -3819,7 +3819,7 @@
       "street": "Winogronowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://kobylec.nieruchomosci-online.pl/dom,na-sprzedaz/26675608.html"
     },
@@ -3876,7 +3876,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://kaliska.nieruchomosci-online.pl/dom,na-sprzedaz/27114510.html"
     },
@@ -3914,7 +3914,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://ochodza.nieruchomosci-online.pl/umeblowany,dom-wolnostojacy/27114639.html"
     },
@@ -5928,7 +5928,7 @@
       "street": "Berdychowska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,pusta/26403057.html"
     },
@@ -5966,7 +5966,7 @@
       "street": "Kukułcza",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,pusta/26242237.html"
     },
@@ -5985,7 +5985,7 @@
       "street": "Rogozińska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,pusta/26886714.html"
     },
@@ -6042,7 +6042,7 @@
       "street": "Berdychowska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26625379.html"
     },
@@ -6061,7 +6061,7 @@
       "street": "Gnieźnieńska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,nad-jeziorem/27018083.html"
     },
@@ -6099,7 +6099,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://wagrowiec.nieruchomosci-online.pl/dzialka,budowlana,pusta/26389961.html"
     },
@@ -6156,7 +6156,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "CZAS NIERUCHOMOŚCI",
       "dateCreated": null,
       "href": "https://ochodza.nieruchomosci-online.pl/dzialka,na-sprzedaz/26946927.html"
     },
@@ -6175,7 +6175,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://przysieczyn.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/26562971.html"
     },
@@ -6213,7 +6213,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://laziska.nieruchomosci-online.pl/dzialka,pusta/27119365.html"
     },
@@ -6251,7 +6251,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://rgielsko.nieruchomosci-online.pl/dzialka,przy-lesie/27110396.html"
     },
@@ -6289,7 +6289,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
       "dateCreated": null,
       "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,na-sprzedaz/26682835.html"
     },
@@ -6308,7 +6308,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://laziska.nieruchomosci-online.pl/dzialka,budowlana,ogrodzona/25989217.html"
     },
@@ -6327,7 +6327,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://rgielsko.nieruchomosci-online.pl/dzialka,przy-lesie/27110374.html"
     },
@@ -6346,7 +6346,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://kaliska.nieruchomosci-online.pl/dzialka,na-sprzedaz/25861231.html"
     },
@@ -6384,7 +6384,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,pusta/25647408.html"
     },
@@ -6403,7 +6403,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://kobylec.nieruchomosci-online.pl/dzialka,na-sprzedaz/26457410.html"
     },
@@ -6422,7 +6422,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://legowo.nieruchomosci-online.pl/dzialka,na-sprzedaz/26741218.html"
     },
@@ -6441,7 +6441,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
       "dateCreated": null,
       "href": "https://bartodzieje.nieruchomosci-online.pl/dzialka,nad-jeziorem/25645253.html"
     },
@@ -6498,7 +6498,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://legowo.nieruchomosci-online.pl/dzialka,inwestycyjna,pusta/26075085.html"
     },
@@ -6555,7 +6555,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://kaliska.nieruchomosci-online.pl/dzialka,pusta/26924760.html"
     },
@@ -6574,7 +6574,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://przysieczyn.nieruchomosci-online.pl/dzialka,budowlana,pusta/26562972.html"
     },
@@ -6611,7 +6611,7 @@
       "city": "Tarnowo Pałuckie",
       "street": "",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://tarnowo-paluckie.nieruchomosci-online.pl/dzialka,na-sprzedaz/26949480.html"
@@ -6631,7 +6631,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://dluga-wies.nieruchomosci-online.pl/dzialka,na-sprzedaz/26546473.html"
     },
@@ -8549,7 +8549,7 @@
       "city": "Rogoźno",
       "street": "Seminarialna 36",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/nowe-mieszkanie,osiedle-nowe-rogozno/27012292.html"
@@ -8607,7 +8607,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,kawalerka,przy-lesie/27139296.html"
     },
@@ -8664,7 +8664,7 @@
       "street": "Seminarialna",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,nad-jeziorem/26918280.html"
     },
@@ -8701,7 +8701,7 @@
       "city": "Rogoźno",
       "street": "Seminarialna",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26794853.html"
@@ -8721,7 +8721,7 @@
       "street": "Wielka Poznańska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,na-sprzedaz/26509355.html"
     },
@@ -8740,7 +8740,7 @@
       "street": "Kościuszki",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie-w-bloku-mieszkalnym,nad-jeziorem/27019121.html"
     },
@@ -8854,7 +8854,7 @@
       "street": "Kotlarska",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,z-kuchnia-z-oknem/27048582.html"
     },
@@ -8892,7 +8892,7 @@
       "street": "Wojska Polskiego",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/mieszkanie,z-oddzielna-kuchnia/26840282.html"
     },
@@ -9880,7 +9880,7 @@
       "street": "Krzyżaniaka",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dom,na-sprzedaz/26829195.html"
     },
@@ -9899,7 +9899,7 @@
       "street": "Brzozowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dom,na-sprzedaz/27052430.html"
     },
@@ -9956,7 +9956,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dom-wolnostojacy,surowy-otwarty/26924293.html"
     },
@@ -9975,7 +9975,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
       "dateCreated": null,
       "href": "https://gosciejewo.nieruchomosci-online.pl/dom-wolnostojacy,z-parkingiem/26829690.html"
     },
@@ -10032,7 +10032,7 @@
       "street": "Świerkowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://owczeglowy.nieruchomosci-online.pl/dom,na-sprzedaz/26994544.html"
     },
@@ -10051,7 +10051,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
       "dateCreated": null,
       "href": "https://marlewo.nieruchomosci-online.pl/dom,na-sprzedaz/26610140.html"
     },
@@ -10658,7 +10658,7 @@
       "city": "Rogoźno",
       "street": "Brzozowa",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,budowlana,nad-jeziorem/27044675.html"
@@ -10678,7 +10678,7 @@
       "street": "Łąkowa",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości Tectum",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,pusta/26643007.html"
     },
@@ -10735,7 +10735,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,budowlana,przy-lesie/26924675.html"
     },
@@ -10773,7 +10773,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "BON WINOGRADY",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,na-sprzedaz/25716858.html"
     },
@@ -10811,7 +10811,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://rogozno.nieruchomosci-online.pl/dzialka,pusta/22736839.html"
     },
@@ -10829,7 +10829,7 @@
       "city": "Owczegłowy",
       "street": "Harcerska",
       "province": "wielkopolskie",
-      "isPrivate": false,
+      "isPrivate": true,
       "agencyName": null,
       "dateCreated": null,
       "href": "https://owczeglowy.nieruchomosci-online.pl/dzialka,przy-lesie/27142182.html"
@@ -10849,7 +10849,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://grudna.nieruchomosci-online.pl/dzialka,przy-lesie/26013531.html"
     },
@@ -10925,7 +10925,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Metrohouse Poznań",
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826585.html"
     },
@@ -10944,7 +10944,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Nieruchomości - FURMAN",
       "dateCreated": null,
       "href": "https://sierniki.nieruchomosci-online.pl/dzialka,nad-jeziorem/27122690.html"
     },
@@ -10963,7 +10963,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://garbatka.nieruchomosci-online.pl/dzialka,pusta/26840190.html"
     },
@@ -10982,7 +10982,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Bylewscy Nieruchomości",
       "dateCreated": null,
       "href": "https://grudna.nieruchomosci-online.pl/dzialka,budowlana,przy-lesie/26918440.html"
     },
@@ -11020,7 +11020,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
       "dateCreated": null,
       "href": "https://boguniewo.nieruchomosci-online.pl/dzialka,przy-lesie/26765902.html"
     },
@@ -11077,7 +11077,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://dziewcza-struga.nieruchomosci-online.pl/dzialka,inwestycyjna,przy-lesie/26277855.html"
     },
@@ -11115,7 +11115,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "DAN - DOM Danuta Majchrzak",
       "dateCreated": null,
       "href": "https://garbatka.nieruchomosci-online.pl/dzialka,inwestycyjna,ogrodzona/23030356.html"
     },
@@ -11153,7 +11153,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Metrohouse Poznań",
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,na-sprzedaz/24826718.html"
     },
@@ -11172,7 +11172,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "VanDer Haus Nieruchomości",
       "dateCreated": null,
       "href": "https://grudna.nieruchomosci-online.pl/dzialka,na-sprzedaz/26648304.html"
     },
@@ -11210,7 +11210,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Metrohouse Poznań",
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,nad-jeziorem/24826584.html"
     },
@@ -11324,7 +11324,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Metrohouse Poznań",
       "dateCreated": null,
       "href": "https://miedzylesie.nieruchomosci-online.pl/dzialka,na-sprzedaz/24826408.html"
     },
@@ -11343,7 +11343,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
       "dateCreated": null,
       "href": "https://boguniewo.nieruchomosci-online.pl/dzialka,budowlana,nad-jeziorem/26765903.html"
     },
@@ -11381,7 +11381,7 @@
       "street": "",
       "province": "wielkopolskie",
       "isPrivate": false,
-      "agencyName": null,
+      "agencyName": "FWK Nieruchomości",
       "dateCreated": null,
       "href": "https://welna.nieruchomosci-online.pl/dzialka,przy-lesie/26428527.html"
     },
