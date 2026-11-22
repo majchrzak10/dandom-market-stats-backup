@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:25:46.716Z",
+  "generatedAt": "2026-11-22T14:46:22.633Z",
   "kpi": {
     "date": "2026-11-22",
     "totalOffers": 77,
@@ -1111,17 +1111,17 @@
         "key": "2026-11-26",
         "start": "2026-11-13",
         "end": "2026-11-26",
-        "total": 762,
-        "sale": 762,
+        "total": 763,
+        "sale": 763,
         "byCategory": {
-          "MIESZKANIE": 274,
+          "MIESZKANIE": 275,
           "DOM": 228,
           "DZIAŁKA": 260
         },
         "medianPrice": 335000,
-        "avgPrice": 533188,
-        "medianPricePerM2": 3085,
-        "avgDaysOnMarket": 43,
+        "avgPrice": 533077,
+        "medianPricePerM2": 3114,
+        "avgDaysOnMarket": 42,
         "medianDaysOnMarket": 4,
         "topCities": [
           {
@@ -1130,7 +1130,7 @@
           },
           {
             "city": "ROGOŹNO",
-            "count": 155
+            "count": 156
           },
           {
             "city": "KOBYLEC",
@@ -1148,12 +1148,12 @@
         "beforeTracking": false
       }
     ],
-    "totalOffers": 1709
+    "totalOffers": 1711
   },
   "benchmark": {
     "competitor": {
       "source": "konkurencja",
-      "totalCompetitorOffers": 762,
+      "totalCompetitorOffers": 763,
       "comparison": [
         {
           "category": "MIESZKANIE",
@@ -1183,7 +1183,7 @@
           "category": "MIESZKANIE",
           "city": "ROGOŹNO",
           "ourCount": 8,
-          "competitorCount": 72,
+          "competitorCount": 73,
           "ourMedianPrice": 292000,
           "competitorMedianPrice": 299000,
           "priceDiffPct": -2.3,
@@ -1362,57 +1362,29 @@
       ]
     },
     "sourceCounts": {
-      "otodom": 120,
-      "olx+otodom": 24,
-      "olx": 30,
-      "nieruchomosci-online+olx": 3,
-      "nieruchomosci-online": 585
+      "otodom": 124,
+      "olx+otodom": 20,
+      "olx": 31,
+      "nieruchomosci-online+olx": 2,
+      "nieruchomosci-online": 586
     }
   },
   "competitorAgents": {
-    "total": 762,
-    "private": 49,
-    "unknown": 475,
-    "knownAgent": 238,
+    "total": 763,
+    "private": 39,
+    "unknown": 598,
+    "knownAgent": 126,
     "byAgency": [
       {
         "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-        "count": 48,
-        "totalValue": 18387064,
-        "isOurs": true,
-        "variants": [
-          "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "DAN - DOM Danuta Majchrzak"
-        ]
-      },
-      {
-        "name": "Nieruchomości Tectum",
-        "count": 32,
-        "totalValue": 17107011,
-        "isOurs": false
+        "count": 30,
+        "totalValue": 10996944,
+        "isOurs": true
       },
       {
         "name": "Phinance S.A.",
         "count": 22,
         "totalValue": 7336360,
-        "isOurs": false
-      },
-      {
-        "name": "Phinance Nieruchomości",
-        "count": 18,
-        "totalValue": 5966904,
-        "isOurs": false
-      },
-      {
-        "name": "FWK Nieruchomości",
-        "count": 15,
-        "totalValue": 7254725,
-        "isOurs": false
-      },
-      {
-        "name": "Nieruchomości - FURMAN",
-        "count": 13,
-        "totalValue": 5719900,
         "isOurs": false
       },
       {
@@ -1434,9 +1406,9 @@
         "isOurs": false
       },
       {
-        "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+        "name": "Nieruchomości Tectum",
         "count": 7,
-        "totalValue": 1814000,
+        "totalValue": 2765640,
         "isOurs": false
       },
       {
@@ -1446,45 +1418,15 @@
         "isOurs": false
       },
       {
-        "name": "NIERUCHOMOŚCI APARTAMENT Sp. Z o. O.",
+        "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
         "count": 5,
-        "totalValue": 5739000,
-        "isOurs": false
-      },
-      {
-        "name": "Metrohouse Poznań",
-        "count": 4,
-        "totalValue": 8040810,
+        "totalValue": 1554000,
         "isOurs": false
       },
       {
         "name": "Senger&Partners Nieruchomosci",
         "count": 3,
         "totalValue": 806287,
-        "isOurs": false
-      },
-      {
-        "name": "Biuro Obrotu Nieruchomościami Izabela Polcyn",
-        "count": 3,
-        "totalValue": 600300,
-        "isOurs": false
-      },
-      {
-        "name": "Goldberger Nieruchomości",
-        "count": 2,
-        "totalValue": 909000,
-        "isOurs": false
-      },
-      {
-        "name": "MUVON Nieruchomości",
-        "count": 2,
-        "totalValue": 398000,
-        "isOurs": false
-      },
-      {
-        "name": "Shark Nieruchomości",
-        "count": 2,
-        "totalValue": 2240000,
         "isOurs": false
       },
       {
@@ -1518,9 +1460,27 @@
         "isOurs": false
       },
       {
+        "name": "Goldberger Nieruchomości",
+        "count": 1,
+        "totalValue": 350000,
+        "isOurs": false
+      },
+      {
+        "name": "MUVON Nieruchomości",
+        "count": 1,
+        "totalValue": 199000,
+        "isOurs": false
+      },
+      {
         "name": "PHU Karol Skoczeń",
         "count": 1,
         "totalValue": 449000,
+        "isOurs": false
+      },
+      {
+        "name": "Shark Nieruchomości",
+        "count": 1,
+        "totalValue": 1120000,
         "isOurs": false
       },
       {
@@ -1629,42 +1589,6 @@
         "name": "Handom Nieruchomości",
         "count": 1,
         "totalValue": 117900,
-        "isOurs": false
-      },
-      {
-        "name": "PGN POLSKA",
-        "count": 1,
-        "totalValue": 989000,
-        "isOurs": false
-      },
-      {
-        "name": "Partners International",
-        "count": 1,
-        "totalValue": 699000,
-        "isOurs": false
-      },
-      {
-        "name": "CZAS NIERUCHOMOŚCI",
-        "count": 1,
-        "totalValue": 170000,
-        "isOurs": false
-      },
-      {
-        "name": "BON WINOGRADY",
-        "count": 1,
-        "totalValue": 225000,
-        "isOurs": false
-      },
-      {
-        "name": "Bylewscy Nieruchomości",
-        "count": 1,
-        "totalValue": 349000,
-        "isOurs": false
-      },
-      {
-        "name": "VanDer Haus Nieruchomości",
-        "count": 1,
-        "totalValue": 165000,
         "isOurs": false
       }
     ]
@@ -12890,39 +12814,19 @@
     },
     {
       "date": "2026-11-22",
-      "total": 762,
-      "private": 49,
-      "unknown": 475,
-      "knownAgent": 238,
+      "total": 763,
+      "private": 39,
+      "unknown": 598,
+      "knownAgent": 126,
       "topAgencies": [
         {
           "name": "DAN-DOM Biuro Obrotu Nieruchomościami Danuta Majchrzak",
-          "count": 48,
+          "count": 30,
           "isOurs": true
-        },
-        {
-          "name": "Nieruchomości Tectum",
-          "count": 32,
-          "isOurs": false
         },
         {
           "name": "Phinance S.A.",
           "count": 22,
-          "isOurs": false
-        },
-        {
-          "name": "Phinance Nieruchomości",
-          "count": 18,
-          "isOurs": false
-        },
-        {
-          "name": "FWK Nieruchomości",
-          "count": 15,
-          "isOurs": false
-        },
-        {
-          "name": "Nieruchomości - FURMAN",
-          "count": 13,
           "isOurs": false
         },
         {
@@ -12941,8 +12845,28 @@
           "isOurs": false
         },
         {
-          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "name": "Nieruchomości Tectum",
           "count": 7,
+          "isOurs": false
+        },
+        {
+          "name": "Nieruchomości Apartament Piła",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Biuro Obrotu Nieruchomościami Agnieszka Krzywonos",
+          "count": 5,
+          "isOurs": false
+        },
+        {
+          "name": "Senger&Partners Nieruchomosci",
+          "count": 3,
+          "isOurs": false
+        },
+        {
+          "name": "POLSKA GIEŁDA NIERUCHOMOŚCI",
+          "count": 2,
           "isOurs": false
         }
       ]
